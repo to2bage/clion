@@ -120,7 +120,7 @@ void myPrintf(char *str,...)
 }
 
 
-int main(int argc, char* argv[])
+int main可变参数(int argc, char* argv[])
 {
     {
         printf("%d\n", add(3, 1, 2, 3));

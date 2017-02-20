@@ -528,6 +528,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/位运算.c.s
 .PHONY : 位运算.c.s
 
+全局变量.o: 全局变量.c.o
+
+.PHONY : 全局变量.o
+
+# target to build an object file
+全局变量.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/全局变量.c.o
+.PHONY : 全局变量.c.o
+
+全局变量.i: 全局变量.c.i
+
+.PHONY : 全局变量.i
+
+# target to preprocess a source file
+全局变量.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/全局变量.c.i
+.PHONY : 全局变量.c.i
+
+全局变量.s: 全局变量.c.s
+
+.PHONY : 全局变量.s
+
+# target to generate assembly for a file
+全局变量.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/全局变量.c.s
+.PHONY : 全局变量.c.s
+
 内存实体以及运算符优先级.o: 内存实体以及运算符优先级.c.o
 
 .PHONY : 内存实体以及运算符优先级.o
@@ -906,6 +933,9 @@ help:
 	@echo "... 位运算.o"
 	@echo "... 位运算.i"
 	@echo "... 位运算.s"
+	@echo "... 全局变量.o"
+	@echo "... 全局变量.i"
+	@echo "... 全局变量.s"
 	@echo "... 内存实体以及运算符优先级.o"
 	@echo "... 内存实体以及运算符优先级.i"
 	@echo "... 内存实体以及运算符优先级.s"

@@ -19,6 +19,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/apple/Desktop/clion/test.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/test.c.o"
   "/Users/apple/Desktop/clion/while.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/while.c.o"
   "/Users/apple/Desktop/clion/位运算.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/位运算.c.o"
+  "/Users/apple/Desktop/clion/全局变量.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/全局变量.c.o"
   "/Users/apple/Desktop/clion/内存实体以及运算符优先级.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/内存实体以及运算符优先级.c.o"
   "/Users/apple/Desktop/clion/函数.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/函数.c.o"
   "/Users/apple/Desktop/clion/分离和穷举.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/分离和穷举.c.o"

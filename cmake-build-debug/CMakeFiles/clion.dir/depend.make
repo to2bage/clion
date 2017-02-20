@@ -29,6 +29,8 @@ CMakeFiles/clion.dir/while.c.o: ../while.c
 
 CMakeFiles/clion.dir/位运算.c.o: ../位运算.c
 
+CMakeFiles/clion.dir/全局变量.c.o: ../全局变量.c
+
 CMakeFiles/clion.dir/内存实体以及运算符优先级.c.o: ../内存实体以及运算符优先级.c
 
 CMakeFiles/clion.dir/函数.c.o: ../函数.c

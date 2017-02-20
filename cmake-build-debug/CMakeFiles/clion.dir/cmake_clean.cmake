@@ -26,6 +26,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/基本数据类型.c.o"
   "CMakeFiles/clion.dir/函数.c.o"
   "CMakeFiles/clion.dir/可变参数.c.o"
+  "CMakeFiles/clion.dir/全局变量.c.o"
   "clion.pdb"
   "clion"
 )
