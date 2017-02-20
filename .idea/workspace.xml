@@ -11,13 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81210ef-431a-4310-80b0-a179bc1b4857" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/可变参数.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/可变参数.c.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/clion" afterPath="$PROJECT_DIR$/cmake-build-debug/clion" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/C.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/C.includecache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/可变参数.c" afterPath="$PROJECT_DIR$/可变参数.c" />
-    </list>
+    <list default="true" id="c81210ef-431a-4310-80b0-a179bc1b4857" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,16 +36,6 @@
               <folding>
                 <element signature="e#40#58#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="for.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/for.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -112,14 +96,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="可变参数.c" pinned="false" current-in-tab="true">
+      <file leaf-file-name="可变参数.c" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/可变参数.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="100" column="37" lean-forward="true" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
+            <state relative-caret-position="133">
+              <caret line="105" column="13" lean-forward="false" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
               <folding>
                 <element signature="e#40#58#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="全局变量.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/全局变量.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -182,6 +176,7 @@
         <option value="$PROJECT_DIR$/基本数据类型.c" />
         <option value="$PROJECT_DIR$/函数.c" />
         <option value="$PROJECT_DIR$/可变参数.c" />
+        <option value="$PROJECT_DIR$/全局变量.c" />
       </list>
     </option>
   </component>
@@ -192,9 +187,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="356" />
+    <option name="x" value="680" />
     <option name="y" value="22" />
-    <option name="width" value="1071" />
+    <option name="width" value="747" />
     <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -437,7 +432,7 @@
       <workItem from="1487292611659" duration="14548000" />
       <workItem from="1487317709374" duration="1453000" />
       <workItem from="1487551456783" duration="3268000" />
-      <workItem from="1487571792813" duration="3893000" />
+      <workItem from="1487571792813" duration="5103000" />
     </task>
     <task id="LOCAL-00001" summary="xiugai">
       <created>1487305470695</created>
@@ -460,11 +455,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487575147116</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="xiugai">
+      <created>1487577519527</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1487577519527</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75671000" />
+    <option name="totallyTimeSpent" value="76881000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -476,7 +478,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="356" y="22" width="1071" height="874" extended-state="0" />
+    <frame x="680" y="22" width="747" height="874" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24571429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -516,13 +518,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1824">
-          <caret line="96" column="10" lean-forward="false" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/输入输出小结.c">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -876,11 +871,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/可变参数.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="100" column="37" lean-forward="true" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
+        <state relative-caret-position="133">
+          <caret line="105" column="13" lean-forward="false" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
           <folding>
             <element signature="e#40#58#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/全局变量.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
