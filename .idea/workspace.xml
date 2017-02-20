@@ -12,21 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c81210ef-431a-4310-80b0-a179bc1b4857" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/可变参数.c.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/可变参数.c.o" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/clion" afterPath="$PROJECT_DIR$/cmake-build-debug/clion" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/C.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/C.includecache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/DependInfo.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/build.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/cmake_clean.cmake" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/depend.internal" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/depend.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/link.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion.dir/progress.make" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/clion.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/clion.cbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/函数.c" afterPath="$PROJECT_DIR$/函数.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/可变参数.c" afterPath="$PROJECT_DIR$/可变参数.c" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -125,8 +115,8 @@
       <file leaf-file-name="可变参数.c" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/可变参数.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+            <state relative-caret-position="222">
+              <caret line="100" column="37" lean-forward="true" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
               <folding>
                 <element signature="e#40#58#0" expanded="true" />
               </folding>
@@ -447,7 +437,7 @@
       <workItem from="1487292611659" duration="14548000" />
       <workItem from="1487317709374" duration="1453000" />
       <workItem from="1487551456783" duration="3268000" />
-      <workItem from="1487571792813" duration="2409000" />
+      <workItem from="1487571792813" duration="3893000" />
     </task>
     <task id="LOCAL-00001" summary="xiugai">
       <created>1487305470695</created>
@@ -463,11 +453,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487557177721</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="xiugai">
+      <created>1487575147116</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1487575147116</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74187000" />
+    <option name="totallyTimeSpent" value="75671000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -879,8 +876,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/可变参数.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+        <state relative-caret-position="222">
+          <caret line="100" column="37" lean-forward="true" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
           <folding>
             <element signature="e#40#58#0" expanded="true" />
           </folding>

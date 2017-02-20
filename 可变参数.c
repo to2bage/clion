@@ -3,6 +3,7 @@
 //
 #include <stdio.h>
 #include <stdarg.h>
+#include <string.h>
 
 int add(int argsNumber,...) //argsNumber表示参数的数量
 {
@@ -59,6 +60,7 @@ void showInt(int start, ...)
 
 void myPrintf(char *str,...)
 {
+    //myPrintf("%d, %f, %s, %c\n", 10, 23.56, "hello myPrintf", 'A');
     //定义一个char*类型的指针， 并分配一片内存
     va_list argp;
     //把str之后的内容拷贝到这片新分配的内存中
@@ -70,14 +72,43 @@ void myPrintf(char *str,...)
         if (*pstart == '%')
         {
             //读到的字符是%表示是一个数据类型的格式
+            pstart++;
+            char ch = *pstart;
+            switch(ch)
+            {
+                case 'd':
+                {
+                    int inum = va_arg(argp, int);
+                    printf("%d", inum);
+                    break;
+                }
+                case 'f':
+                {
+                    double dnum = va_arg(argp, double);
+                    printf("%f", dnum);
+                    break;
+                }
+                case 's':
+                {
+                    char str[100] = {0};
+                    strcpy(str, va_arg(argp, char*));
+                    printf("%s",str);
+                    break;
+                }
+                case 'c':
+                {
+                    char ch = va_arg(argp, char);
+                    printf("%c", ch);
+                    break;
+                }
+                default:
+                    break;
+            }
         }
-        else if (*pstart == ' ')
+        else
         {
-            //读到空格字符， 表示要输出一个空格
-        }
-        else if (*pstart == '\n')
-        {
-            //读到转义字符， 表示要按照相应的转义字符，输出一定的格式
+            //读到字符'，'就输出'，' 读到空格就输出空格，读到转义字符就输出转义字符
+            printf("%c", *pstart);
         }
 
         //让指针前行
