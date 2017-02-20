@@ -231,6 +231,141 @@ clion/fast:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/05.c.s
 .PHONY : 05.c.s
 
+20150403.o: 20150403.c.o
+
+.PHONY : 20150403.o
+
+# target to build an object file
+20150403.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150403.c.o
+.PHONY : 20150403.c.o
+
+20150403.i: 20150403.c.i
+
+.PHONY : 20150403.i
+
+# target to preprocess a source file
+20150403.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150403.c.i
+.PHONY : 20150403.c.i
+
+20150403.s: 20150403.c.s
+
+.PHONY : 20150403.s
+
+# target to generate assembly for a file
+20150403.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150403.c.s
+.PHONY : 20150403.c.s
+
+auto.o: auto.c.o
+
+.PHONY : auto.o
+
+# target to build an object file
+auto.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/auto.c.o
+.PHONY : auto.c.o
+
+auto.i: auto.c.i
+
+.PHONY : auto.i
+
+# target to preprocess a source file
+auto.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/auto.c.i
+.PHONY : auto.c.i
+
+auto.s: auto.c.s
+
+.PHONY : auto.s
+
+# target to generate assembly for a file
+auto.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/auto.c.s
+.PHONY : auto.c.s
+
+bool.o: bool.c.o
+
+.PHONY : bool.o
+
+# target to build an object file
+bool.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/bool.c.o
+.PHONY : bool.c.o
+
+bool.i: bool.c.i
+
+.PHONY : bool.i
+
+# target to preprocess a source file
+bool.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/bool.c.i
+.PHONY : bool.c.i
+
+bool.s: bool.c.s
+
+.PHONY : bool.s
+
+# target to generate assembly for a file
+bool.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/bool.c.s
+.PHONY : bool.c.s
+
+enum.o: enum.c.o
+
+.PHONY : enum.o
+
+# target to build an object file
+enum.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/enum.c.o
+.PHONY : enum.c.o
+
+enum.i: enum.c.i
+
+.PHONY : enum.i
+
+# target to preprocess a source file
+enum.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/enum.c.i
+.PHONY : enum.c.i
+
+enum.s: enum.c.s
+
+.PHONY : enum.s
+
+# target to generate assembly for a file
+enum.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/enum.c.s
+.PHONY : enum.c.s
+
+for.o: for.c.o
+
+.PHONY : for.o
+
+# target to build an object file
+for.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/for.c.o
+.PHONY : for.c.o
+
+for.i: for.c.i
+
+.PHONY : for.i
+
+# target to preprocess a source file
+for.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/for.c.i
+.PHONY : for.c.i
+
+for.s: for.c.s
+
+.PHONY : for.s
+
+# target to generate assembly for a file
+for.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/for.c.s
+.PHONY : for.c.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -312,6 +447,60 @@ scanf正则表达式.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/scanf正则表达式.c.s
 .PHONY : scanf正则表达式.c.s
 
+test.o: test.c.o
+
+.PHONY : test.o
+
+# target to build an object file
+test.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/test.c.o
+.PHONY : test.c.o
+
+test.i: test.c.i
+
+.PHONY : test.i
+
+# target to preprocess a source file
+test.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/test.c.i
+.PHONY : test.c.i
+
+test.s: test.c.s
+
+.PHONY : test.s
+
+# target to generate assembly for a file
+test.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/test.c.s
+.PHONY : test.c.s
+
+while.o: while.c.o
+
+.PHONY : while.o
+
+# target to build an object file
+while.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/while.c.o
+.PHONY : while.c.o
+
+while.i: while.c.i
+
+.PHONY : while.i
+
+# target to preprocess a source file
+while.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/while.c.i
+.PHONY : while.c.i
+
+while.s: while.c.s
+
+.PHONY : while.s
+
+# target to generate assembly for a file
+while.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/while.c.s
+.PHONY : while.c.s
+
 位运算.o: 位运算.c.o
 
 .PHONY : 位运算.o
@@ -366,6 +555,249 @@ scanf正则表达式.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存实体以及运算符优先级.c.s
 .PHONY : 内存实体以及运算符优先级.c.s
 
+函数.o: 函数.c.o
+
+.PHONY : 函数.o
+
+# target to build an object file
+函数.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数.c.o
+.PHONY : 函数.c.o
+
+函数.i: 函数.c.i
+
+.PHONY : 函数.i
+
+# target to preprocess a source file
+函数.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数.c.i
+.PHONY : 函数.c.i
+
+函数.s: 函数.c.s
+
+.PHONY : 函数.s
+
+# target to generate assembly for a file
+函数.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数.c.s
+.PHONY : 函数.c.s
+
+分离和穷举.o: 分离和穷举.c.o
+
+.PHONY : 分离和穷举.o
+
+# target to build an object file
+分离和穷举.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/分离和穷举.c.o
+.PHONY : 分离和穷举.c.o
+
+分离和穷举.i: 分离和穷举.c.i
+
+.PHONY : 分离和穷举.i
+
+# target to preprocess a source file
+分离和穷举.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/分离和穷举.c.i
+.PHONY : 分离和穷举.c.i
+
+分离和穷举.s: 分离和穷举.c.s
+
+.PHONY : 分离和穷举.s
+
+# target to generate assembly for a file
+分离和穷举.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/分离和穷举.c.s
+.PHONY : 分离和穷举.c.s
+
+基本数据类型.o: 基本数据类型.c.o
+
+.PHONY : 基本数据类型.o
+
+# target to build an object file
+基本数据类型.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/基本数据类型.c.o
+.PHONY : 基本数据类型.c.o
+
+基本数据类型.i: 基本数据类型.c.i
+
+.PHONY : 基本数据类型.i
+
+# target to preprocess a source file
+基本数据类型.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/基本数据类型.c.i
+.PHONY : 基本数据类型.c.i
+
+基本数据类型.s: 基本数据类型.c.s
+
+.PHONY : 基本数据类型.s
+
+# target to generate assembly for a file
+基本数据类型.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/基本数据类型.c.s
+.PHONY : 基本数据类型.c.s
+
+宽字符.o: 宽字符.c.o
+
+.PHONY : 宽字符.o
+
+# target to build an object file
+宽字符.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/宽字符.c.o
+.PHONY : 宽字符.c.o
+
+宽字符.i: 宽字符.c.i
+
+.PHONY : 宽字符.i
+
+# target to preprocess a source file
+宽字符.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/宽字符.c.i
+.PHONY : 宽字符.c.i
+
+宽字符.s: 宽字符.c.s
+
+.PHONY : 宽字符.s
+
+# target to generate assembly for a file
+宽字符.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/宽字符.c.s
+.PHONY : 宽字符.c.s
+
+循环总结.o: 循环总结.c.o
+
+.PHONY : 循环总结.o
+
+# target to build an object file
+循环总结.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/循环总结.c.o
+.PHONY : 循环总结.c.o
+
+循环总结.i: 循环总结.c.i
+
+.PHONY : 循环总结.i
+
+# target to preprocess a source file
+循环总结.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/循环总结.c.i
+.PHONY : 循环总结.c.i
+
+循环总结.s: 循环总结.c.s
+
+.PHONY : 循环总结.s
+
+# target to generate assembly for a file
+循环总结.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/循环总结.c.s
+.PHONY : 循环总结.c.s
+
+查找进程.o: 查找进程.c.o
+
+.PHONY : 查找进程.o
+
+# target to build an object file
+查找进程.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/查找进程.c.o
+.PHONY : 查找进程.c.o
+
+查找进程.i: 查找进程.c.i
+
+.PHONY : 查找进程.i
+
+# target to preprocess a source file
+查找进程.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/查找进程.c.i
+.PHONY : 查找进程.c.i
+
+查找进程.s: 查找进程.c.s
+
+.PHONY : 查找进程.s
+
+# target to generate assembly for a file
+查找进程.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/查找进程.c.s
+.PHONY : 查找进程.c.s
+
+测试whiledo.o: 测试whiledo.c.o
+
+.PHONY : 测试whiledo.o
+
+# target to build an object file
+测试whiledo.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/测试whiledo.c.o
+.PHONY : 测试whiledo.c.o
+
+测试whiledo.i: 测试whiledo.c.i
+
+.PHONY : 测试whiledo.i
+
+# target to preprocess a source file
+测试whiledo.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/测试whiledo.c.i
+.PHONY : 测试whiledo.c.i
+
+测试whiledo.s: 测试whiledo.c.s
+
+.PHONY : 测试whiledo.s
+
+# target to generate assembly for a file
+测试whiledo.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/测试whiledo.c.s
+.PHONY : 测试whiledo.c.s
+
+练习.o: 练习.c.o
+
+.PHONY : 练习.o
+
+# target to build an object file
+练习.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/练习.c.o
+.PHONY : 练习.c.o
+
+练习.i: 练习.c.i
+
+.PHONY : 练习.i
+
+# target to preprocess a source file
+练习.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/练习.c.i
+.PHONY : 练习.c.i
+
+练习.s: 练习.c.s
+
+.PHONY : 练习.s
+
+# target to generate assembly for a file
+练习.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/练习.c.s
+.PHONY : 练习.c.s
+
+赌博.o: 赌博.c.o
+
+.PHONY : 赌博.o
+
+# target to build an object file
+赌博.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/赌博.c.o
+.PHONY : 赌博.c.o
+
+赌博.i: 赌博.c.i
+
+.PHONY : 赌博.i
+
+# target to preprocess a source file
+赌博.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/赌博.c.i
+.PHONY : 赌博.c.i
+
+赌博.s: 赌博.c.s
+
+.PHONY : 赌博.s
+
+# target to generate assembly for a file
+赌博.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/赌博.c.s
+.PHONY : 赌博.c.s
+
 输入输出小结.o: 输入输出小结.c.o
 
 .PHONY : 输入输出小结.o
@@ -414,6 +846,21 @@ help:
 	@echo "... 05.o"
 	@echo "... 05.i"
 	@echo "... 05.s"
+	@echo "... 20150403.o"
+	@echo "... 20150403.i"
+	@echo "... 20150403.s"
+	@echo "... auto.o"
+	@echo "... auto.i"
+	@echo "... auto.s"
+	@echo "... bool.o"
+	@echo "... bool.i"
+	@echo "... bool.s"
+	@echo "... enum.o"
+	@echo "... enum.i"
+	@echo "... enum.s"
+	@echo "... for.o"
+	@echo "... for.i"
+	@echo "... for.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
@@ -423,12 +870,45 @@ help:
 	@echo "... scanf正则表达式.o"
 	@echo "... scanf正则表达式.i"
 	@echo "... scanf正则表达式.s"
+	@echo "... test.o"
+	@echo "... test.i"
+	@echo "... test.s"
+	@echo "... while.o"
+	@echo "... while.i"
+	@echo "... while.s"
 	@echo "... 位运算.o"
 	@echo "... 位运算.i"
 	@echo "... 位运算.s"
 	@echo "... 内存实体以及运算符优先级.o"
 	@echo "... 内存实体以及运算符优先级.i"
 	@echo "... 内存实体以及运算符优先级.s"
+	@echo "... 函数.o"
+	@echo "... 函数.i"
+	@echo "... 函数.s"
+	@echo "... 分离和穷举.o"
+	@echo "... 分离和穷举.i"
+	@echo "... 分离和穷举.s"
+	@echo "... 基本数据类型.o"
+	@echo "... 基本数据类型.i"
+	@echo "... 基本数据类型.s"
+	@echo "... 宽字符.o"
+	@echo "... 宽字符.i"
+	@echo "... 宽字符.s"
+	@echo "... 循环总结.o"
+	@echo "... 循环总结.i"
+	@echo "... 循环总结.s"
+	@echo "... 查找进程.o"
+	@echo "... 查找进程.i"
+	@echo "... 查找进程.s"
+	@echo "... 测试whiledo.o"
+	@echo "... 测试whiledo.i"
+	@echo "... 测试whiledo.s"
+	@echo "... 练习.o"
+	@echo "... 练习.i"
+	@echo "... 练习.s"
+	@echo "... 赌博.o"
+	@echo "... 赌博.i"
+	@echo "... 赌博.s"
 	@echo "... 输入输出小结.o"
 	@echo "... 输入输出小结.i"
 	@echo "... 输入输出小结.s"

@@ -2,8 +2,10 @@
 // Created by apple on 2017/2/17.
 //
 #include <stdio.h>
+#include <stdlib.h> //system
+#include <zconf.h> //sleep
 
-int main(int argc, char* argv[])
+int main循环总结(int argc, char* argv[])
 {
     {
 //        int num = 0;
@@ -160,6 +162,44 @@ int main(int argc, char* argv[])
 //                    break;
                 }
             }
+        }
+    }
+    {
+        //goto模拟break,continue
+        int i = 100;
+        for(; i < 200; i++)
+        {
+            if (i % 3 == 0)
+            {
+                goto RECT;
+            }
+        }
+        RECT:
+        printf("%d\n", i);
+    }
+    {
+        int i = 100;
+        Loop:
+        if(i++ < 200)
+        {
+            if (i % 3 == 0)
+            {
+                printf("%d\n", i);
+                goto end;
+            }
+            goto Loop;
+        }
+        end:
+        printf("完成查找\n");
+    }
+    {
+        int i = 0;
+        while(++i)
+        {
+            char str[100] = {0};
+            sprintf(str, "当前时间第%d秒\r", i);
+            printf("\033[1;32;47m%s\033[0m\n", str);
+            sleep(1);
         }
     }
 

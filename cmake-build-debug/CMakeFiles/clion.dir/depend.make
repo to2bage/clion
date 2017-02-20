@@ -9,13 +9,45 @@ CMakeFiles/clion.dir/04.c.o: ../04.c
 
 CMakeFiles/clion.dir/05.c.o: ../05.c
 
+CMakeFiles/clion.dir/20150403.c.o: ../20150403.c
+
+CMakeFiles/clion.dir/auto.c.o: ../auto.c
+
+CMakeFiles/clion.dir/bool.c.o: ../bool.c
+
+CMakeFiles/clion.dir/enum.c.o: ../enum.c
+
+CMakeFiles/clion.dir/for.c.o: ../for.c
+
 CMakeFiles/clion.dir/printscanf.c.o: ../printscanf.c
 
 CMakeFiles/clion.dir/scanf正则表达式.c.o: ../scanf正则表达式.c
 
+CMakeFiles/clion.dir/test.c.o: ../test.c
+
+CMakeFiles/clion.dir/while.c.o: ../while.c
+
 CMakeFiles/clion.dir/位运算.c.o: ../位运算.c
 
 CMakeFiles/clion.dir/内存实体以及运算符优先级.c.o: ../内存实体以及运算符优先级.c
+
+CMakeFiles/clion.dir/函数.c.o: ../函数.c
+
+CMakeFiles/clion.dir/分离和穷举.c.o: ../分离和穷举.c
+
+CMakeFiles/clion.dir/基本数据类型.c.o: ../基本数据类型.c
+
+CMakeFiles/clion.dir/宽字符.c.o: ../宽字符.c
+
+CMakeFiles/clion.dir/循环总结.c.o: ../循环总结.c
+
+CMakeFiles/clion.dir/查找进程.c.o: ../查找进程.c
+
+CMakeFiles/clion.dir/测试whiledo.c.o: ../测试whiledo.c
+
+CMakeFiles/clion.dir/练习.c.o: ../练习.c
+
+CMakeFiles/clion.dir/赌博.c.o: ../赌博.c
 
 CMakeFiles/clion.dir/输入输出小结.c.o: ../输入输出小结.c
 
