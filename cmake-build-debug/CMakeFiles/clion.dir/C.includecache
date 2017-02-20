@@ -92,6 +92,12 @@ math.h
 stdbool.h
 -
 
+/Users/apple/Desktop/clion/可变参数.c
+stdio.h
+-
+stdarg.h
+-
+
 /Users/apple/Desktop/clion/基本数据类型.c
 stdio.h
 -

@@ -609,6 +609,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/分离和穷举.c.s
 .PHONY : 分离和穷举.c.s
 
+可变参数.o: 可变参数.c.o
+
+.PHONY : 可变参数.o
+
+# target to build an object file
+可变参数.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/可变参数.c.o
+.PHONY : 可变参数.c.o
+
+可变参数.i: 可变参数.c.i
+
+.PHONY : 可变参数.i
+
+# target to preprocess a source file
+可变参数.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/可变参数.c.i
+.PHONY : 可变参数.c.i
+
+可变参数.s: 可变参数.c.s
+
+.PHONY : 可变参数.s
+
+# target to generate assembly for a file
+可变参数.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/可变参数.c.s
+.PHONY : 可变参数.c.s
+
 基本数据类型.o: 基本数据类型.c.o
 
 .PHONY : 基本数据类型.o
@@ -888,6 +915,9 @@ help:
 	@echo "... 分离和穷举.o"
 	@echo "... 分离和穷举.i"
 	@echo "... 分离和穷举.s"
+	@echo "... 可变参数.o"
+	@echo "... 可变参数.i"
+	@echo "... 可变参数.s"
 	@echo "... 基本数据类型.o"
 	@echo "... 基本数据类型.i"
 	@echo "... 基本数据类型.s"

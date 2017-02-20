@@ -134,6 +134,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/分离和穷举.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/可变参数.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/基本数据类型.c">
 			<Option target="clion"/>
 		</Unit>

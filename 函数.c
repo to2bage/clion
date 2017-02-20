@@ -8,8 +8,13 @@ int getmax(int a, int b)
 {
     return a > b ? a : b;
 }
+int show(int a, int b)
+{
+//    printf("a = %d, b = %d\n", a, b);
+    return a + b;
+}
 
-int main(int argc, char* argv[])
+int main函数(int argc, char* argv[])
 {
     {
 //        int a , b;
@@ -21,7 +26,9 @@ int main(int argc, char* argv[])
 //        printf("%d\n", a / b);
     }
     {
-        printf("addr = %p\n", getmax);
+        int a = 5;
+//        show(a, a++);   // 5, 5
+        //show(1,2,3);
 
     }
 

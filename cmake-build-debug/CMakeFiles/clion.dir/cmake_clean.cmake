@@ -25,6 +25,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/分离和穷举.c.o"
   "CMakeFiles/clion.dir/基本数据类型.c.o"
   "CMakeFiles/clion.dir/函数.c.o"
+  "CMakeFiles/clion.dir/可变参数.c.o"
   "clion.pdb"
   "clion"
 )

@@ -22,6 +22,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/apple/Desktop/clion/内存实体以及运算符优先级.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/内存实体以及运算符优先级.c.o"
   "/Users/apple/Desktop/clion/函数.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/函数.c.o"
   "/Users/apple/Desktop/clion/分离和穷举.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/分离和穷举.c.o"
+  "/Users/apple/Desktop/clion/可变参数.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/可变参数.c.o"
   "/Users/apple/Desktop/clion/基本数据类型.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/基本数据类型.c.o"
   "/Users/apple/Desktop/clion/宽字符.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/宽字符.c.o"
   "/Users/apple/Desktop/clion/循环总结.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/循环总结.c.o"
