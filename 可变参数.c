@@ -57,6 +57,38 @@ void showInt(int start, ...)
     return;
 }
 
+void myPrintf(char *str,...)
+{
+    //定义一个char*类型的指针， 并分配一片内存
+    va_list argp;
+    //把str之后的内容拷贝到这片新分配的内存中
+    va_start(argp, str);
+    //解析 格式化的字符串str
+    char *pstart = str; //定义pstart指向str的首地址
+    while(*pstart != '\0')
+    {
+        if (*pstart == '%')
+        {
+            //读到的字符是%表示是一个数据类型的格式
+        }
+        else if (*pstart == ' ')
+        {
+            //读到空格字符， 表示要输出一个空格
+        }
+        else if (*pstart == '\n')
+        {
+            //读到转义字符， 表示要按照相应的转义字符，输出一定的格式
+        }
+
+        //让指针前行
+        pstart++;
+    }
+    //释放分配的内存
+    va_end(argp);
+    return;
+}
+
+
 int main(int argc, char* argv[])
 {
     {
@@ -71,6 +103,10 @@ int main(int argc, char* argv[])
         showInt(12, 34,56, 78, -1); //约定-1表示参数的结束
         showInt(34, 78, 12, -1);
         showInt(-1, 34, 890, -1);
+    }
+    {
+        //自己实现printf函数
+        myPrintf("%d, %f, %s, %c\n", 10, 23.56, "hello myPrintf", 'A');
     }
 
     return 0;
