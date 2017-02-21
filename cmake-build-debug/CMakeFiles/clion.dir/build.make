@@ -729,6 +729,78 @@ CMakeFiles/clion.dir/全局变量.c.o.provides: CMakeFiles/clion.dir/全局变�
 CMakeFiles/clion.dir/全局变量.c.o.provides.build: CMakeFiles/clion.dir/全局变量.c.o
 
 
+CMakeFiles/clion.dir/线性递归.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/线性递归.c.o: ../线性递归.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/clion.dir/线性递归.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/线性递归.c.o   -c /Users/apple/Desktop/clion/线性递归.c
+
+CMakeFiles/clion.dir/线性递归.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/线性递归.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/线性递归.c > CMakeFiles/clion.dir/线性递归.c.i
+
+CMakeFiles/clion.dir/线性递归.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/线性递归.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/线性递归.c -o CMakeFiles/clion.dir/线性递归.c.s
+
+CMakeFiles/clion.dir/线性递归.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/线性递归.c.o.requires
+
+CMakeFiles/clion.dir/线性递归.c.o.provides: CMakeFiles/clion.dir/线性递归.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/线性递归.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/线性递归.c.o.provides
+
+CMakeFiles/clion.dir/线性递归.c.o.provides.build: CMakeFiles/clion.dir/线性递归.c.o
+
+
+CMakeFiles/clion.dir/树状递归.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/树状递归.c.o: ../树状递归.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/clion.dir/树状递归.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/树状递归.c.o   -c /Users/apple/Desktop/clion/树状递归.c
+
+CMakeFiles/clion.dir/树状递归.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/树状递归.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/树状递归.c > CMakeFiles/clion.dir/树状递归.c.i
+
+CMakeFiles/clion.dir/树状递归.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/树状递归.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/树状递归.c -o CMakeFiles/clion.dir/树状递归.c.s
+
+CMakeFiles/clion.dir/树状递归.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/树状递归.c.o.requires
+
+CMakeFiles/clion.dir/树状递归.c.o.provides: CMakeFiles/clion.dir/树状递归.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/树状递归.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/树状递归.c.o.provides
+
+CMakeFiles/clion.dir/树状递归.c.o.provides.build: CMakeFiles/clion.dir/树状递归.c.o
+
+
+CMakeFiles/clion.dir/汉诺塔.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/汉诺塔.c.o: ../汉诺塔.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/clion.dir/汉诺塔.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/汉诺塔.c.o   -c /Users/apple/Desktop/clion/汉诺塔.c
+
+CMakeFiles/clion.dir/汉诺塔.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/汉诺塔.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/汉诺塔.c > CMakeFiles/clion.dir/汉诺塔.c.i
+
+CMakeFiles/clion.dir/汉诺塔.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/汉诺塔.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/汉诺塔.c -o CMakeFiles/clion.dir/汉诺塔.c.s
+
+CMakeFiles/clion.dir/汉诺塔.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/汉诺塔.c.o.requires
+
+CMakeFiles/clion.dir/汉诺塔.c.o.provides: CMakeFiles/clion.dir/汉诺塔.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/汉诺塔.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/汉诺塔.c.o.provides
+
+CMakeFiles/clion.dir/汉诺塔.c.o.provides.build: CMakeFiles/clion.dir/汉诺塔.c.o
+
+
 # Object files for target clion
 clion_OBJECTS = \
 "CMakeFiles/clion.dir/main.cpp.o" \
@@ -758,7 +830,10 @@ clion_OBJECTS = \
 "CMakeFiles/clion.dir/基本数据类型.c.o" \
 "CMakeFiles/clion.dir/函数.c.o" \
 "CMakeFiles/clion.dir/可变参数.c.o" \
-"CMakeFiles/clion.dir/全局变量.c.o"
+"CMakeFiles/clion.dir/全局变量.c.o" \
+"CMakeFiles/clion.dir/线性递归.c.o" \
+"CMakeFiles/clion.dir/树状递归.c.o" \
+"CMakeFiles/clion.dir/汉诺塔.c.o"
 
 # External object files for target clion
 clion_EXTERNAL_OBJECTS =
@@ -791,9 +866,12 @@ clion: CMakeFiles/clion.dir/基本数据类型.c.o
 clion: CMakeFiles/clion.dir/函数.c.o
 clion: CMakeFiles/clion.dir/可变参数.c.o
 clion: CMakeFiles/clion.dir/全局变量.c.o
+clion: CMakeFiles/clion.dir/线性递归.c.o
+clion: CMakeFiles/clion.dir/树状递归.c.o
+clion: CMakeFiles/clion.dir/汉诺塔.c.o
 clion: CMakeFiles/clion.dir/build.make
 clion: CMakeFiles/clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking CXX executable clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Linking CXX executable clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -829,6 +907,9 @@ CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/基本数据类型.c.o.requi
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/函数.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/可变参数.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/全局变量.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/线性递归.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/树状递归.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/汉诺塔.c.o.requires
 
 .PHONY : CMakeFiles/clion.dir/requires
 

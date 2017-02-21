@@ -47,7 +47,13 @@ CMakeFiles/clion.dir/循环总结.c.o: ../循环总结.c
 
 CMakeFiles/clion.dir/查找进程.c.o: ../查找进程.c
 
+CMakeFiles/clion.dir/树状递归.c.o: ../树状递归.c
+
+CMakeFiles/clion.dir/汉诺塔.c.o: ../汉诺塔.c
+
 CMakeFiles/clion.dir/测试whiledo.c.o: ../测试whiledo.c
+
+CMakeFiles/clion.dir/线性递归.c.o: ../线性递归.c
 
 CMakeFiles/clion.dir/练习.c.o: ../练习.c
 

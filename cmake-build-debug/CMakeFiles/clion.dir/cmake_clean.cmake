@@ -27,6 +27,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/函数.c.o"
   "CMakeFiles/clion.dir/可变参数.c.o"
   "CMakeFiles/clion.dir/全局变量.c.o"
+  "CMakeFiles/clion.dir/线性递归.c.o"
+  "CMakeFiles/clion.dir/树状递归.c.o"
+  "CMakeFiles/clion.dir/汉诺塔.c.o"
   "clion.pdb"
   "clion"
 )

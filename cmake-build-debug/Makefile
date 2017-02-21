@@ -771,6 +771,60 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/查找进程.c.s
 .PHONY : 查找进程.c.s
 
+树状递归.o: 树状递归.c.o
+
+.PHONY : 树状递归.o
+
+# target to build an object file
+树状递归.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/树状递归.c.o
+.PHONY : 树状递归.c.o
+
+树状递归.i: 树状递归.c.i
+
+.PHONY : 树状递归.i
+
+# target to preprocess a source file
+树状递归.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/树状递归.c.i
+.PHONY : 树状递归.c.i
+
+树状递归.s: 树状递归.c.s
+
+.PHONY : 树状递归.s
+
+# target to generate assembly for a file
+树状递归.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/树状递归.c.s
+.PHONY : 树状递归.c.s
+
+汉诺塔.o: 汉诺塔.c.o
+
+.PHONY : 汉诺塔.o
+
+# target to build an object file
+汉诺塔.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/汉诺塔.c.o
+.PHONY : 汉诺塔.c.o
+
+汉诺塔.i: 汉诺塔.c.i
+
+.PHONY : 汉诺塔.i
+
+# target to preprocess a source file
+汉诺塔.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/汉诺塔.c.i
+.PHONY : 汉诺塔.c.i
+
+汉诺塔.s: 汉诺塔.c.s
+
+.PHONY : 汉诺塔.s
+
+# target to generate assembly for a file
+汉诺塔.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/汉诺塔.c.s
+.PHONY : 汉诺塔.c.s
+
 测试whiledo.o: 测试whiledo.c.o
 
 .PHONY : 测试whiledo.o
@@ -797,6 +851,33 @@ while.c.s:
 测试whiledo.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/测试whiledo.c.s
 .PHONY : 测试whiledo.c.s
+
+线性递归.o: 线性递归.c.o
+
+.PHONY : 线性递归.o
+
+# target to build an object file
+线性递归.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/线性递归.c.o
+.PHONY : 线性递归.c.o
+
+线性递归.i: 线性递归.c.i
+
+.PHONY : 线性递归.i
+
+# target to preprocess a source file
+线性递归.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/线性递归.c.i
+.PHONY : 线性递归.c.i
+
+线性递归.s: 线性递归.c.s
+
+.PHONY : 线性递归.s
+
+# target to generate assembly for a file
+线性递归.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/线性递归.c.s
+.PHONY : 线性递归.c.s
 
 练习.o: 练习.c.o
 
@@ -960,9 +1041,18 @@ help:
 	@echo "... 查找进程.o"
 	@echo "... 查找进程.i"
 	@echo "... 查找进程.s"
+	@echo "... 树状递归.o"
+	@echo "... 树状递归.i"
+	@echo "... 树状递归.s"
+	@echo "... 汉诺塔.o"
+	@echo "... 汉诺塔.i"
+	@echo "... 汉诺塔.s"
 	@echo "... 测试whiledo.o"
 	@echo "... 测试whiledo.i"
 	@echo "... 测试whiledo.s"
+	@echo "... 线性递归.o"
+	@echo "... 线性递归.i"
+	@echo "... 线性递归.s"
 	@echo "... 练习.o"
 	@echo "... 练习.i"
 	@echo "... 练习.s"
