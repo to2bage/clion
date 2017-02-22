@@ -119,6 +119,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/test.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/volatile.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/while.c">
 			<Option target="clion"/>
 		</Unit>
@@ -137,6 +140,12 @@
 		<Unit filename="/Users/apple/Desktop/clion/分离和穷举.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/加减法的位运算的实现.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/原码反码补码.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/可变参数.c">
 			<Option target="clion"/>
 		</Unit>
@@ -146,7 +155,13 @@
 		<Unit filename="/Users/apple/Desktop/clion/宽字符.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/寄存器变量.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/循环总结.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/最小公倍数最大公约数.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/查找进程.c">
@@ -171,6 +186,9 @@
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/输入输出小结.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/进制转换.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/CMakeLists.txt">

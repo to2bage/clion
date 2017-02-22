@@ -120,7 +120,7 @@ static void hanno(int n, char A, char B, char C)
 }
 
 
-int main(int argc, char* argv[])
+int main汉诺塔(int argc, char* argv[])
 {
     {
         //汉诺塔

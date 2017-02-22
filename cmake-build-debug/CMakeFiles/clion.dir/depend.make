@@ -25,6 +25,8 @@ CMakeFiles/clion.dir/scanf正则表达式.c.o: ../scanf正则表达式.c
 
 CMakeFiles/clion.dir/test.c.o: ../test.c
 
+CMakeFiles/clion.dir/volatile.c.o: ../volatile.c
+
 CMakeFiles/clion.dir/while.c.o: ../while.c
 
 CMakeFiles/clion.dir/位运算.c.o: ../位运算.c
@@ -37,13 +39,21 @@ CMakeFiles/clion.dir/函数.c.o: ../函数.c
 
 CMakeFiles/clion.dir/分离和穷举.c.o: ../分离和穷举.c
 
+CMakeFiles/clion.dir/加减法的位运算的实现.c.o: ../加减法的位运算的实现.c
+
+CMakeFiles/clion.dir/原码反码补码.c.o: ../原码反码补码.c
+
 CMakeFiles/clion.dir/可变参数.c.o: ../可变参数.c
 
 CMakeFiles/clion.dir/基本数据类型.c.o: ../基本数据类型.c
 
 CMakeFiles/clion.dir/宽字符.c.o: ../宽字符.c
 
+CMakeFiles/clion.dir/寄存器变量.c.o: ../寄存器变量.c
+
 CMakeFiles/clion.dir/循环总结.c.o: ../循环总结.c
+
+CMakeFiles/clion.dir/最小公倍数最大公约数.c.o: ../最小公倍数最大公约数.c
 
 CMakeFiles/clion.dir/查找进程.c.o: ../查找进程.c
 
@@ -60,6 +70,8 @@ CMakeFiles/clion.dir/练习.c.o: ../练习.c
 CMakeFiles/clion.dir/赌博.c.o: ../赌博.c
 
 CMakeFiles/clion.dir/输入输出小结.c.o: ../输入输出小结.c
+
+CMakeFiles/clion.dir/进制转换.c.o: ../进制转换.c
 
 CMakeFiles/clion.dir/main.cpp.o: ../main.cpp
 

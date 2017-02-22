@@ -30,6 +30,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/线性递归.c.o"
   "CMakeFiles/clion.dir/树状递归.c.o"
   "CMakeFiles/clion.dir/汉诺塔.c.o"
+  "CMakeFiles/clion.dir/volatile.c.o"
+  "CMakeFiles/clion.dir/原码反码补码.c.o"
+  "CMakeFiles/clion.dir/进制转换.c.o"
+  "CMakeFiles/clion.dir/寄存器变量.c.o"
+  "CMakeFiles/clion.dir/加减法的位运算的实现.c.o"
+  "CMakeFiles/clion.dir/最小公倍数最大公约数.c.o"
   "clion.pdb"
   "clion"
 )

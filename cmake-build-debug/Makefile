@@ -474,6 +474,33 @@ test.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/test.c.s
 .PHONY : test.c.s
 
+volatile.o: volatile.c.o
+
+.PHONY : volatile.o
+
+# target to build an object file
+volatile.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/volatile.c.o
+.PHONY : volatile.c.o
+
+volatile.i: volatile.c.i
+
+.PHONY : volatile.i
+
+# target to preprocess a source file
+volatile.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/volatile.c.i
+.PHONY : volatile.c.i
+
+volatile.s: volatile.c.s
+
+.PHONY : volatile.s
+
+# target to generate assembly for a file
+volatile.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/volatile.c.s
+.PHONY : volatile.c.s
+
 while.o: while.c.o
 
 .PHONY : while.o
@@ -636,6 +663,60 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/分离和穷举.c.s
 .PHONY : 分离和穷举.c.s
 
+加减法的位运算的实现.o: 加减法的位运算的实现.c.o
+
+.PHONY : 加减法的位运算的实现.o
+
+# target to build an object file
+加减法的位运算的实现.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/加减法的位运算的实现.c.o
+.PHONY : 加减法的位运算的实现.c.o
+
+加减法的位运算的实现.i: 加减法的位运算的实现.c.i
+
+.PHONY : 加减法的位运算的实现.i
+
+# target to preprocess a source file
+加减法的位运算的实现.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/加减法的位运算的实现.c.i
+.PHONY : 加减法的位运算的实现.c.i
+
+加减法的位运算的实现.s: 加减法的位运算的实现.c.s
+
+.PHONY : 加减法的位运算的实现.s
+
+# target to generate assembly for a file
+加减法的位运算的实现.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/加减法的位运算的实现.c.s
+.PHONY : 加减法的位运算的实现.c.s
+
+原码反码补码.o: 原码反码补码.c.o
+
+.PHONY : 原码反码补码.o
+
+# target to build an object file
+原码反码补码.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/原码反码补码.c.o
+.PHONY : 原码反码补码.c.o
+
+原码反码补码.i: 原码反码补码.c.i
+
+.PHONY : 原码反码补码.i
+
+# target to preprocess a source file
+原码反码补码.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/原码反码补码.c.i
+.PHONY : 原码反码补码.c.i
+
+原码反码补码.s: 原码反码补码.c.s
+
+.PHONY : 原码反码补码.s
+
+# target to generate assembly for a file
+原码反码补码.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/原码反码补码.c.s
+.PHONY : 原码反码补码.c.s
+
 可变参数.o: 可变参数.c.o
 
 .PHONY : 可变参数.o
@@ -717,6 +798,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/宽字符.c.s
 .PHONY : 宽字符.c.s
 
+寄存器变量.o: 寄存器变量.c.o
+
+.PHONY : 寄存器变量.o
+
+# target to build an object file
+寄存器变量.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/寄存器变量.c.o
+.PHONY : 寄存器变量.c.o
+
+寄存器变量.i: 寄存器变量.c.i
+
+.PHONY : 寄存器变量.i
+
+# target to preprocess a source file
+寄存器变量.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/寄存器变量.c.i
+.PHONY : 寄存器变量.c.i
+
+寄存器变量.s: 寄存器变量.c.s
+
+.PHONY : 寄存器变量.s
+
+# target to generate assembly for a file
+寄存器变量.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/寄存器变量.c.s
+.PHONY : 寄存器变量.c.s
+
 循环总结.o: 循环总结.c.o
 
 .PHONY : 循环总结.o
@@ -743,6 +851,33 @@ while.c.s:
 循环总结.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/循环总结.c.s
 .PHONY : 循环总结.c.s
+
+最小公倍数最大公约数.o: 最小公倍数最大公约数.c.o
+
+.PHONY : 最小公倍数最大公约数.o
+
+# target to build an object file
+最小公倍数最大公约数.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/最小公倍数最大公约数.c.o
+.PHONY : 最小公倍数最大公约数.c.o
+
+最小公倍数最大公约数.i: 最小公倍数最大公约数.c.i
+
+.PHONY : 最小公倍数最大公约数.i
+
+# target to preprocess a source file
+最小公倍数最大公约数.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/最小公倍数最大公约数.c.i
+.PHONY : 最小公倍数最大公约数.c.i
+
+最小公倍数最大公约数.s: 最小公倍数最大公约数.c.s
+
+.PHONY : 最小公倍数最大公约数.s
+
+# target to generate assembly for a file
+最小公倍数最大公约数.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/最小公倍数最大公约数.c.s
+.PHONY : 最小公倍数最大公约数.c.s
 
 查找进程.o: 查找进程.c.o
 
@@ -960,6 +1095,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/输入输出小结.c.s
 .PHONY : 输入输出小结.c.s
 
+进制转换.o: 进制转换.c.o
+
+.PHONY : 进制转换.o
+
+# target to build an object file
+进制转换.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/进制转换.c.o
+.PHONY : 进制转换.c.o
+
+进制转换.i: 进制转换.c.i
+
+.PHONY : 进制转换.i
+
+# target to preprocess a source file
+进制转换.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/进制转换.c.i
+.PHONY : 进制转换.c.i
+
+进制转换.s: 进制转换.c.s
+
+.PHONY : 进制转换.s
+
+# target to generate assembly for a file
+进制转换.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/进制转换.c.s
+.PHONY : 进制转换.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1008,6 +1170,9 @@ help:
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"
+	@echo "... volatile.o"
+	@echo "... volatile.i"
+	@echo "... volatile.s"
 	@echo "... while.o"
 	@echo "... while.i"
 	@echo "... while.s"
@@ -1026,6 +1191,12 @@ help:
 	@echo "... 分离和穷举.o"
 	@echo "... 分离和穷举.i"
 	@echo "... 分离和穷举.s"
+	@echo "... 加减法的位运算的实现.o"
+	@echo "... 加减法的位运算的实现.i"
+	@echo "... 加减法的位运算的实现.s"
+	@echo "... 原码反码补码.o"
+	@echo "... 原码反码补码.i"
+	@echo "... 原码反码补码.s"
 	@echo "... 可变参数.o"
 	@echo "... 可变参数.i"
 	@echo "... 可变参数.s"
@@ -1035,9 +1206,15 @@ help:
 	@echo "... 宽字符.o"
 	@echo "... 宽字符.i"
 	@echo "... 宽字符.s"
+	@echo "... 寄存器变量.o"
+	@echo "... 寄存器变量.i"
+	@echo "... 寄存器变量.s"
 	@echo "... 循环总结.o"
 	@echo "... 循环总结.i"
 	@echo "... 循环总结.s"
+	@echo "... 最小公倍数最大公约数.o"
+	@echo "... 最小公倍数最大公约数.i"
+	@echo "... 最小公倍数最大公约数.s"
 	@echo "... 查找进程.o"
 	@echo "... 查找进程.i"
 	@echo "... 查找进程.s"
@@ -1062,6 +1239,9 @@ help:
 	@echo "... 输入输出小结.o"
 	@echo "... 输入输出小结.i"
 	@echo "... 输入输出小结.s"
+	@echo "... 进制转换.o"
+	@echo "... 进制转换.i"
+	@echo "... 进制转换.s"
 .PHONY : help
 
 
