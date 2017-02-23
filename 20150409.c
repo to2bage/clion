@@ -224,6 +224,51 @@ static void binTo10(char *px, int length, int i, int *pnum)
     }
 }
 
+//2进制转8进制   11 001
+static void binTo8(char *px, int length)
+{
+    //让数组逆序
+    char *pstart = px;  //指向第一位
+    char *pend = px + length - 1; //指向最后一个有效位
+    do
+    {
+        char ctemp = *pstart;
+        *pstart = *pend;
+        *pend = ctemp;
+    }while(++pstart < --pend);
+    //显示二进制： 100 11
+    // 11001010001
+    // 100 010 100 11
+//    for(int i = 0; i < length; i++)
+//    {
+//        printf("%c", px[i]);
+//    }
+//    printf("\n");
+    //
+    printf("0");
+    int su = 0;
+    //这里的3 是二进制每3位合成一个8进制位
+    for(int j = 0; j < length % 3; j++) //这里处理分段后，剩余的不足3个的二进制位
+    {
+        su += (px[j + (length / 3) * 3] - '0') * pow(2, j);
+    }
+    printf("%d", su);
+    for(int i = 0; i < length /3; i++) //把二进制序列以3个一组进行分段
+    {
+        int sum = 0;
+        for(int j = 0; j < 3; j++)
+        {
+            //
+            sum += (px[j + (length / 3 - 1 - i)  * 3] - '0') * pow(2, j);
+        }
+        printf("%d", sum);
+    }
+}
+//2进制转16进制 11010011
+static void binTo16(char *px, length)
+{
+    //逆序二进制序列
+}
 
 
 int main(int argc, char* argv[])
@@ -277,14 +322,19 @@ int main(int argc, char* argv[])
     }
     {
         //2进制转10进制
-//        char str[32] = {0};
-//        int length = 0;
-//        printf("请输入2进制的数列:");
-//        scanf("%s%n", str, &length);
-//        printf("你输入的二进制序列是%s，共有%d位\n", str, length);
-//        int rect = 0;
-//        binTo10(str, length, 1, &rect);
-//        printf("rect = %d\n", rect);
+        char str[32] = {0};
+        int length = 0;
+        printf("请输入2进制的数列:");
+        scanf("%s%n", str, &length);
+        printf("你输入的二进制序列是%s，共有%d位\n", str, length);
+        int rect10 = 0;
+        int rect8 = 0;
+        int rect16 = 0;
+        binTo10(str, length, 1, &rect10);
+        printf("二进制%s转换为%d进制: %d\n", str, 10, rect10);
+        //
+        binTo8(str, length);
+
     }
     {
         //8进制转10进制
