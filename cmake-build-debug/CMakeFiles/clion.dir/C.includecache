@@ -34,6 +34,14 @@ stdio.h
 stdio.h
 -
 
+/Users/apple/Desktop/clion/20150409.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
 /Users/apple/Desktop/clion/auto.c
 stdio.h
 -
@@ -64,6 +72,10 @@ stdio.h
 stdio.h
 -
 math.h
+-
+
+/Users/apple/Desktop/clion/typedef.c
+stdio.h
 -
 
 /Users/apple/Desktop/clion/volatile.c

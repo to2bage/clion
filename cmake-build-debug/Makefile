@@ -258,6 +258,33 @@ clion/fast:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150403.c.s
 .PHONY : 20150403.c.s
 
+20150409.o: 20150409.c.o
+
+.PHONY : 20150409.o
+
+# target to build an object file
+20150409.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150409.c.o
+.PHONY : 20150409.c.o
+
+20150409.i: 20150409.c.i
+
+.PHONY : 20150409.i
+
+# target to preprocess a source file
+20150409.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150409.c.i
+.PHONY : 20150409.c.i
+
+20150409.s: 20150409.c.s
+
+.PHONY : 20150409.s
+
+# target to generate assembly for a file
+20150409.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150409.c.s
+.PHONY : 20150409.c.s
+
 auto.o: auto.c.o
 
 .PHONY : auto.o
@@ -473,6 +500,33 @@ test.s: test.c.s
 test.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/test.c.s
 .PHONY : test.c.s
+
+typedef.o: typedef.c.o
+
+.PHONY : typedef.o
+
+# target to build an object file
+typedef.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/typedef.c.o
+.PHONY : typedef.c.o
+
+typedef.i: typedef.c.i
+
+.PHONY : typedef.i
+
+# target to preprocess a source file
+typedef.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/typedef.c.i
+.PHONY : typedef.c.i
+
+typedef.s: typedef.c.s
+
+.PHONY : typedef.s
+
+# target to generate assembly for a file
+typedef.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/typedef.c.s
+.PHONY : typedef.c.s
 
 volatile.o: volatile.c.o
 
@@ -1146,6 +1200,9 @@ help:
 	@echo "... 20150403.o"
 	@echo "... 20150403.i"
 	@echo "... 20150403.s"
+	@echo "... 20150409.o"
+	@echo "... 20150409.i"
+	@echo "... 20150409.s"
 	@echo "... auto.o"
 	@echo "... auto.i"
 	@echo "... auto.s"
@@ -1170,6 +1227,9 @@ help:
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"
+	@echo "... typedef.o"
+	@echo "... typedef.i"
+	@echo "... typedef.s"
 	@echo "... volatile.o"
 	@echo "... volatile.i"
 	@echo "... volatile.s"

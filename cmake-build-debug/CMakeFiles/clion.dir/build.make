@@ -945,6 +945,54 @@ CMakeFiles/clion.dir/最小公倍数最大公约数.c.o.provides: CMakeFiles/cli
 CMakeFiles/clion.dir/最小公倍数最大公约数.c.o.provides.build: CMakeFiles/clion.dir/最小公倍数最大公约数.c.o
 
 
+CMakeFiles/clion.dir/typedef.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/typedef.c.o: ../typedef.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/clion.dir/typedef.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/typedef.c.o   -c /Users/apple/Desktop/clion/typedef.c
+
+CMakeFiles/clion.dir/typedef.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/typedef.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/typedef.c > CMakeFiles/clion.dir/typedef.c.i
+
+CMakeFiles/clion.dir/typedef.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/typedef.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/typedef.c -o CMakeFiles/clion.dir/typedef.c.s
+
+CMakeFiles/clion.dir/typedef.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/typedef.c.o.requires
+
+CMakeFiles/clion.dir/typedef.c.o.provides: CMakeFiles/clion.dir/typedef.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/typedef.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/typedef.c.o.provides
+
+CMakeFiles/clion.dir/typedef.c.o.provides.build: CMakeFiles/clion.dir/typedef.c.o
+
+
+CMakeFiles/clion.dir/20150409.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/20150409.c.o: ../20150409.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/clion.dir/20150409.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/20150409.c.o   -c /Users/apple/Desktop/clion/20150409.c
+
+CMakeFiles/clion.dir/20150409.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/20150409.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/20150409.c > CMakeFiles/clion.dir/20150409.c.i
+
+CMakeFiles/clion.dir/20150409.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/20150409.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/20150409.c -o CMakeFiles/clion.dir/20150409.c.s
+
+CMakeFiles/clion.dir/20150409.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/20150409.c.o.requires
+
+CMakeFiles/clion.dir/20150409.c.o.provides: CMakeFiles/clion.dir/20150409.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150409.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/20150409.c.o.provides
+
+CMakeFiles/clion.dir/20150409.c.o.provides.build: CMakeFiles/clion.dir/20150409.c.o
+
+
 # Object files for target clion
 clion_OBJECTS = \
 "CMakeFiles/clion.dir/main.cpp.o" \
@@ -983,7 +1031,9 @@ clion_OBJECTS = \
 "CMakeFiles/clion.dir/进制转换.c.o" \
 "CMakeFiles/clion.dir/寄存器变量.c.o" \
 "CMakeFiles/clion.dir/加减法的位运算的实现.c.o" \
-"CMakeFiles/clion.dir/最小公倍数最大公约数.c.o"
+"CMakeFiles/clion.dir/最小公倍数最大公约数.c.o" \
+"CMakeFiles/clion.dir/typedef.c.o" \
+"CMakeFiles/clion.dir/20150409.c.o"
 
 # External object files for target clion
 clion_EXTERNAL_OBJECTS =
@@ -1025,9 +1075,11 @@ clion: CMakeFiles/clion.dir/进制转换.c.o
 clion: CMakeFiles/clion.dir/寄存器变量.c.o
 clion: CMakeFiles/clion.dir/加减法的位运算的实现.c.o
 clion: CMakeFiles/clion.dir/最小公倍数最大公约数.c.o
+clion: CMakeFiles/clion.dir/typedef.c.o
+clion: CMakeFiles/clion.dir/20150409.c.o
 clion: CMakeFiles/clion.dir/build.make
 clion: CMakeFiles/clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Linking CXX executable clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX executable clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1072,6 +1124,8 @@ CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/进制转换.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/寄存器变量.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/加减法的位运算的实现.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/最小公倍数最大公约数.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/typedef.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/20150409.c.o.requires
 
 .PHONY : CMakeFiles/clion.dir/requires
 

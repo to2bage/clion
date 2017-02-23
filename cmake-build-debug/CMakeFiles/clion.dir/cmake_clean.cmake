@@ -36,6 +36,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/寄存器变量.c.o"
   "CMakeFiles/clion.dir/加减法的位运算的实现.c.o"
   "CMakeFiles/clion.dir/最小公倍数最大公约数.c.o"
+  "CMakeFiles/clion.dir/typedef.c.o"
+  "CMakeFiles/clion.dir/20150409.c.o"
   "clion.pdb"
   "clion"
 )

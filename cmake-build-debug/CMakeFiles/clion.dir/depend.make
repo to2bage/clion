@@ -11,6 +11,8 @@ CMakeFiles/clion.dir/05.c.o: ../05.c
 
 CMakeFiles/clion.dir/20150403.c.o: ../20150403.c
 
+CMakeFiles/clion.dir/20150409.c.o: ../20150409.c
+
 CMakeFiles/clion.dir/auto.c.o: ../auto.c
 
 CMakeFiles/clion.dir/bool.c.o: ../bool.c
@@ -24,6 +26,8 @@ CMakeFiles/clion.dir/printscanf.c.o: ../printscanf.c
 CMakeFiles/clion.dir/scanf正则表达式.c.o: ../scanf正则表达式.c
 
 CMakeFiles/clion.dir/test.c.o: ../test.c
+
+CMakeFiles/clion.dir/typedef.c.o: ../typedef.c
 
 CMakeFiles/clion.dir/volatile.c.o: ../volatile.c
 

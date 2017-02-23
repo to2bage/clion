@@ -105,17 +105,47 @@ static int addDiGui(int num1, int num2)
     }
 }
 
-int main加减法(int argc, char* argv[])
+//减法的位运算实现
+static int sub(int num1, int num2)
+{
+    int rect = 0;
+    int jiewei = 0;
+
+    do
+    {
+        rect = num1 ^ num2;
+        jiewei = (num1 ^ num2) << 1;
+        num1 = rect;
+        num2 = jiewei;
+    }while(jiewei);
+    return rect;
+}
+//乘法的位运算实现
+static int mul(int num1, int num2)
+{
+    int rect = 0;
+
+    rect = num1 & num2;
+    return rect;
+}
+
+int main加减法的位运算(int argc, char* argv[])
 {
     {
         printf("请输入要相加的两个数字(使用都好隔开):");
         int num1 = 0, num2 = 0;
         scanf("%d,%d", &num1, &num2);
+        //加法
         //int rect = add(num1, num2);
         //int rect = addPlus(num1, num2);
         int rect = addDiGui(num1, num2);
         printf("%d + %d = %d\n", num1, num2, rect);
-
+//        //减法
+//        rect = sub(num1, num2);
+//        printf("%d - %d = %d\n", num1, num2, rect);
+        //乘法
+        rect = mul(num1, num2);
+        printf("%d * %d = %d\n", num1, num2, rect);
     }
 
     return 0;
