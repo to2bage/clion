@@ -465,28 +465,28 @@ CMakeFiles/clion.dir/test.c.o.provides: CMakeFiles/clion.dir/test.c.o.requires
 CMakeFiles/clion.dir/test.c.o.provides.build: CMakeFiles/clion.dir/test.c.o
 
 
-CMakeFiles/clion.dir/enum.c.o: CMakeFiles/clion.dir/flags.make
-CMakeFiles/clion.dir/enum.c.o: ../enum.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/clion.dir/enum.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/enum.c.o   -c /Users/apple/Desktop/clion/enum.c
+CMakeFiles/clion.dir/枚举.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/枚举.c.o: ../枚举.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/clion.dir/枚举.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/枚举.c.o   -c /Users/apple/Desktop/clion/枚举.c
 
-CMakeFiles/clion.dir/enum.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/enum.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/enum.c > CMakeFiles/clion.dir/enum.c.i
+CMakeFiles/clion.dir/枚举.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/枚举.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/枚举.c > CMakeFiles/clion.dir/枚举.c.i
 
-CMakeFiles/clion.dir/enum.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/enum.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/enum.c -o CMakeFiles/clion.dir/enum.c.s
+CMakeFiles/clion.dir/枚举.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/枚举.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/枚举.c -o CMakeFiles/clion.dir/枚举.c.s
 
-CMakeFiles/clion.dir/enum.c.o.requires:
+CMakeFiles/clion.dir/枚举.c.o.requires:
 
-.PHONY : CMakeFiles/clion.dir/enum.c.o.requires
+.PHONY : CMakeFiles/clion.dir/枚举.c.o.requires
 
-CMakeFiles/clion.dir/enum.c.o.provides: CMakeFiles/clion.dir/enum.c.o.requires
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/enum.c.o.provides.build
-.PHONY : CMakeFiles/clion.dir/enum.c.o.provides
+CMakeFiles/clion.dir/枚举.c.o.provides: CMakeFiles/clion.dir/枚举.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/枚举.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/枚举.c.o.provides
 
-CMakeFiles/clion.dir/enum.c.o.provides.build: CMakeFiles/clion.dir/enum.c.o
+CMakeFiles/clion.dir/枚举.c.o.provides.build: CMakeFiles/clion.dir/枚举.c.o
 
 
 CMakeFiles/clion.dir/while.c.o: CMakeFiles/clion.dir/flags.make
@@ -993,6 +993,198 @@ CMakeFiles/clion.dir/20150409.c.o.provides: CMakeFiles/clion.dir/20150409.c.o.re
 CMakeFiles/clion.dir/20150409.c.o.provides.build: CMakeFiles/clion.dir/20150409.c.o
 
 
+CMakeFiles/clion.dir/数组.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/数组.c.o: ../数组.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/clion.dir/数组.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/数组.c.o   -c /Users/apple/Desktop/clion/数组.c
+
+CMakeFiles/clion.dir/数组.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/数组.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/数组.c > CMakeFiles/clion.dir/数组.c.i
+
+CMakeFiles/clion.dir/数组.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/数组.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/数组.c -o CMakeFiles/clion.dir/数组.c.s
+
+CMakeFiles/clion.dir/数组.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/数组.c.o.requires
+
+CMakeFiles/clion.dir/数组.c.o.provides: CMakeFiles/clion.dir/数组.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/数组.c.o.provides
+
+CMakeFiles/clion.dir/数组.c.o.provides.build: CMakeFiles/clion.dir/数组.c.o
+
+
+CMakeFiles/clion.dir/迷宫.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/迷宫.c.o: ../迷宫.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/clion.dir/迷宫.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/迷宫.c.o   -c /Users/apple/Desktop/clion/迷宫.c
+
+CMakeFiles/clion.dir/迷宫.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/迷宫.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/迷宫.c > CMakeFiles/clion.dir/迷宫.c.i
+
+CMakeFiles/clion.dir/迷宫.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/迷宫.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/迷宫.c -o CMakeFiles/clion.dir/迷宫.c.s
+
+CMakeFiles/clion.dir/迷宫.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/迷宫.c.o.requires
+
+CMakeFiles/clion.dir/迷宫.c.o.provides: CMakeFiles/clion.dir/迷宫.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/迷宫.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/迷宫.c.o.provides
+
+CMakeFiles/clion.dir/迷宫.c.o.provides.build: CMakeFiles/clion.dir/迷宫.c.o
+
+
+CMakeFiles/clion.dir/二分查找法.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/二分查找法.c.o: ../二分查找法.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/clion.dir/二分查找法.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/二分查找法.c.o   -c /Users/apple/Desktop/clion/二分查找法.c
+
+CMakeFiles/clion.dir/二分查找法.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/二分查找法.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/二分查找法.c > CMakeFiles/clion.dir/二分查找法.c.i
+
+CMakeFiles/clion.dir/二分查找法.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/二分查找法.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/二分查找法.c -o CMakeFiles/clion.dir/二分查找法.c.s
+
+CMakeFiles/clion.dir/二分查找法.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/二分查找法.c.o.requires
+
+CMakeFiles/clion.dir/二分查找法.c.o.provides: CMakeFiles/clion.dir/二分查找法.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二分查找法.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/二分查找法.c.o.provides
+
+CMakeFiles/clion.dir/二分查找法.c.o.provides.build: CMakeFiles/clion.dir/二分查找法.c.o
+
+
+CMakeFiles/clion.dir/小小递归.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/小小递归.c.o: ../小小递归.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/clion.dir/小小递归.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/小小递归.c.o   -c /Users/apple/Desktop/clion/小小递归.c
+
+CMakeFiles/clion.dir/小小递归.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/小小递归.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/小小递归.c > CMakeFiles/clion.dir/小小递归.c.i
+
+CMakeFiles/clion.dir/小小递归.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/小小递归.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/小小递归.c -o CMakeFiles/clion.dir/小小递归.c.s
+
+CMakeFiles/clion.dir/小小递归.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/小小递归.c.o.requires
+
+CMakeFiles/clion.dir/小小递归.c.o.provides: CMakeFiles/clion.dir/小小递归.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/小小递归.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/小小递归.c.o.provides
+
+CMakeFiles/clion.dir/小小递归.c.o.provides.build: CMakeFiles/clion.dir/小小递归.c.o
+
+
+CMakeFiles/clion.dir/杨辉三角.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/杨辉三角.c.o: ../杨辉三角.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/clion.dir/杨辉三角.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/杨辉三角.c.o   -c /Users/apple/Desktop/clion/杨辉三角.c
+
+CMakeFiles/clion.dir/杨辉三角.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/杨辉三角.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/杨辉三角.c > CMakeFiles/clion.dir/杨辉三角.c.i
+
+CMakeFiles/clion.dir/杨辉三角.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/杨辉三角.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/杨辉三角.c -o CMakeFiles/clion.dir/杨辉三角.c.s
+
+CMakeFiles/clion.dir/杨辉三角.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/杨辉三角.c.o.requires
+
+CMakeFiles/clion.dir/杨辉三角.c.o.provides: CMakeFiles/clion.dir/杨辉三角.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/杨辉三角.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/杨辉三角.c.o.provides
+
+CMakeFiles/clion.dir/杨辉三角.c.o.provides.build: CMakeFiles/clion.dir/杨辉三角.c.o
+
+
+CMakeFiles/clion.dir/二维数组的地址.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/二维数组的地址.c.o: ../二维数组的地址.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/clion.dir/二维数组的地址.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/二维数组的地址.c.o   -c /Users/apple/Desktop/clion/二维数组的地址.c
+
+CMakeFiles/clion.dir/二维数组的地址.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/二维数组的地址.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/二维数组的地址.c > CMakeFiles/clion.dir/二维数组的地址.c.i
+
+CMakeFiles/clion.dir/二维数组的地址.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/二维数组的地址.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/二维数组的地址.c -o CMakeFiles/clion.dir/二维数组的地址.c.s
+
+CMakeFiles/clion.dir/二维数组的地址.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/二维数组的地址.c.o.requires
+
+CMakeFiles/clion.dir/二维数组的地址.c.o.provides: CMakeFiles/clion.dir/二维数组的地址.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二维数组的地址.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/二维数组的地址.c.o.provides
+
+CMakeFiles/clion.dir/二维数组的地址.c.o.provides.build: CMakeFiles/clion.dir/二维数组的地址.c.o
+
+
+CMakeFiles/clion.dir/高维数组.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/高维数组.c.o: ../高维数组.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/clion.dir/高维数组.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/高维数组.c.o   -c /Users/apple/Desktop/clion/高维数组.c
+
+CMakeFiles/clion.dir/高维数组.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/高维数组.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/高维数组.c > CMakeFiles/clion.dir/高维数组.c.i
+
+CMakeFiles/clion.dir/高维数组.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/高维数组.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/高维数组.c -o CMakeFiles/clion.dir/高维数组.c.s
+
+CMakeFiles/clion.dir/高维数组.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/高维数组.c.o.requires
+
+CMakeFiles/clion.dir/高维数组.c.o.provides: CMakeFiles/clion.dir/高维数组.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/高维数组.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/高维数组.c.o.provides
+
+CMakeFiles/clion.dir/高维数组.c.o.provides.build: CMakeFiles/clion.dir/高维数组.c.o
+
+
+CMakeFiles/clion.dir/洗牌.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/洗牌.c.o: ../洗牌.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/clion.dir/洗牌.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/洗牌.c.o   -c /Users/apple/Desktop/clion/洗牌.c
+
+CMakeFiles/clion.dir/洗牌.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/洗牌.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/洗牌.c > CMakeFiles/clion.dir/洗牌.c.i
+
+CMakeFiles/clion.dir/洗牌.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/洗牌.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/洗牌.c -o CMakeFiles/clion.dir/洗牌.c.s
+
+CMakeFiles/clion.dir/洗牌.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/洗牌.c.o.requires
+
+CMakeFiles/clion.dir/洗牌.c.o.provides: CMakeFiles/clion.dir/洗牌.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/洗牌.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/洗牌.c.o.provides
+
+CMakeFiles/clion.dir/洗牌.c.o.provides.build: CMakeFiles/clion.dir/洗牌.c.o
+
+
 # Object files for target clion
 clion_OBJECTS = \
 "CMakeFiles/clion.dir/main.cpp.o" \
@@ -1012,7 +1204,7 @@ clion_OBJECTS = \
 "CMakeFiles/clion.dir/练习.c.o" \
 "CMakeFiles/clion.dir/查找进程.c.o" \
 "CMakeFiles/clion.dir/test.c.o" \
-"CMakeFiles/clion.dir/enum.c.o" \
+"CMakeFiles/clion.dir/枚举.c.o" \
 "CMakeFiles/clion.dir/while.c.o" \
 "CMakeFiles/clion.dir/for.c.o" \
 "CMakeFiles/clion.dir/20150403.c.o" \
@@ -1033,7 +1225,15 @@ clion_OBJECTS = \
 "CMakeFiles/clion.dir/加减法的位运算的实现.c.o" \
 "CMakeFiles/clion.dir/最小公倍数最大公约数.c.o" \
 "CMakeFiles/clion.dir/typedef.c.o" \
-"CMakeFiles/clion.dir/20150409.c.o"
+"CMakeFiles/clion.dir/20150409.c.o" \
+"CMakeFiles/clion.dir/数组.c.o" \
+"CMakeFiles/clion.dir/迷宫.c.o" \
+"CMakeFiles/clion.dir/二分查找法.c.o" \
+"CMakeFiles/clion.dir/小小递归.c.o" \
+"CMakeFiles/clion.dir/杨辉三角.c.o" \
+"CMakeFiles/clion.dir/二维数组的地址.c.o" \
+"CMakeFiles/clion.dir/高维数组.c.o" \
+"CMakeFiles/clion.dir/洗牌.c.o"
 
 # External object files for target clion
 clion_EXTERNAL_OBJECTS =
@@ -1055,7 +1255,7 @@ clion: CMakeFiles/clion.dir/赌博.c.o
 clion: CMakeFiles/clion.dir/练习.c.o
 clion: CMakeFiles/clion.dir/查找进程.c.o
 clion: CMakeFiles/clion.dir/test.c.o
-clion: CMakeFiles/clion.dir/enum.c.o
+clion: CMakeFiles/clion.dir/枚举.c.o
 clion: CMakeFiles/clion.dir/while.c.o
 clion: CMakeFiles/clion.dir/for.c.o
 clion: CMakeFiles/clion.dir/20150403.c.o
@@ -1077,9 +1277,17 @@ clion: CMakeFiles/clion.dir/加减法的位运算的实现.c.o
 clion: CMakeFiles/clion.dir/最小公倍数最大公约数.c.o
 clion: CMakeFiles/clion.dir/typedef.c.o
 clion: CMakeFiles/clion.dir/20150409.c.o
+clion: CMakeFiles/clion.dir/数组.c.o
+clion: CMakeFiles/clion.dir/迷宫.c.o
+clion: CMakeFiles/clion.dir/二分查找法.c.o
+clion: CMakeFiles/clion.dir/小小递归.c.o
+clion: CMakeFiles/clion.dir/杨辉三角.c.o
+clion: CMakeFiles/clion.dir/二维数组的地址.c.o
+clion: CMakeFiles/clion.dir/高维数组.c.o
+clion: CMakeFiles/clion.dir/洗牌.c.o
 clion: CMakeFiles/clion.dir/build.make
 clion: CMakeFiles/clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX executable clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Linking CXX executable clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1104,7 +1312,7 @@ CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/赌博.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/练习.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/查找进程.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/test.c.o.requires
-CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/enum.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/枚举.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/while.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/for.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/20150403.c.o.requires
@@ -1126,6 +1334,14 @@ CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/加减法的位运算的实�
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/最小公倍数最大公约数.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/typedef.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/20150409.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/数组.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/迷宫.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/二分查找法.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/小小递归.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/杨辉三角.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/二维数组的地址.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/高维数组.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/洗牌.c.o.requires
 
 .PHONY : CMakeFiles/clion.dir/requires
 

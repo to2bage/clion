@@ -52,10 +52,6 @@ stdio.h
 stdbool.h
 -
 
-/Users/apple/Desktop/clion/enum.c
-stdio.h
--
-
 /Users/apple/Desktop/clion/for.c
 stdio.h
 -
@@ -86,6 +82,24 @@ time.h
 
 /Users/apple/Desktop/clion/while.c
 stdio.h
+-
+
+/Users/apple/Desktop/clion/二分查找法.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+time.h
+-
+
+/Users/apple/Desktop/clion/二维数组的地址.c
+stdio.h
+-
+stdlib.h
+-
+time.h
 -
 
 /Users/apple/Desktop/clion/位运算.c
@@ -150,6 +164,12 @@ stdio.h
 time.h
 -
 
+/Users/apple/Desktop/clion/小小递归.c
+stdio.h
+-
+stdbool.h
+-
+
 /Users/apple/Desktop/clion/循环总结.c
 stdio.h
 -
@@ -158,7 +178,23 @@ stdlib.h
 zconf.h
 -
 
+/Users/apple/Desktop/clion/数组.c
+stdio.h
+-
+time.h
+-
+stdlib.h
+-
+
 /Users/apple/Desktop/clion/最小公倍数最大公约数.c
+stdio.h
+-
+
+/Users/apple/Desktop/clion/杨辉三角.c
+stdio.h
+-
+
+/Users/apple/Desktop/clion/枚举.c
 stdio.h
 -
 
@@ -178,6 +214,14 @@ time.h
 
 /Users/apple/Desktop/clion/汉诺塔.c
 stdio.h
+-
+
+/Users/apple/Desktop/clion/洗牌.c
+stdio.h
+-
+stdlib.h
+-
+time.h
 -
 
 /Users/apple/Desktop/clion/测试whiledo.c
@@ -209,6 +253,14 @@ stdio.h
 -
 
 /Users/apple/Desktop/clion/进制转换.c
+stdio.h
+-
+
+/Users/apple/Desktop/clion/迷宫.c
+stdio.h
+-
+
+/Users/apple/Desktop/clion/高维数组.c
 stdio.h
 -
 

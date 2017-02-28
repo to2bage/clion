@@ -17,8 +17,6 @@ CMakeFiles/clion.dir/auto.c.o: ../auto.c
 
 CMakeFiles/clion.dir/bool.c.o: ../bool.c
 
-CMakeFiles/clion.dir/enum.c.o: ../enum.c
-
 CMakeFiles/clion.dir/for.c.o: ../for.c
 
 CMakeFiles/clion.dir/printscanf.c.o: ../printscanf.c
@@ -32,6 +30,10 @@ CMakeFiles/clion.dir/typedef.c.o: ../typedef.c
 CMakeFiles/clion.dir/volatile.c.o: ../volatile.c
 
 CMakeFiles/clion.dir/while.c.o: ../while.c
+
+CMakeFiles/clion.dir/二分查找法.c.o: ../二分查找法.c
+
+CMakeFiles/clion.dir/二维数组的地址.c.o: ../二维数组的地址.c
 
 CMakeFiles/clion.dir/位运算.c.o: ../位运算.c
 
@@ -55,15 +57,25 @@ CMakeFiles/clion.dir/宽字符.c.o: ../宽字符.c
 
 CMakeFiles/clion.dir/寄存器变量.c.o: ../寄存器变量.c
 
+CMakeFiles/clion.dir/小小递归.c.o: ../小小递归.c
+
 CMakeFiles/clion.dir/循环总结.c.o: ../循环总结.c
 
+CMakeFiles/clion.dir/数组.c.o: ../数组.c
+
 CMakeFiles/clion.dir/最小公倍数最大公约数.c.o: ../最小公倍数最大公约数.c
+
+CMakeFiles/clion.dir/杨辉三角.c.o: ../杨辉三角.c
+
+CMakeFiles/clion.dir/枚举.c.o: ../枚举.c
 
 CMakeFiles/clion.dir/查找进程.c.o: ../查找进程.c
 
 CMakeFiles/clion.dir/树状递归.c.o: ../树状递归.c
 
 CMakeFiles/clion.dir/汉诺塔.c.o: ../汉诺塔.c
+
+CMakeFiles/clion.dir/洗牌.c.o: ../洗牌.c
 
 CMakeFiles/clion.dir/测试whiledo.c.o: ../测试whiledo.c
 
@@ -76,6 +88,10 @@ CMakeFiles/clion.dir/赌博.c.o: ../赌博.c
 CMakeFiles/clion.dir/输入输出小结.c.o: ../输入输出小结.c
 
 CMakeFiles/clion.dir/进制转换.c.o: ../进制转换.c
+
+CMakeFiles/clion.dir/迷宫.c.o: ../迷宫.c
+
+CMakeFiles/clion.dir/高维数组.c.o: ../高维数组.c
 
 CMakeFiles/clion.dir/main.cpp.o: ../main.cpp
 

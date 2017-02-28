@@ -17,8 +17,6 @@ CMakeFiles/clion.dir/auto.c.o
  /Users/apple/Desktop/clion/auto.c
 CMakeFiles/clion.dir/bool.c.o
  /Users/apple/Desktop/clion/bool.c
-CMakeFiles/clion.dir/enum.c.o
- /Users/apple/Desktop/clion/enum.c
 CMakeFiles/clion.dir/for.c.o
  /Users/apple/Desktop/clion/for.c
 CMakeFiles/clion.dir/printscanf.c.o
@@ -33,6 +31,10 @@ CMakeFiles/clion.dir/volatile.c.o
  /Users/apple/Desktop/clion/volatile.c
 CMakeFiles/clion.dir/while.c.o
  /Users/apple/Desktop/clion/while.c
+CMakeFiles/clion.dir/二分查找法.c.o
+ /Users/apple/Desktop/clion/二分查找法.c
+CMakeFiles/clion.dir/二维数组的地址.c.o
+ /Users/apple/Desktop/clion/二维数组的地址.c
 CMakeFiles/clion.dir/位运算.c.o
  /Users/apple/Desktop/clion/位运算.c
 CMakeFiles/clion.dir/全局变量.c.o
@@ -55,16 +57,26 @@ CMakeFiles/clion.dir/宽字符.c.o
  /Users/apple/Desktop/clion/宽字符.c
 CMakeFiles/clion.dir/寄存器变量.c.o
  /Users/apple/Desktop/clion/寄存器变量.c
+CMakeFiles/clion.dir/小小递归.c.o
+ /Users/apple/Desktop/clion/小小递归.c
 CMakeFiles/clion.dir/循环总结.c.o
  /Users/apple/Desktop/clion/循环总结.c
+CMakeFiles/clion.dir/数组.c.o
+ /Users/apple/Desktop/clion/数组.c
 CMakeFiles/clion.dir/最小公倍数最大公约数.c.o
  /Users/apple/Desktop/clion/最小公倍数最大公约数.c
+CMakeFiles/clion.dir/杨辉三角.c.o
+ /Users/apple/Desktop/clion/杨辉三角.c
+CMakeFiles/clion.dir/枚举.c.o
+ /Users/apple/Desktop/clion/枚举.c
 CMakeFiles/clion.dir/查找进程.c.o
  /Users/apple/Desktop/clion/查找进程.c
 CMakeFiles/clion.dir/树状递归.c.o
  /Users/apple/Desktop/clion/树状递归.c
 CMakeFiles/clion.dir/汉诺塔.c.o
  /Users/apple/Desktop/clion/汉诺塔.c
+CMakeFiles/clion.dir/洗牌.c.o
+ /Users/apple/Desktop/clion/洗牌.c
 CMakeFiles/clion.dir/测试whiledo.c.o
  /Users/apple/Desktop/clion/测试whiledo.c
 CMakeFiles/clion.dir/线性递归.c.o
@@ -77,5 +89,9 @@ CMakeFiles/clion.dir/输入输出小结.c.o
  /Users/apple/Desktop/clion/输入输出小结.c
 CMakeFiles/clion.dir/进制转换.c.o
  /Users/apple/Desktop/clion/进制转换.c
+CMakeFiles/clion.dir/迷宫.c.o
+ /Users/apple/Desktop/clion/迷宫.c
+CMakeFiles/clion.dir/高维数组.c.o
+ /Users/apple/Desktop/clion/高维数组.c
 CMakeFiles/clion.dir/main.cpp.o
  /Users/apple/Desktop/clion/main.cpp

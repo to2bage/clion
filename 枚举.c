@@ -3,7 +3,7 @@
 //
 #include <stdio.h>
 
-int mainenum(int argc, char* argv[])
+int main枚举(int argc, char* argv[])
 {
     enum week{星期一, 星期二, 星期三, 星期四, 星期五, 星期六, 星期日};
 
@@ -58,6 +58,16 @@ int mainenum(int argc, char* argv[])
             break;
 
 
+    }
+    {
+        enum level{one, two, three, four};//默认 0， 1， 2， 3
+        double face[4] = {97.9, 23.67, 98.0, 60.5};
+
+        for(enum level lev = one; lev <= four; lev++)
+        {
+            printf("%8.2f", face[lev]);
+        }
+        printf("\n");
     }
 
 

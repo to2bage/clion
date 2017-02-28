@@ -271,7 +271,7 @@ static void binTo16(char *px, length)
 }
 
 
-int main(int argc, char* argv[])
+int main20150409(int argc, char* argv[])
 {
     {
         //汉诺塔

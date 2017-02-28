@@ -339,33 +339,6 @@ bool.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/bool.c.s
 .PHONY : bool.c.s
 
-enum.o: enum.c.o
-
-.PHONY : enum.o
-
-# target to build an object file
-enum.c.o:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/enum.c.o
-.PHONY : enum.c.o
-
-enum.i: enum.c.i
-
-.PHONY : enum.i
-
-# target to preprocess a source file
-enum.c.i:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/enum.c.i
-.PHONY : enum.c.i
-
-enum.s: enum.c.s
-
-.PHONY : enum.s
-
-# target to generate assembly for a file
-enum.c.s:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/enum.c.s
-.PHONY : enum.c.s
-
 for.o: for.c.o
 
 .PHONY : for.o
@@ -581,6 +554,60 @@ while.s: while.c.s
 while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/while.c.s
 .PHONY : while.c.s
+
+二分查找法.o: 二分查找法.c.o
+
+.PHONY : 二分查找法.o
+
+# target to build an object file
+二分查找法.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二分查找法.c.o
+.PHONY : 二分查找法.c.o
+
+二分查找法.i: 二分查找法.c.i
+
+.PHONY : 二分查找法.i
+
+# target to preprocess a source file
+二分查找法.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二分查找法.c.i
+.PHONY : 二分查找法.c.i
+
+二分查找法.s: 二分查找法.c.s
+
+.PHONY : 二分查找法.s
+
+# target to generate assembly for a file
+二分查找法.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二分查找法.c.s
+.PHONY : 二分查找法.c.s
+
+二维数组的地址.o: 二维数组的地址.c.o
+
+.PHONY : 二维数组的地址.o
+
+# target to build an object file
+二维数组的地址.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二维数组的地址.c.o
+.PHONY : 二维数组的地址.c.o
+
+二维数组的地址.i: 二维数组的地址.c.i
+
+.PHONY : 二维数组的地址.i
+
+# target to preprocess a source file
+二维数组的地址.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二维数组的地址.c.i
+.PHONY : 二维数组的地址.c.i
+
+二维数组的地址.s: 二维数组的地址.c.s
+
+.PHONY : 二维数组的地址.s
+
+# target to generate assembly for a file
+二维数组的地址.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二维数组的地址.c.s
+.PHONY : 二维数组的地址.c.s
 
 位运算.o: 位运算.c.o
 
@@ -879,6 +906,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/寄存器变量.c.s
 .PHONY : 寄存器变量.c.s
 
+小小递归.o: 小小递归.c.o
+
+.PHONY : 小小递归.o
+
+# target to build an object file
+小小递归.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/小小递归.c.o
+.PHONY : 小小递归.c.o
+
+小小递归.i: 小小递归.c.i
+
+.PHONY : 小小递归.i
+
+# target to preprocess a source file
+小小递归.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/小小递归.c.i
+.PHONY : 小小递归.c.i
+
+小小递归.s: 小小递归.c.s
+
+.PHONY : 小小递归.s
+
+# target to generate assembly for a file
+小小递归.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/小小递归.c.s
+.PHONY : 小小递归.c.s
+
 循环总结.o: 循环总结.c.o
 
 .PHONY : 循环总结.o
@@ -906,6 +960,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/循环总结.c.s
 .PHONY : 循环总结.c.s
 
+数组.o: 数组.c.o
+
+.PHONY : 数组.o
+
+# target to build an object file
+数组.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组.c.o
+.PHONY : 数组.c.o
+
+数组.i: 数组.c.i
+
+.PHONY : 数组.i
+
+# target to preprocess a source file
+数组.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组.c.i
+.PHONY : 数组.c.i
+
+数组.s: 数组.c.s
+
+.PHONY : 数组.s
+
+# target to generate assembly for a file
+数组.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组.c.s
+.PHONY : 数组.c.s
+
 最小公倍数最大公约数.o: 最小公倍数最大公约数.c.o
 
 .PHONY : 最小公倍数最大公约数.o
@@ -932,6 +1013,60 @@ while.c.s:
 最小公倍数最大公约数.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/最小公倍数最大公约数.c.s
 .PHONY : 最小公倍数最大公约数.c.s
+
+杨辉三角.o: 杨辉三角.c.o
+
+.PHONY : 杨辉三角.o
+
+# target to build an object file
+杨辉三角.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/杨辉三角.c.o
+.PHONY : 杨辉三角.c.o
+
+杨辉三角.i: 杨辉三角.c.i
+
+.PHONY : 杨辉三角.i
+
+# target to preprocess a source file
+杨辉三角.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/杨辉三角.c.i
+.PHONY : 杨辉三角.c.i
+
+杨辉三角.s: 杨辉三角.c.s
+
+.PHONY : 杨辉三角.s
+
+# target to generate assembly for a file
+杨辉三角.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/杨辉三角.c.s
+.PHONY : 杨辉三角.c.s
+
+枚举.o: 枚举.c.o
+
+.PHONY : 枚举.o
+
+# target to build an object file
+枚举.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/枚举.c.o
+.PHONY : 枚举.c.o
+
+枚举.i: 枚举.c.i
+
+.PHONY : 枚举.i
+
+# target to preprocess a source file
+枚举.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/枚举.c.i
+.PHONY : 枚举.c.i
+
+枚举.s: 枚举.c.s
+
+.PHONY : 枚举.s
+
+# target to generate assembly for a file
+枚举.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/枚举.c.s
+.PHONY : 枚举.c.s
 
 查找进程.o: 查找进程.c.o
 
@@ -1013,6 +1148,33 @@ while.c.s:
 汉诺塔.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/汉诺塔.c.s
 .PHONY : 汉诺塔.c.s
+
+洗牌.o: 洗牌.c.o
+
+.PHONY : 洗牌.o
+
+# target to build an object file
+洗牌.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/洗牌.c.o
+.PHONY : 洗牌.c.o
+
+洗牌.i: 洗牌.c.i
+
+.PHONY : 洗牌.i
+
+# target to preprocess a source file
+洗牌.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/洗牌.c.i
+.PHONY : 洗牌.c.i
+
+洗牌.s: 洗牌.c.s
+
+.PHONY : 洗牌.s
+
+# target to generate assembly for a file
+洗牌.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/洗牌.c.s
+.PHONY : 洗牌.c.s
 
 测试whiledo.o: 测试whiledo.c.o
 
@@ -1176,6 +1338,60 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/进制转换.c.s
 .PHONY : 进制转换.c.s
 
+迷宫.o: 迷宫.c.o
+
+.PHONY : 迷宫.o
+
+# target to build an object file
+迷宫.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/迷宫.c.o
+.PHONY : 迷宫.c.o
+
+迷宫.i: 迷宫.c.i
+
+.PHONY : 迷宫.i
+
+# target to preprocess a source file
+迷宫.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/迷宫.c.i
+.PHONY : 迷宫.c.i
+
+迷宫.s: 迷宫.c.s
+
+.PHONY : 迷宫.s
+
+# target to generate assembly for a file
+迷宫.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/迷宫.c.s
+.PHONY : 迷宫.c.s
+
+高维数组.o: 高维数组.c.o
+
+.PHONY : 高维数组.o
+
+# target to build an object file
+高维数组.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/高维数组.c.o
+.PHONY : 高维数组.c.o
+
+高维数组.i: 高维数组.c.i
+
+.PHONY : 高维数组.i
+
+# target to preprocess a source file
+高维数组.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/高维数组.c.i
+.PHONY : 高维数组.c.i
+
+高维数组.s: 高维数组.c.s
+
+.PHONY : 高维数组.s
+
+# target to generate assembly for a file
+高维数组.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/高维数组.c.s
+.PHONY : 高维数组.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1209,9 +1425,6 @@ help:
 	@echo "... bool.o"
 	@echo "... bool.i"
 	@echo "... bool.s"
-	@echo "... enum.o"
-	@echo "... enum.i"
-	@echo "... enum.s"
 	@echo "... for.o"
 	@echo "... for.i"
 	@echo "... for.s"
@@ -1236,6 +1449,12 @@ help:
 	@echo "... while.o"
 	@echo "... while.i"
 	@echo "... while.s"
+	@echo "... 二分查找法.o"
+	@echo "... 二分查找法.i"
+	@echo "... 二分查找法.s"
+	@echo "... 二维数组的地址.o"
+	@echo "... 二维数组的地址.i"
+	@echo "... 二维数组的地址.s"
 	@echo "... 位运算.o"
 	@echo "... 位运算.i"
 	@echo "... 位运算.s"
@@ -1269,12 +1488,24 @@ help:
 	@echo "... 寄存器变量.o"
 	@echo "... 寄存器变量.i"
 	@echo "... 寄存器变量.s"
+	@echo "... 小小递归.o"
+	@echo "... 小小递归.i"
+	@echo "... 小小递归.s"
 	@echo "... 循环总结.o"
 	@echo "... 循环总结.i"
 	@echo "... 循环总结.s"
+	@echo "... 数组.o"
+	@echo "... 数组.i"
+	@echo "... 数组.s"
 	@echo "... 最小公倍数最大公约数.o"
 	@echo "... 最小公倍数最大公约数.i"
 	@echo "... 最小公倍数最大公约数.s"
+	@echo "... 杨辉三角.o"
+	@echo "... 杨辉三角.i"
+	@echo "... 杨辉三角.s"
+	@echo "... 枚举.o"
+	@echo "... 枚举.i"
+	@echo "... 枚举.s"
 	@echo "... 查找进程.o"
 	@echo "... 查找进程.i"
 	@echo "... 查找进程.s"
@@ -1284,6 +1515,9 @@ help:
 	@echo "... 汉诺塔.o"
 	@echo "... 汉诺塔.i"
 	@echo "... 汉诺塔.s"
+	@echo "... 洗牌.o"
+	@echo "... 洗牌.i"
+	@echo "... 洗牌.s"
 	@echo "... 测试whiledo.o"
 	@echo "... 测试whiledo.i"
 	@echo "... 测试whiledo.s"
@@ -1302,6 +1536,12 @@ help:
 	@echo "... 进制转换.o"
 	@echo "... 进制转换.i"
 	@echo "... 进制转换.s"
+	@echo "... 迷宫.o"
+	@echo "... 迷宫.i"
+	@echo "... 迷宫.s"
+	@echo "... 高维数组.o"
+	@echo "... 高维数组.i"
+	@echo "... 高维数组.s"
 .PHONY : help
 
 
