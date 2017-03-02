@@ -98,6 +98,12 @@
 		<Unit filename="/Users/apple/Desktop/clion/20150409.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/MyStack.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/MyStack.h">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/auto.c">
 			<Option target="clion"/>
 		</Unit>
@@ -108,6 +114,9 @@
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/main.cpp">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/myStack.h">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/printscanf.c">
@@ -134,13 +143,22 @@
 		<Unit filename="/Users/apple/Desktop/clion/二维数组的地址.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/交集和并集.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/位运算.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/全局变量.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/内存.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/内存实体以及运算符优先级.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/出现次数问题.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/函数.c">
@@ -158,6 +176,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/可变参数.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/台阶.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/基本数据类型.c">
 			<Option target="clion"/>
 		</Unit>
@@ -171,6 +192,9 @@
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/循环总结.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/指针.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/数组.c">
@@ -188,6 +212,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/查找进程.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/栈.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/树状递归.c">
 			<Option target="clion"/>
 		</Unit>
@@ -200,10 +227,16 @@
 		<Unit filename="/Users/apple/Desktop/clion/测试whiledo.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/测试队列.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/线性递归.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/练习.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/蛇和大数相乘.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/赌博.c">
@@ -216,6 +249,12 @@
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/迷宫.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/队列.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/队列.h">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/高维数组.c">

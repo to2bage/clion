@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-int main(int argc, char* argv[])
+int main洗牌(int argc, char* argv[])
 {
     {
         //初始化数组

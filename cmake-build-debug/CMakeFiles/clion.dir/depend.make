@@ -13,6 +13,9 @@ CMakeFiles/clion.dir/20150403.c.o: ../20150403.c
 
 CMakeFiles/clion.dir/20150409.c.o: ../20150409.c
 
+CMakeFiles/clion.dir/MyStack.c.o: ../MyStack.c
+CMakeFiles/clion.dir/MyStack.c.o: ../myStack.h
+
 CMakeFiles/clion.dir/auto.c.o: ../auto.c
 
 CMakeFiles/clion.dir/bool.c.o: ../bool.c
@@ -35,11 +38,17 @@ CMakeFiles/clion.dir/二分查找法.c.o: ../二分查找法.c
 
 CMakeFiles/clion.dir/二维数组的地址.c.o: ../二维数组的地址.c
 
+CMakeFiles/clion.dir/交集和并集.c.o: ../交集和并集.c
+
 CMakeFiles/clion.dir/位运算.c.o: ../位运算.c
 
 CMakeFiles/clion.dir/全局变量.c.o: ../全局变量.c
 
+CMakeFiles/clion.dir/内存.c.o: ../内存.c
+
 CMakeFiles/clion.dir/内存实体以及运算符优先级.c.o: ../内存实体以及运算符优先级.c
+
+CMakeFiles/clion.dir/出现次数问题.c.o: ../出现次数问题.c
 
 CMakeFiles/clion.dir/函数.c.o: ../函数.c
 
@@ -51,6 +60,9 @@ CMakeFiles/clion.dir/原码反码补码.c.o: ../原码反码补码.c
 
 CMakeFiles/clion.dir/可变参数.c.o: ../可变参数.c
 
+CMakeFiles/clion.dir/台阶.c.o: ../myStack.h
+CMakeFiles/clion.dir/台阶.c.o: ../台阶.c
+
 CMakeFiles/clion.dir/基本数据类型.c.o: ../基本数据类型.c
 
 CMakeFiles/clion.dir/宽字符.c.o: ../宽字符.c
@@ -60,6 +72,8 @@ CMakeFiles/clion.dir/寄存器变量.c.o: ../寄存器变量.c
 CMakeFiles/clion.dir/小小递归.c.o: ../小小递归.c
 
 CMakeFiles/clion.dir/循环总结.c.o: ../循环总结.c
+
+CMakeFiles/clion.dir/指针.c.o: ../指针.c
 
 CMakeFiles/clion.dir/数组.c.o: ../数组.c
 
@@ -71,6 +85,9 @@ CMakeFiles/clion.dir/枚举.c.o: ../枚举.c
 
 CMakeFiles/clion.dir/查找进程.c.o: ../查找进程.c
 
+CMakeFiles/clion.dir/栈.c.o: ../myStack.h
+CMakeFiles/clion.dir/栈.c.o: ../栈.c
+
 CMakeFiles/clion.dir/树状递归.c.o: ../树状递归.c
 
 CMakeFiles/clion.dir/汉诺塔.c.o: ../汉诺塔.c
@@ -79,9 +96,14 @@ CMakeFiles/clion.dir/洗牌.c.o: ../洗牌.c
 
 CMakeFiles/clion.dir/测试whiledo.c.o: ../测试whiledo.c
 
+CMakeFiles/clion.dir/测试队列.c.o: ../测试队列.c
+CMakeFiles/clion.dir/测试队列.c.o: ../队列.h
+
 CMakeFiles/clion.dir/线性递归.c.o: ../线性递归.c
 
 CMakeFiles/clion.dir/练习.c.o: ../练习.c
+
+CMakeFiles/clion.dir/蛇和大数相乘.c.o: ../蛇和大数相乘.c
 
 CMakeFiles/clion.dir/赌博.c.o: ../赌博.c
 
@@ -90,6 +112,9 @@ CMakeFiles/clion.dir/输入输出小结.c.o: ../输入输出小结.c
 CMakeFiles/clion.dir/进制转换.c.o: ../进制转换.c
 
 CMakeFiles/clion.dir/迷宫.c.o: ../迷宫.c
+
+CMakeFiles/clion.dir/队列.c.o: ../队列.c
+CMakeFiles/clion.dir/队列.c.o: ../队列.h
 
 CMakeFiles/clion.dir/高维数组.c.o: ../高维数组.c
 

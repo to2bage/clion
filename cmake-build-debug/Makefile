@@ -285,6 +285,33 @@ clion/fast:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150409.c.s
 .PHONY : 20150409.c.s
 
+MyStack.o: MyStack.c.o
+
+.PHONY : MyStack.o
+
+# target to build an object file
+MyStack.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/MyStack.c.o
+.PHONY : MyStack.c.o
+
+MyStack.i: MyStack.c.i
+
+.PHONY : MyStack.i
+
+# target to preprocess a source file
+MyStack.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/MyStack.c.i
+.PHONY : MyStack.c.i
+
+MyStack.s: MyStack.c.s
+
+.PHONY : MyStack.s
+
+# target to generate assembly for a file
+MyStack.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/MyStack.c.s
+.PHONY : MyStack.c.s
+
 auto.o: auto.c.o
 
 .PHONY : auto.o
@@ -609,6 +636,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二维数组的地址.c.s
 .PHONY : 二维数组的地址.c.s
 
+交集和并集.o: 交集和并集.c.o
+
+.PHONY : 交集和并集.o
+
+# target to build an object file
+交集和并集.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/交集和并集.c.o
+.PHONY : 交集和并集.c.o
+
+交集和并集.i: 交集和并集.c.i
+
+.PHONY : 交集和并集.i
+
+# target to preprocess a source file
+交集和并集.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/交集和并集.c.i
+.PHONY : 交集和并集.c.i
+
+交集和并集.s: 交集和并集.c.s
+
+.PHONY : 交集和并集.s
+
+# target to generate assembly for a file
+交集和并集.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/交集和并集.c.s
+.PHONY : 交集和并集.c.s
+
 位运算.o: 位运算.c.o
 
 .PHONY : 位运算.o
@@ -663,6 +717,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/全局变量.c.s
 .PHONY : 全局变量.c.s
 
+内存.o: 内存.c.o
+
+.PHONY : 内存.o
+
+# target to build an object file
+内存.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存.c.o
+.PHONY : 内存.c.o
+
+内存.i: 内存.c.i
+
+.PHONY : 内存.i
+
+# target to preprocess a source file
+内存.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存.c.i
+.PHONY : 内存.c.i
+
+内存.s: 内存.c.s
+
+.PHONY : 内存.s
+
+# target to generate assembly for a file
+内存.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存.c.s
+.PHONY : 内存.c.s
+
 内存实体以及运算符优先级.o: 内存实体以及运算符优先级.c.o
 
 .PHONY : 内存实体以及运算符优先级.o
@@ -689,6 +770,33 @@ while.c.s:
 内存实体以及运算符优先级.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存实体以及运算符优先级.c.s
 .PHONY : 内存实体以及运算符优先级.c.s
+
+出现次数问题.o: 出现次数问题.c.o
+
+.PHONY : 出现次数问题.o
+
+# target to build an object file
+出现次数问题.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/出现次数问题.c.o
+.PHONY : 出现次数问题.c.o
+
+出现次数问题.i: 出现次数问题.c.i
+
+.PHONY : 出现次数问题.i
+
+# target to preprocess a source file
+出现次数问题.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/出现次数问题.c.i
+.PHONY : 出现次数问题.c.i
+
+出现次数问题.s: 出现次数问题.c.s
+
+.PHONY : 出现次数问题.s
+
+# target to generate assembly for a file
+出现次数问题.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/出现次数问题.c.s
+.PHONY : 出现次数问题.c.s
 
 函数.o: 函数.c.o
 
@@ -825,6 +933,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/可变参数.c.s
 .PHONY : 可变参数.c.s
 
+台阶.o: 台阶.c.o
+
+.PHONY : 台阶.o
+
+# target to build an object file
+台阶.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/台阶.c.o
+.PHONY : 台阶.c.o
+
+台阶.i: 台阶.c.i
+
+.PHONY : 台阶.i
+
+# target to preprocess a source file
+台阶.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/台阶.c.i
+.PHONY : 台阶.c.i
+
+台阶.s: 台阶.c.s
+
+.PHONY : 台阶.s
+
+# target to generate assembly for a file
+台阶.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/台阶.c.s
+.PHONY : 台阶.c.s
+
 基本数据类型.o: 基本数据类型.c.o
 
 .PHONY : 基本数据类型.o
@@ -959,6 +1094,33 @@ while.c.s:
 循环总结.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/循环总结.c.s
 .PHONY : 循环总结.c.s
+
+指针.o: 指针.c.o
+
+.PHONY : 指针.o
+
+# target to build an object file
+指针.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针.c.o
+.PHONY : 指针.c.o
+
+指针.i: 指针.c.i
+
+.PHONY : 指针.i
+
+# target to preprocess a source file
+指针.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针.c.i
+.PHONY : 指针.c.i
+
+指针.s: 指针.c.s
+
+.PHONY : 指针.s
+
+# target to generate assembly for a file
+指针.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针.c.s
+.PHONY : 指针.c.s
 
 数组.o: 数组.c.o
 
@@ -1095,6 +1257,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/查找进程.c.s
 .PHONY : 查找进程.c.s
 
+栈.o: 栈.c.o
+
+.PHONY : 栈.o
+
+# target to build an object file
+栈.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/栈.c.o
+.PHONY : 栈.c.o
+
+栈.i: 栈.c.i
+
+.PHONY : 栈.i
+
+# target to preprocess a source file
+栈.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/栈.c.i
+.PHONY : 栈.c.i
+
+栈.s: 栈.c.s
+
+.PHONY : 栈.s
+
+# target to generate assembly for a file
+栈.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/栈.c.s
+.PHONY : 栈.c.s
+
 树状递归.o: 树状递归.c.o
 
 .PHONY : 树状递归.o
@@ -1203,6 +1392,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/测试whiledo.c.s
 .PHONY : 测试whiledo.c.s
 
+测试队列.o: 测试队列.c.o
+
+.PHONY : 测试队列.o
+
+# target to build an object file
+测试队列.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/测试队列.c.o
+.PHONY : 测试队列.c.o
+
+测试队列.i: 测试队列.c.i
+
+.PHONY : 测试队列.i
+
+# target to preprocess a source file
+测试队列.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/测试队列.c.i
+.PHONY : 测试队列.c.i
+
+测试队列.s: 测试队列.c.s
+
+.PHONY : 测试队列.s
+
+# target to generate assembly for a file
+测试队列.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/测试队列.c.s
+.PHONY : 测试队列.c.s
+
 线性递归.o: 线性递归.c.o
 
 .PHONY : 线性递归.o
@@ -1256,6 +1472,33 @@ while.c.s:
 练习.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/练习.c.s
 .PHONY : 练习.c.s
+
+蛇和大数相乘.o: 蛇和大数相乘.c.o
+
+.PHONY : 蛇和大数相乘.o
+
+# target to build an object file
+蛇和大数相乘.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/蛇和大数相乘.c.o
+.PHONY : 蛇和大数相乘.c.o
+
+蛇和大数相乘.i: 蛇和大数相乘.c.i
+
+.PHONY : 蛇和大数相乘.i
+
+# target to preprocess a source file
+蛇和大数相乘.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/蛇和大数相乘.c.i
+.PHONY : 蛇和大数相乘.c.i
+
+蛇和大数相乘.s: 蛇和大数相乘.c.s
+
+.PHONY : 蛇和大数相乘.s
+
+# target to generate assembly for a file
+蛇和大数相乘.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/蛇和大数相乘.c.s
+.PHONY : 蛇和大数相乘.c.s
 
 赌博.o: 赌博.c.o
 
@@ -1365,6 +1608,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/迷宫.c.s
 .PHONY : 迷宫.c.s
 
+队列.o: 队列.c.o
+
+.PHONY : 队列.o
+
+# target to build an object file
+队列.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/队列.c.o
+.PHONY : 队列.c.o
+
+队列.i: 队列.c.i
+
+.PHONY : 队列.i
+
+# target to preprocess a source file
+队列.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/队列.c.i
+.PHONY : 队列.c.i
+
+队列.s: 队列.c.s
+
+.PHONY : 队列.s
+
+# target to generate assembly for a file
+队列.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/队列.c.s
+.PHONY : 队列.c.s
+
 高维数组.o: 高维数组.c.o
 
 .PHONY : 高维数组.o
@@ -1419,6 +1689,9 @@ help:
 	@echo "... 20150409.o"
 	@echo "... 20150409.i"
 	@echo "... 20150409.s"
+	@echo "... MyStack.o"
+	@echo "... MyStack.i"
+	@echo "... MyStack.s"
 	@echo "... auto.o"
 	@echo "... auto.i"
 	@echo "... auto.s"
@@ -1455,15 +1728,24 @@ help:
 	@echo "... 二维数组的地址.o"
 	@echo "... 二维数组的地址.i"
 	@echo "... 二维数组的地址.s"
+	@echo "... 交集和并集.o"
+	@echo "... 交集和并集.i"
+	@echo "... 交集和并集.s"
 	@echo "... 位运算.o"
 	@echo "... 位运算.i"
 	@echo "... 位运算.s"
 	@echo "... 全局变量.o"
 	@echo "... 全局变量.i"
 	@echo "... 全局变量.s"
+	@echo "... 内存.o"
+	@echo "... 内存.i"
+	@echo "... 内存.s"
 	@echo "... 内存实体以及运算符优先级.o"
 	@echo "... 内存实体以及运算符优先级.i"
 	@echo "... 内存实体以及运算符优先级.s"
+	@echo "... 出现次数问题.o"
+	@echo "... 出现次数问题.i"
+	@echo "... 出现次数问题.s"
 	@echo "... 函数.o"
 	@echo "... 函数.i"
 	@echo "... 函数.s"
@@ -1479,6 +1761,9 @@ help:
 	@echo "... 可变参数.o"
 	@echo "... 可变参数.i"
 	@echo "... 可变参数.s"
+	@echo "... 台阶.o"
+	@echo "... 台阶.i"
+	@echo "... 台阶.s"
 	@echo "... 基本数据类型.o"
 	@echo "... 基本数据类型.i"
 	@echo "... 基本数据类型.s"
@@ -1494,6 +1779,9 @@ help:
 	@echo "... 循环总结.o"
 	@echo "... 循环总结.i"
 	@echo "... 循环总结.s"
+	@echo "... 指针.o"
+	@echo "... 指针.i"
+	@echo "... 指针.s"
 	@echo "... 数组.o"
 	@echo "... 数组.i"
 	@echo "... 数组.s"
@@ -1509,6 +1797,9 @@ help:
 	@echo "... 查找进程.o"
 	@echo "... 查找进程.i"
 	@echo "... 查找进程.s"
+	@echo "... 栈.o"
+	@echo "... 栈.i"
+	@echo "... 栈.s"
 	@echo "... 树状递归.o"
 	@echo "... 树状递归.i"
 	@echo "... 树状递归.s"
@@ -1521,12 +1812,18 @@ help:
 	@echo "... 测试whiledo.o"
 	@echo "... 测试whiledo.i"
 	@echo "... 测试whiledo.s"
+	@echo "... 测试队列.o"
+	@echo "... 测试队列.i"
+	@echo "... 测试队列.s"
 	@echo "... 线性递归.o"
 	@echo "... 线性递归.i"
 	@echo "... 线性递归.s"
 	@echo "... 练习.o"
 	@echo "... 练习.i"
 	@echo "... 练习.s"
+	@echo "... 蛇和大数相乘.o"
+	@echo "... 蛇和大数相乘.i"
+	@echo "... 蛇和大数相乘.s"
 	@echo "... 赌博.o"
 	@echo "... 赌博.i"
 	@echo "... 赌博.s"
@@ -1539,6 +1836,9 @@ help:
 	@echo "... 迷宫.o"
 	@echo "... 迷宫.i"
 	@echo "... 迷宫.s"
+	@echo "... 队列.o"
+	@echo "... 队列.i"
+	@echo "... 队列.s"
 	@echo "... 高维数组.o"
 	@echo "... 高维数组.i"
 	@echo "... 高维数组.s"
