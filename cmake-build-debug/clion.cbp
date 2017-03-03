@@ -140,6 +140,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/二分查找法.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/二级指针.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/二维数组的地址.c">
 			<Option target="clion"/>
 		</Unit>
@@ -195,6 +198,9 @@
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/指针.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/指针加强.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/数组.c">

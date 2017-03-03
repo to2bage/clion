@@ -106,6 +106,10 @@ stdlib.h
 time.h
 -
 
+/Users/apple/Desktop/clion/二级指针.c
+stdio.h
+-
+
 /Users/apple/Desktop/clion/二维数组的地址.c
 stdio.h
 -
@@ -220,6 +224,10 @@ stdio.h
 stdlib.h
 -
 time.h
+-
+
+/Users/apple/Desktop/clion/指针加强.c
+stdio.h
 -
 
 /Users/apple/Desktop/clion/数组.c

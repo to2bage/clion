@@ -15,7 +15,7 @@ static void *go(void *p)
     return NULL;
 }
 
-int main(int argc, char* argv[])
+int mainc测试队列(int argc, char* argv[])
 {
     {
         //测试队列

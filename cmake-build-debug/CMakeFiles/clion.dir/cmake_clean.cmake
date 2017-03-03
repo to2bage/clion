@@ -56,6 +56,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/台阶.c.o"
   "CMakeFiles/clion.dir/队列.c.o"
   "CMakeFiles/clion.dir/测试队列.c.o"
+  "CMakeFiles/clion.dir/指针加强.c.o"
+  "CMakeFiles/clion.dir/二级指针.c.o"
   "clion.pdb"
   "clion"
 )

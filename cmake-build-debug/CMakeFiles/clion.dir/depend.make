@@ -36,6 +36,8 @@ CMakeFiles/clion.dir/while.c.o: ../while.c
 
 CMakeFiles/clion.dir/二分查找法.c.o: ../二分查找法.c
 
+CMakeFiles/clion.dir/二级指针.c.o: ../二级指针.c
+
 CMakeFiles/clion.dir/二维数组的地址.c.o: ../二维数组的地址.c
 
 CMakeFiles/clion.dir/交集和并集.c.o: ../交集和并集.c
@@ -74,6 +76,8 @@ CMakeFiles/clion.dir/小小递归.c.o: ../小小递归.c
 CMakeFiles/clion.dir/循环总结.c.o: ../循环总结.c
 
 CMakeFiles/clion.dir/指针.c.o: ../指针.c
+
+CMakeFiles/clion.dir/指针加强.c.o: ../指针加强.c
 
 CMakeFiles/clion.dir/数组.c.o: ../数组.c
 

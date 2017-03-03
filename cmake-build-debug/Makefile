@@ -609,6 +609,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二分查找法.c.s
 .PHONY : 二分查找法.c.s
 
+二级指针.o: 二级指针.c.o
+
+.PHONY : 二级指针.o
+
+# target to build an object file
+二级指针.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二级指针.c.o
+.PHONY : 二级指针.c.o
+
+二级指针.i: 二级指针.c.i
+
+.PHONY : 二级指针.i
+
+# target to preprocess a source file
+二级指针.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二级指针.c.i
+.PHONY : 二级指针.c.i
+
+二级指针.s: 二级指针.c.s
+
+.PHONY : 二级指针.s
+
+# target to generate assembly for a file
+二级指针.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二级指针.c.s
+.PHONY : 二级指针.c.s
+
 二维数组的地址.o: 二维数组的地址.c.o
 
 .PHONY : 二维数组的地址.o
@@ -1121,6 +1148,33 @@ while.c.s:
 指针.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针.c.s
 .PHONY : 指针.c.s
+
+指针加强.o: 指针加强.c.o
+
+.PHONY : 指针加强.o
+
+# target to build an object file
+指针加强.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针加强.c.o
+.PHONY : 指针加强.c.o
+
+指针加强.i: 指针加强.c.i
+
+.PHONY : 指针加强.i
+
+# target to preprocess a source file
+指针加强.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针加强.c.i
+.PHONY : 指针加强.c.i
+
+指针加强.s: 指针加强.c.s
+
+.PHONY : 指针加强.s
+
+# target to generate assembly for a file
+指针加强.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针加强.c.s
+.PHONY : 指针加强.c.s
 
 数组.o: 数组.c.o
 
@@ -1725,6 +1779,9 @@ help:
 	@echo "... 二分查找法.o"
 	@echo "... 二分查找法.i"
 	@echo "... 二分查找法.s"
+	@echo "... 二级指针.o"
+	@echo "... 二级指针.i"
+	@echo "... 二级指针.s"
 	@echo "... 二维数组的地址.o"
 	@echo "... 二维数组的地址.i"
 	@echo "... 二维数组的地址.s"
@@ -1782,6 +1839,9 @@ help:
 	@echo "... 指针.o"
 	@echo "... 指针.i"
 	@echo "... 指针.s"
+	@echo "... 指针加强.o"
+	@echo "... 指针加强.i"
+	@echo "... 指针加强.s"
 	@echo "... 数组.o"
 	@echo "... 数组.i"
 	@echo "... 数组.s"
