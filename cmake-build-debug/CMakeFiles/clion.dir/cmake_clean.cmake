@@ -58,6 +58,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/测试队列.c.o"
   "CMakeFiles/clion.dir/指针加强.c.o"
   "CMakeFiles/clion.dir/二级指针.c.o"
+  "CMakeFiles/clion.dir/指针数组强化.c.o"
+  "CMakeFiles/clion.dir/线程.c.o"
+  "CMakeFiles/clion.dir/Linux输出中文宽字符.c.o"
   "clion.pdb"
   "clion"
 )

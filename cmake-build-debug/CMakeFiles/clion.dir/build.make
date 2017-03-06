@@ -1473,6 +1473,78 @@ CMakeFiles/clion.dir/二级指针.c.o.provides: CMakeFiles/clion.dir/二级指�
 CMakeFiles/clion.dir/二级指针.c.o.provides.build: CMakeFiles/clion.dir/二级指针.c.o
 
 
+CMakeFiles/clion.dir/指针数组强化.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/指针数组强化.c.o: ../指针数组强化.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/clion.dir/指针数组强化.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/指针数组强化.c.o   -c /Users/apple/Desktop/clion/指针数组强化.c
+
+CMakeFiles/clion.dir/指针数组强化.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/指针数组强化.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/指针数组强化.c > CMakeFiles/clion.dir/指针数组强化.c.i
+
+CMakeFiles/clion.dir/指针数组强化.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/指针数组强化.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/指针数组强化.c -o CMakeFiles/clion.dir/指针数组强化.c.s
+
+CMakeFiles/clion.dir/指针数组强化.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/指针数组强化.c.o.requires
+
+CMakeFiles/clion.dir/指针数组强化.c.o.provides: CMakeFiles/clion.dir/指针数组强化.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针数组强化.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/指针数组强化.c.o.provides
+
+CMakeFiles/clion.dir/指针数组强化.c.o.provides.build: CMakeFiles/clion.dir/指针数组强化.c.o
+
+
+CMakeFiles/clion.dir/线程.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/线程.c.o: ../线程.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/clion.dir/线程.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/线程.c.o   -c /Users/apple/Desktop/clion/线程.c
+
+CMakeFiles/clion.dir/线程.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/线程.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/线程.c > CMakeFiles/clion.dir/线程.c.i
+
+CMakeFiles/clion.dir/线程.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/线程.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/线程.c -o CMakeFiles/clion.dir/线程.c.s
+
+CMakeFiles/clion.dir/线程.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/线程.c.o.requires
+
+CMakeFiles/clion.dir/线程.c.o.provides: CMakeFiles/clion.dir/线程.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/线程.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/线程.c.o.provides
+
+CMakeFiles/clion.dir/线程.c.o.provides.build: CMakeFiles/clion.dir/线程.c.o
+
+
+CMakeFiles/clion.dir/Linux输出中文宽字符.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/Linux输出中文宽字符.c.o: ../Linux输出中文宽字符.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/clion.dir/Linux输出中文宽字符.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/Linux输出中文宽字符.c.o   -c /Users/apple/Desktop/clion/Linux输出中文宽字符.c
+
+CMakeFiles/clion.dir/Linux输出中文宽字符.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/Linux输出中文宽字符.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/Linux输出中文宽字符.c > CMakeFiles/clion.dir/Linux输出中文宽字符.c.i
+
+CMakeFiles/clion.dir/Linux输出中文宽字符.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/Linux输出中文宽字符.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/Linux输出中文宽字符.c -o CMakeFiles/clion.dir/Linux输出中文宽字符.c.s
+
+CMakeFiles/clion.dir/Linux输出中文宽字符.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/Linux输出中文宽字符.c.o.requires
+
+CMakeFiles/clion.dir/Linux输出中文宽字符.c.o.provides: CMakeFiles/clion.dir/Linux输出中文宽字符.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/Linux输出中文宽字符.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/Linux输出中文宽字符.c.o.provides
+
+CMakeFiles/clion.dir/Linux输出中文宽字符.c.o.provides.build: CMakeFiles/clion.dir/Linux输出中文宽字符.c.o
+
+
 # Object files for target clion
 clion_OBJECTS = \
 "CMakeFiles/clion.dir/main.cpp.o" \
@@ -1533,7 +1605,10 @@ clion_OBJECTS = \
 "CMakeFiles/clion.dir/队列.c.o" \
 "CMakeFiles/clion.dir/测试队列.c.o" \
 "CMakeFiles/clion.dir/指针加强.c.o" \
-"CMakeFiles/clion.dir/二级指针.c.o"
+"CMakeFiles/clion.dir/二级指针.c.o" \
+"CMakeFiles/clion.dir/指针数组强化.c.o" \
+"CMakeFiles/clion.dir/线程.c.o" \
+"CMakeFiles/clion.dir/Linux输出中文宽字符.c.o"
 
 # External object files for target clion
 clion_EXTERNAL_OBJECTS =
@@ -1597,9 +1672,12 @@ clion: CMakeFiles/clion.dir/队列.c.o
 clion: CMakeFiles/clion.dir/测试队列.c.o
 clion: CMakeFiles/clion.dir/指针加强.c.o
 clion: CMakeFiles/clion.dir/二级指针.c.o
+clion: CMakeFiles/clion.dir/指针数组强化.c.o
+clion: CMakeFiles/clion.dir/线程.c.o
+clion: CMakeFiles/clion.dir/Linux输出中文宽字符.c.o
 clion: CMakeFiles/clion.dir/build.make
 clion: CMakeFiles/clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Linking CXX executable clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Linking CXX executable clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1666,6 +1744,9 @@ CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/队列.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/测试队列.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/指针加强.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/二级指针.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/指针数组强化.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/线程.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/Linux输出中文宽字符.c.o.requires
 
 .PHONY : CMakeFiles/clion.dir/requires
 

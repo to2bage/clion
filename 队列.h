@@ -35,4 +35,6 @@ void deQueue(Queue *pQueue);
 //显示
 void showQueue(Queue *pQueue);
 
+//#undef N    //结束N的作用域
+
 #endif //CLION_队列_H

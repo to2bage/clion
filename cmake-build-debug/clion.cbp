@@ -98,6 +98,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/20150409.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/Linux输出中文宽字符.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/MyStack.c">
 			<Option target="clion"/>
 		</Unit>
@@ -203,6 +206,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/指针加强.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/指针数组强化.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/数组.c">
 			<Option target="clion"/>
 		</Unit>
@@ -237,6 +243,9 @@
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/线性递归.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/线程.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/练习.c">

@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-int main(int argc, char* argv[])
+int main二级指针(int argc, char* argv[])
 {
     {
         double db = 10.8;
