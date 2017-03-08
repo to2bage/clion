@@ -146,6 +146,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/二级指针.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/二维数组.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/二维数组的地址.c">
 			<Option target="clion"/>
 		</Unit>
@@ -161,6 +164,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/内存.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/内存分配函数.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/内存实体以及运算符优先级.c">
 			<Option target="clion"/>
 		</Unit>
@@ -168,6 +174,12 @@
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/函数.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/函数指针.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/函数指针数组.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/分离和穷举.c">
@@ -206,10 +218,22 @@
 		<Unit filename="/Users/apple/Desktop/clion/指针加强.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/指针数组.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/指针数组强化.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/指针的算术运算.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/数组.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/数组的三种形式.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/数组的指针和指针的数组.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/最小公倍数最大公约数.c">
@@ -231,6 +255,9 @@
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/汉诺塔.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/汉诺塔的动态分配内存的实现.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/洗牌.c">
@@ -264,6 +291,9 @@
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/迷宫.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/迷宫的出路.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/队列.c">

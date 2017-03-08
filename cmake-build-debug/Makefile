@@ -663,6 +663,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二级指针.c.s
 .PHONY : 二级指针.c.s
 
+二维数组.o: 二维数组.c.o
+
+.PHONY : 二维数组.o
+
+# target to build an object file
+二维数组.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二维数组.c.o
+.PHONY : 二维数组.c.o
+
+二维数组.i: 二维数组.c.i
+
+.PHONY : 二维数组.i
+
+# target to preprocess a source file
+二维数组.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二维数组.c.i
+.PHONY : 二维数组.c.i
+
+二维数组.s: 二维数组.c.s
+
+.PHONY : 二维数组.s
+
+# target to generate assembly for a file
+二维数组.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二维数组.c.s
+.PHONY : 二维数组.c.s
+
 二维数组的地址.o: 二维数组的地址.c.o
 
 .PHONY : 二维数组的地址.o
@@ -798,6 +825,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存.c.s
 .PHONY : 内存.c.s
 
+内存分配函数.o: 内存分配函数.c.o
+
+.PHONY : 内存分配函数.o
+
+# target to build an object file
+内存分配函数.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存分配函数.c.o
+.PHONY : 内存分配函数.c.o
+
+内存分配函数.i: 内存分配函数.c.i
+
+.PHONY : 内存分配函数.i
+
+# target to preprocess a source file
+内存分配函数.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存分配函数.c.i
+.PHONY : 内存分配函数.c.i
+
+内存分配函数.s: 内存分配函数.c.s
+
+.PHONY : 内存分配函数.s
+
+# target to generate assembly for a file
+内存分配函数.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存分配函数.c.s
+.PHONY : 内存分配函数.c.s
+
 内存实体以及运算符优先级.o: 内存实体以及运算符优先级.c.o
 
 .PHONY : 内存实体以及运算符优先级.o
@@ -878,6 +932,60 @@ while.c.s:
 函数.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数.c.s
 .PHONY : 函数.c.s
+
+函数指针.o: 函数指针.c.o
+
+.PHONY : 函数指针.o
+
+# target to build an object file
+函数指针.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数指针.c.o
+.PHONY : 函数指针.c.o
+
+函数指针.i: 函数指针.c.i
+
+.PHONY : 函数指针.i
+
+# target to preprocess a source file
+函数指针.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数指针.c.i
+.PHONY : 函数指针.c.i
+
+函数指针.s: 函数指针.c.s
+
+.PHONY : 函数指针.s
+
+# target to generate assembly for a file
+函数指针.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数指针.c.s
+.PHONY : 函数指针.c.s
+
+函数指针数组.o: 函数指针数组.c.o
+
+.PHONY : 函数指针数组.o
+
+# target to build an object file
+函数指针数组.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数指针数组.c.o
+.PHONY : 函数指针数组.c.o
+
+函数指针数组.i: 函数指针数组.c.i
+
+.PHONY : 函数指针数组.i
+
+# target to preprocess a source file
+函数指针数组.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数指针数组.c.i
+.PHONY : 函数指针数组.c.i
+
+函数指针数组.s: 函数指针数组.c.s
+
+.PHONY : 函数指针数组.s
+
+# target to generate assembly for a file
+函数指针数组.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数指针数组.c.s
+.PHONY : 函数指针数组.c.s
 
 分离和穷举.o: 分离和穷举.c.o
 
@@ -1203,6 +1311,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针加强.c.s
 .PHONY : 指针加强.c.s
 
+指针数组.o: 指针数组.c.o
+
+.PHONY : 指针数组.o
+
+# target to build an object file
+指针数组.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针数组.c.o
+.PHONY : 指针数组.c.o
+
+指针数组.i: 指针数组.c.i
+
+.PHONY : 指针数组.i
+
+# target to preprocess a source file
+指针数组.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针数组.c.i
+.PHONY : 指针数组.c.i
+
+指针数组.s: 指针数组.c.s
+
+.PHONY : 指针数组.s
+
+# target to generate assembly for a file
+指针数组.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针数组.c.s
+.PHONY : 指针数组.c.s
+
 指针数组强化.o: 指针数组强化.c.o
 
 .PHONY : 指针数组强化.o
@@ -1230,6 +1365,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针数组强化.c.s
 .PHONY : 指针数组强化.c.s
 
+指针的算术运算.o: 指针的算术运算.c.o
+
+.PHONY : 指针的算术运算.o
+
+# target to build an object file
+指针的算术运算.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针的算术运算.c.o
+.PHONY : 指针的算术运算.c.o
+
+指针的算术运算.i: 指针的算术运算.c.i
+
+.PHONY : 指针的算术运算.i
+
+# target to preprocess a source file
+指针的算术运算.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针的算术运算.c.i
+.PHONY : 指针的算术运算.c.i
+
+指针的算术运算.s: 指针的算术运算.c.s
+
+.PHONY : 指针的算术运算.s
+
+# target to generate assembly for a file
+指针的算术运算.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针的算术运算.c.s
+.PHONY : 指针的算术运算.c.s
+
 数组.o: 数组.c.o
 
 .PHONY : 数组.o
@@ -1256,6 +1418,60 @@ while.c.s:
 数组.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组.c.s
 .PHONY : 数组.c.s
+
+数组的三种形式.o: 数组的三种形式.c.o
+
+.PHONY : 数组的三种形式.o
+
+# target to build an object file
+数组的三种形式.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组的三种形式.c.o
+.PHONY : 数组的三种形式.c.o
+
+数组的三种形式.i: 数组的三种形式.c.i
+
+.PHONY : 数组的三种形式.i
+
+# target to preprocess a source file
+数组的三种形式.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组的三种形式.c.i
+.PHONY : 数组的三种形式.c.i
+
+数组的三种形式.s: 数组的三种形式.c.s
+
+.PHONY : 数组的三种形式.s
+
+# target to generate assembly for a file
+数组的三种形式.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组的三种形式.c.s
+.PHONY : 数组的三种形式.c.s
+
+数组的指针和指针的数组.o: 数组的指针和指针的数组.c.o
+
+.PHONY : 数组的指针和指针的数组.o
+
+# target to build an object file
+数组的指针和指针的数组.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组的指针和指针的数组.c.o
+.PHONY : 数组的指针和指针的数组.c.o
+
+数组的指针和指针的数组.i: 数组的指针和指针的数组.c.i
+
+.PHONY : 数组的指针和指针的数组.i
+
+# target to preprocess a source file
+数组的指针和指针的数组.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组的指针和指针的数组.c.i
+.PHONY : 数组的指针和指针的数组.c.i
+
+数组的指针和指针的数组.s: 数组的指针和指针的数组.c.s
+
+.PHONY : 数组的指针和指针的数组.s
+
+# target to generate assembly for a file
+数组的指针和指针的数组.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组的指针和指针的数组.c.s
+.PHONY : 数组的指针和指针的数组.c.s
 
 最小公倍数最大公约数.o: 最小公倍数最大公约数.c.o
 
@@ -1445,6 +1661,33 @@ while.c.s:
 汉诺塔.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/汉诺塔.c.s
 .PHONY : 汉诺塔.c.s
+
+汉诺塔的动态分配内存的实现.o: 汉诺塔的动态分配内存的实现.c.o
+
+.PHONY : 汉诺塔的动态分配内存的实现.o
+
+# target to build an object file
+汉诺塔的动态分配内存的实现.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/汉诺塔的动态分配内存的实现.c.o
+.PHONY : 汉诺塔的动态分配内存的实现.c.o
+
+汉诺塔的动态分配内存的实现.i: 汉诺塔的动态分配内存的实现.c.i
+
+.PHONY : 汉诺塔的动态分配内存的实现.i
+
+# target to preprocess a source file
+汉诺塔的动态分配内存的实现.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/汉诺塔的动态分配内存的实现.c.i
+.PHONY : 汉诺塔的动态分配内存的实现.c.i
+
+汉诺塔的动态分配内存的实现.s: 汉诺塔的动态分配内存的实现.c.s
+
+.PHONY : 汉诺塔的动态分配内存的实现.s
+
+# target to generate assembly for a file
+汉诺塔的动态分配内存的实现.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/汉诺塔的动态分配内存的实现.c.s
+.PHONY : 汉诺塔的动态分配内存的实现.c.s
 
 洗牌.o: 洗牌.c.o
 
@@ -1743,6 +1986,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/迷宫.c.s
 .PHONY : 迷宫.c.s
 
+迷宫的出路.o: 迷宫的出路.c.o
+
+.PHONY : 迷宫的出路.o
+
+# target to build an object file
+迷宫的出路.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/迷宫的出路.c.o
+.PHONY : 迷宫的出路.c.o
+
+迷宫的出路.i: 迷宫的出路.c.i
+
+.PHONY : 迷宫的出路.i
+
+# target to preprocess a source file
+迷宫的出路.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/迷宫的出路.c.i
+.PHONY : 迷宫的出路.c.i
+
+迷宫的出路.s: 迷宫的出路.c.s
+
+.PHONY : 迷宫的出路.s
+
+# target to generate assembly for a file
+迷宫的出路.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/迷宫的出路.c.s
+.PHONY : 迷宫的出路.c.s
+
 队列.o: 队列.c.o
 
 .PHONY : 队列.o
@@ -1866,6 +2136,9 @@ help:
 	@echo "... 二级指针.o"
 	@echo "... 二级指针.i"
 	@echo "... 二级指针.s"
+	@echo "... 二维数组.o"
+	@echo "... 二维数组.i"
+	@echo "... 二维数组.s"
 	@echo "... 二维数组的地址.o"
 	@echo "... 二维数组的地址.i"
 	@echo "... 二维数组的地址.s"
@@ -1881,6 +2154,9 @@ help:
 	@echo "... 内存.o"
 	@echo "... 内存.i"
 	@echo "... 内存.s"
+	@echo "... 内存分配函数.o"
+	@echo "... 内存分配函数.i"
+	@echo "... 内存分配函数.s"
 	@echo "... 内存实体以及运算符优先级.o"
 	@echo "... 内存实体以及运算符优先级.i"
 	@echo "... 内存实体以及运算符优先级.s"
@@ -1890,6 +2166,12 @@ help:
 	@echo "... 函数.o"
 	@echo "... 函数.i"
 	@echo "... 函数.s"
+	@echo "... 函数指针.o"
+	@echo "... 函数指针.i"
+	@echo "... 函数指针.s"
+	@echo "... 函数指针数组.o"
+	@echo "... 函数指针数组.i"
+	@echo "... 函数指针数组.s"
 	@echo "... 分离和穷举.o"
 	@echo "... 分离和穷举.i"
 	@echo "... 分离和穷举.s"
@@ -1926,12 +2208,24 @@ help:
 	@echo "... 指针加强.o"
 	@echo "... 指针加强.i"
 	@echo "... 指针加强.s"
+	@echo "... 指针数组.o"
+	@echo "... 指针数组.i"
+	@echo "... 指针数组.s"
 	@echo "... 指针数组强化.o"
 	@echo "... 指针数组强化.i"
 	@echo "... 指针数组强化.s"
+	@echo "... 指针的算术运算.o"
+	@echo "... 指针的算术运算.i"
+	@echo "... 指针的算术运算.s"
 	@echo "... 数组.o"
 	@echo "... 数组.i"
 	@echo "... 数组.s"
+	@echo "... 数组的三种形式.o"
+	@echo "... 数组的三种形式.i"
+	@echo "... 数组的三种形式.s"
+	@echo "... 数组的指针和指针的数组.o"
+	@echo "... 数组的指针和指针的数组.i"
+	@echo "... 数组的指针和指针的数组.s"
 	@echo "... 最小公倍数最大公约数.o"
 	@echo "... 最小公倍数最大公约数.i"
 	@echo "... 最小公倍数最大公约数.s"
@@ -1953,6 +2247,9 @@ help:
 	@echo "... 汉诺塔.o"
 	@echo "... 汉诺塔.i"
 	@echo "... 汉诺塔.s"
+	@echo "... 汉诺塔的动态分配内存的实现.o"
+	@echo "... 汉诺塔的动态分配内存的实现.i"
+	@echo "... 汉诺塔的动态分配内存的实现.s"
 	@echo "... 洗牌.o"
 	@echo "... 洗牌.i"
 	@echo "... 洗牌.s"
@@ -1986,6 +2283,9 @@ help:
 	@echo "... 迷宫.o"
 	@echo "... 迷宫.i"
 	@echo "... 迷宫.s"
+	@echo "... 迷宫的出路.o"
+	@echo "... 迷宫的出路.i"
+	@echo "... 迷宫的出路.s"
 	@echo "... 队列.o"
 	@echo "... 队列.i"
 	@echo "... 队列.s"
