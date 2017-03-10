@@ -71,6 +71,13 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/二维数组.c.o"
   "CMakeFiles/clion.dir/函数指针.c.o"
   "CMakeFiles/clion.dir/函数指针数组.c.o"
+  "CMakeFiles/clion.dir/函数指针数组与多线程.c.o"
+  "CMakeFiles/clion.dir/函数返回值的副本机制.c.o"
+  "CMakeFiles/clion.dir/左值右值.c.o"
+  "CMakeFiles/clion.dir/QQ.c.o"
+  "CMakeFiles/clion.dir/快速排序的数组实现.c.o"
+  "CMakeFiles/clion.dir/快速排序的指针实现.c.o"
+  "CMakeFiles/clion.dir/六位数字密码库.c.o"
   "clion.pdb"
   "clion"
 )

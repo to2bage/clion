@@ -107,6 +107,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/MyStack.h">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/QQ.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/auto.c">
 			<Option target="clion"/>
 		</Unit>
@@ -161,6 +164,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/全局变量.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/六位数字密码库.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/内存.c">
 			<Option target="clion"/>
 		</Unit>
@@ -180,6 +186,12 @@
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/函数指针数组.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/函数指针数组与多线程.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/函数返回值的副本机制.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/分离和穷举.c">
@@ -209,7 +221,16 @@
 		<Unit filename="/Users/apple/Desktop/clion/小小递归.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/左值右值.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/循环总结.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/快速排序的指针实现.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/快速排序的数组实现.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/指针.c">

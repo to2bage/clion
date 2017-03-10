@@ -339,6 +339,33 @@ MyStack.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/MyStack.c.s
 .PHONY : MyStack.c.s
 
+QQ.o: QQ.c.o
+
+.PHONY : QQ.o
+
+# target to build an object file
+QQ.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/QQ.c.o
+.PHONY : QQ.c.o
+
+QQ.i: QQ.c.i
+
+.PHONY : QQ.i
+
+# target to preprocess a source file
+QQ.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/QQ.c.i
+.PHONY : QQ.c.i
+
+QQ.s: QQ.c.s
+
+.PHONY : QQ.s
+
+# target to generate assembly for a file
+QQ.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/QQ.c.s
+.PHONY : QQ.c.s
+
 auto.o: auto.c.o
 
 .PHONY : auto.o
@@ -798,6 +825,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/全局变量.c.s
 .PHONY : 全局变量.c.s
 
+六位数字密码库.o: 六位数字密码库.c.o
+
+.PHONY : 六位数字密码库.o
+
+# target to build an object file
+六位数字密码库.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/六位数字密码库.c.o
+.PHONY : 六位数字密码库.c.o
+
+六位数字密码库.i: 六位数字密码库.c.i
+
+.PHONY : 六位数字密码库.i
+
+# target to preprocess a source file
+六位数字密码库.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/六位数字密码库.c.i
+.PHONY : 六位数字密码库.c.i
+
+六位数字密码库.s: 六位数字密码库.c.s
+
+.PHONY : 六位数字密码库.s
+
+# target to generate assembly for a file
+六位数字密码库.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/六位数字密码库.c.s
+.PHONY : 六位数字密码库.c.s
+
 内存.o: 内存.c.o
 
 .PHONY : 内存.o
@@ -986,6 +1040,60 @@ while.c.s:
 函数指针数组.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数指针数组.c.s
 .PHONY : 函数指针数组.c.s
+
+函数指针数组与多线程.o: 函数指针数组与多线程.c.o
+
+.PHONY : 函数指针数组与多线程.o
+
+# target to build an object file
+函数指针数组与多线程.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数指针数组与多线程.c.o
+.PHONY : 函数指针数组与多线程.c.o
+
+函数指针数组与多线程.i: 函数指针数组与多线程.c.i
+
+.PHONY : 函数指针数组与多线程.i
+
+# target to preprocess a source file
+函数指针数组与多线程.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数指针数组与多线程.c.i
+.PHONY : 函数指针数组与多线程.c.i
+
+函数指针数组与多线程.s: 函数指针数组与多线程.c.s
+
+.PHONY : 函数指针数组与多线程.s
+
+# target to generate assembly for a file
+函数指针数组与多线程.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数指针数组与多线程.c.s
+.PHONY : 函数指针数组与多线程.c.s
+
+函数返回值的副本机制.o: 函数返回值的副本机制.c.o
+
+.PHONY : 函数返回值的副本机制.o
+
+# target to build an object file
+函数返回值的副本机制.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数返回值的副本机制.c.o
+.PHONY : 函数返回值的副本机制.c.o
+
+函数返回值的副本机制.i: 函数返回值的副本机制.c.i
+
+.PHONY : 函数返回值的副本机制.i
+
+# target to preprocess a source file
+函数返回值的副本机制.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数返回值的副本机制.c.i
+.PHONY : 函数返回值的副本机制.c.i
+
+函数返回值的副本机制.s: 函数返回值的副本机制.c.s
+
+.PHONY : 函数返回值的副本机制.s
+
+# target to generate assembly for a file
+函数返回值的副本机制.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/函数返回值的副本机制.c.s
+.PHONY : 函数返回值的副本机制.c.s
 
 分离和穷举.o: 分离和穷举.c.o
 
@@ -1230,6 +1338,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/小小递归.c.s
 .PHONY : 小小递归.c.s
 
+左值右值.o: 左值右值.c.o
+
+.PHONY : 左值右值.o
+
+# target to build an object file
+左值右值.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/左值右值.c.o
+.PHONY : 左值右值.c.o
+
+左值右值.i: 左值右值.c.i
+
+.PHONY : 左值右值.i
+
+# target to preprocess a source file
+左值右值.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/左值右值.c.i
+.PHONY : 左值右值.c.i
+
+左值右值.s: 左值右值.c.s
+
+.PHONY : 左值右值.s
+
+# target to generate assembly for a file
+左值右值.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/左值右值.c.s
+.PHONY : 左值右值.c.s
+
 循环总结.o: 循环总结.c.o
 
 .PHONY : 循环总结.o
@@ -1256,6 +1391,60 @@ while.c.s:
 循环总结.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/循环总结.c.s
 .PHONY : 循环总结.c.s
+
+快速排序的指针实现.o: 快速排序的指针实现.c.o
+
+.PHONY : 快速排序的指针实现.o
+
+# target to build an object file
+快速排序的指针实现.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/快速排序的指针实现.c.o
+.PHONY : 快速排序的指针实现.c.o
+
+快速排序的指针实现.i: 快速排序的指针实现.c.i
+
+.PHONY : 快速排序的指针实现.i
+
+# target to preprocess a source file
+快速排序的指针实现.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/快速排序的指针实现.c.i
+.PHONY : 快速排序的指针实现.c.i
+
+快速排序的指针实现.s: 快速排序的指针实现.c.s
+
+.PHONY : 快速排序的指针实现.s
+
+# target to generate assembly for a file
+快速排序的指针实现.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/快速排序的指针实现.c.s
+.PHONY : 快速排序的指针实现.c.s
+
+快速排序的数组实现.o: 快速排序的数组实现.c.o
+
+.PHONY : 快速排序的数组实现.o
+
+# target to build an object file
+快速排序的数组实现.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/快速排序的数组实现.c.o
+.PHONY : 快速排序的数组实现.c.o
+
+快速排序的数组实现.i: 快速排序的数组实现.c.i
+
+.PHONY : 快速排序的数组实现.i
+
+# target to preprocess a source file
+快速排序的数组实现.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/快速排序的数组实现.c.i
+.PHONY : 快速排序的数组实现.c.i
+
+快速排序的数组实现.s: 快速排序的数组实现.c.s
+
+.PHONY : 快速排序的数组实现.s
+
+# target to generate assembly for a file
+快速排序的数组实现.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/快速排序的数组实现.c.s
+.PHONY : 快速排序的数组实现.c.s
 
 指针.o: 指针.c.o
 
@@ -2100,6 +2289,9 @@ help:
 	@echo "... MyStack.o"
 	@echo "... MyStack.i"
 	@echo "... MyStack.s"
+	@echo "... QQ.o"
+	@echo "... QQ.i"
+	@echo "... QQ.s"
 	@echo "... auto.o"
 	@echo "... auto.i"
 	@echo "... auto.s"
@@ -2151,6 +2343,9 @@ help:
 	@echo "... 全局变量.o"
 	@echo "... 全局变量.i"
 	@echo "... 全局变量.s"
+	@echo "... 六位数字密码库.o"
+	@echo "... 六位数字密码库.i"
+	@echo "... 六位数字密码库.s"
 	@echo "... 内存.o"
 	@echo "... 内存.i"
 	@echo "... 内存.s"
@@ -2172,6 +2367,12 @@ help:
 	@echo "... 函数指针数组.o"
 	@echo "... 函数指针数组.i"
 	@echo "... 函数指针数组.s"
+	@echo "... 函数指针数组与多线程.o"
+	@echo "... 函数指针数组与多线程.i"
+	@echo "... 函数指针数组与多线程.s"
+	@echo "... 函数返回值的副本机制.o"
+	@echo "... 函数返回值的副本机制.i"
+	@echo "... 函数返回值的副本机制.s"
 	@echo "... 分离和穷举.o"
 	@echo "... 分离和穷举.i"
 	@echo "... 分离和穷举.s"
@@ -2199,9 +2400,18 @@ help:
 	@echo "... 小小递归.o"
 	@echo "... 小小递归.i"
 	@echo "... 小小递归.s"
+	@echo "... 左值右值.o"
+	@echo "... 左值右值.i"
+	@echo "... 左值右值.s"
 	@echo "... 循环总结.o"
 	@echo "... 循环总结.i"
 	@echo "... 循环总结.s"
+	@echo "... 快速排序的指针实现.o"
+	@echo "... 快速排序的指针实现.i"
+	@echo "... 快速排序的指针实现.s"
+	@echo "... 快速排序的数组实现.o"
+	@echo "... 快速排序的数组实现.i"
+	@echo "... 快速排序的数组实现.s"
 	@echo "... 指针.o"
 	@echo "... 指针.i"
 	@echo "... 指针.s"

@@ -38,7 +38,7 @@ int main函数指针数组(int argc, char* argv[])
         int (*fp)(int, int) = getMax;
         //函数指针数组
         int (*afp[6])(int, int) = {getMax, getMin, add, sub, mull, divv};//afp是常量
-        printf("sizeof(afp) = %d\n", sizeof(afp)); //48个字节=6 * 8个字节
+        printf("sizeof(afp) = %lu\n", sizeof(afp)); //48个字节=6 * 8个字节
         //函数指针数组的遍历
         for(int i = 0; i < 6; i++)
         {

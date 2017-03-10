@@ -3,6 +3,7 @@
 //
 #include <stdio.h>
 #include <stdlib.h>
+#include <alloca.h>
 
 
 int main内存分配函数(int argc, char* argv[])
@@ -36,6 +37,11 @@ int main内存分配函数(int argc, char* argv[])
         //_recalloc
         int *p = (int *)malloc(10 * sizeof(int));
         //p = _recalloc(p, 20, sizeof(int));  //linux 下好像不能用哦
+    }
+    {
+        //栈上栈上栈上 分配内存函数 ： alloca, 要包含头文件 alloca.h
+        int *p = alloca(10 * sizeof(int)); //因为实在栈上分配内存，所以不能超过栈的内存大小
+
     }
 
     return 0;
