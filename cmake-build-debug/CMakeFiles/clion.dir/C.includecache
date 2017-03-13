@@ -96,6 +96,16 @@ stdio.h
 stdio.h
 -
 
+/Users/apple/Desktop/clion/sqlite.c
+stdio.h
+-
+sqlite3.h
+/Users/apple/Desktop/clion/sqlite3.h
+
+/Users/apple/Desktop/clion/sqlite3.h
+stdarg.h
+-
+
 /Users/apple/Desktop/clion/test.c
 stdio.h
 -
@@ -158,7 +168,7 @@ stdio.h
 stdio.h
 -
 
-/Users/apple/Desktop/clion/六位数字密码库.c
+/Users/apple/Desktop/clion/全排列.c
 stdio.h
 -
 
@@ -252,6 +262,42 @@ myStack.h
 
 /Users/apple/Desktop/clion/基本数据类型.c
 stdio.h
+-
+
+/Users/apple/Desktop/clion/堆排序.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/Users/apple/Desktop/clion/堆排序变异.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/Users/apple/Desktop/clion/字符串.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+
+/Users/apple/Desktop/clion/字符串常用函数.c
+stdio.h
+-
+string.h
+-
+stdbool.h
+-
+stdlib.h
 -
 
 /Users/apple/Desktop/clion/宽字符.c

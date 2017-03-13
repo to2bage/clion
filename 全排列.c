@@ -3,7 +3,7 @@
 //
 #include <stdio.h>
 
-static char str[10] = "abcd";
+static char str[10] = "abcdefg";
 static int op = 1;
 
 static void swap(char *p1, char *p2)
@@ -28,7 +28,7 @@ static void createNumberPwd(char *pstr)
     }
 }
 
-int main(int argc, char* argv[])
+int main全排列(int argc, char* argv[])
 {
     {
         createNumberPwd(str);

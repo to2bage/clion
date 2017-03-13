@@ -30,6 +30,9 @@ CMakeFiles/clion.dir/printscanf.c.o: ../printscanf.c
 
 CMakeFiles/clion.dir/scanf正则表达式.c.o: ../scanf正则表达式.c
 
+CMakeFiles/clion.dir/sqlite.c.o: ../sqlite.c
+CMakeFiles/clion.dir/sqlite.c.o: ../sqlite3.h
+
 CMakeFiles/clion.dir/test.c.o: ../test.c
 
 CMakeFiles/clion.dir/typedef.c.o: ../typedef.c
@@ -52,7 +55,7 @@ CMakeFiles/clion.dir/位运算.c.o: ../位运算.c
 
 CMakeFiles/clion.dir/全局变量.c.o: ../全局变量.c
 
-CMakeFiles/clion.dir/六位数字密码库.c.o: ../六位数字密码库.c
+CMakeFiles/clion.dir/全排列.c.o: ../全排列.c
 
 CMakeFiles/clion.dir/内存.c.o: ../内存.c
 
@@ -84,6 +87,14 @@ CMakeFiles/clion.dir/台阶.c.o: ../myStack.h
 CMakeFiles/clion.dir/台阶.c.o: ../台阶.c
 
 CMakeFiles/clion.dir/基本数据类型.c.o: ../基本数据类型.c
+
+CMakeFiles/clion.dir/堆排序.c.o: ../堆排序.c
+
+CMakeFiles/clion.dir/堆排序变异.c.o: ../堆排序变异.c
+
+CMakeFiles/clion.dir/字符串.c.o: ../字符串.c
+
+CMakeFiles/clion.dir/字符串常用函数.c.o: ../字符串常用函数.c
 
 CMakeFiles/clion.dir/宽字符.c.o: ../宽字符.c
 

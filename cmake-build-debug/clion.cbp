@@ -131,6 +131,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/scanf正则表达式.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/sqlite.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/test.c">
 			<Option target="clion"/>
 		</Unit>
@@ -164,7 +167,7 @@
 		<Unit filename="/Users/apple/Desktop/clion/全局变量.c">
 			<Option target="clion"/>
 		</Unit>
-		<Unit filename="/Users/apple/Desktop/clion/六位数字密码库.c">
+		<Unit filename="/Users/apple/Desktop/clion/全排列.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/内存.c">
@@ -210,6 +213,18 @@
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/基本数据类型.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/堆排序.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/堆排序变异.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/字符串.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/字符串常用函数.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/宽字符.c">

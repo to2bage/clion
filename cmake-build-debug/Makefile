@@ -528,6 +528,33 @@ scanf正则表达式.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/scanf正则表达式.c.s
 .PHONY : scanf正则表达式.c.s
 
+sqlite.o: sqlite.c.o
+
+.PHONY : sqlite.o
+
+# target to build an object file
+sqlite.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sqlite.c.o
+.PHONY : sqlite.c.o
+
+sqlite.i: sqlite.c.i
+
+.PHONY : sqlite.i
+
+# target to preprocess a source file
+sqlite.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sqlite.c.i
+.PHONY : sqlite.c.i
+
+sqlite.s: sqlite.c.s
+
+.PHONY : sqlite.s
+
+# target to generate assembly for a file
+sqlite.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sqlite.c.s
+.PHONY : sqlite.c.s
+
 test.o: test.c.o
 
 .PHONY : test.o
@@ -825,32 +852,32 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/全局变量.c.s
 .PHONY : 全局变量.c.s
 
-六位数字密码库.o: 六位数字密码库.c.o
+全排列.o: 全排列.c.o
 
-.PHONY : 六位数字密码库.o
+.PHONY : 全排列.o
 
 # target to build an object file
-六位数字密码库.c.o:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/六位数字密码库.c.o
-.PHONY : 六位数字密码库.c.o
+全排列.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/全排列.c.o
+.PHONY : 全排列.c.o
 
-六位数字密码库.i: 六位数字密码库.c.i
+全排列.i: 全排列.c.i
 
-.PHONY : 六位数字密码库.i
+.PHONY : 全排列.i
 
 # target to preprocess a source file
-六位数字密码库.c.i:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/六位数字密码库.c.i
-.PHONY : 六位数字密码库.c.i
+全排列.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/全排列.c.i
+.PHONY : 全排列.c.i
 
-六位数字密码库.s: 六位数字密码库.c.s
+全排列.s: 全排列.c.s
 
-.PHONY : 六位数字密码库.s
+.PHONY : 全排列.s
 
 # target to generate assembly for a file
-六位数字密码库.c.s:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/六位数字密码库.c.s
-.PHONY : 六位数字密码库.c.s
+全排列.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/全排列.c.s
+.PHONY : 全排列.c.s
 
 内存.o: 内存.c.o
 
@@ -1256,6 +1283,114 @@ while.c.s:
 基本数据类型.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/基本数据类型.c.s
 .PHONY : 基本数据类型.c.s
+
+堆排序.o: 堆排序.c.o
+
+.PHONY : 堆排序.o
+
+# target to build an object file
+堆排序.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序.c.o
+.PHONY : 堆排序.c.o
+
+堆排序.i: 堆排序.c.i
+
+.PHONY : 堆排序.i
+
+# target to preprocess a source file
+堆排序.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序.c.i
+.PHONY : 堆排序.c.i
+
+堆排序.s: 堆排序.c.s
+
+.PHONY : 堆排序.s
+
+# target to generate assembly for a file
+堆排序.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序.c.s
+.PHONY : 堆排序.c.s
+
+堆排序变异.o: 堆排序变异.c.o
+
+.PHONY : 堆排序变异.o
+
+# target to build an object file
+堆排序变异.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序变异.c.o
+.PHONY : 堆排序变异.c.o
+
+堆排序变异.i: 堆排序变异.c.i
+
+.PHONY : 堆排序变异.i
+
+# target to preprocess a source file
+堆排序变异.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序变异.c.i
+.PHONY : 堆排序变异.c.i
+
+堆排序变异.s: 堆排序变异.c.s
+
+.PHONY : 堆排序变异.s
+
+# target to generate assembly for a file
+堆排序变异.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序变异.c.s
+.PHONY : 堆排序变异.c.s
+
+字符串.o: 字符串.c.o
+
+.PHONY : 字符串.o
+
+# target to build an object file
+字符串.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串.c.o
+.PHONY : 字符串.c.o
+
+字符串.i: 字符串.c.i
+
+.PHONY : 字符串.i
+
+# target to preprocess a source file
+字符串.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串.c.i
+.PHONY : 字符串.c.i
+
+字符串.s: 字符串.c.s
+
+.PHONY : 字符串.s
+
+# target to generate assembly for a file
+字符串.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串.c.s
+.PHONY : 字符串.c.s
+
+字符串常用函数.o: 字符串常用函数.c.o
+
+.PHONY : 字符串常用函数.o
+
+# target to build an object file
+字符串常用函数.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串常用函数.c.o
+.PHONY : 字符串常用函数.c.o
+
+字符串常用函数.i: 字符串常用函数.c.i
+
+.PHONY : 字符串常用函数.i
+
+# target to preprocess a source file
+字符串常用函数.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串常用函数.c.i
+.PHONY : 字符串常用函数.c.i
+
+字符串常用函数.s: 字符串常用函数.c.s
+
+.PHONY : 字符串常用函数.s
+
+# target to generate assembly for a file
+字符串常用函数.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串常用函数.c.s
+.PHONY : 字符串常用函数.c.s
 
 宽字符.o: 宽字符.c.o
 
@@ -2310,6 +2445,9 @@ help:
 	@echo "... scanf正则表达式.o"
 	@echo "... scanf正则表达式.i"
 	@echo "... scanf正则表达式.s"
+	@echo "... sqlite.o"
+	@echo "... sqlite.i"
+	@echo "... sqlite.s"
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"
@@ -2343,9 +2481,9 @@ help:
 	@echo "... 全局变量.o"
 	@echo "... 全局变量.i"
 	@echo "... 全局变量.s"
-	@echo "... 六位数字密码库.o"
-	@echo "... 六位数字密码库.i"
-	@echo "... 六位数字密码库.s"
+	@echo "... 全排列.o"
+	@echo "... 全排列.i"
+	@echo "... 全排列.s"
 	@echo "... 内存.o"
 	@echo "... 内存.i"
 	@echo "... 内存.s"
@@ -2391,6 +2529,18 @@ help:
 	@echo "... 基本数据类型.o"
 	@echo "... 基本数据类型.i"
 	@echo "... 基本数据类型.s"
+	@echo "... 堆排序.o"
+	@echo "... 堆排序.i"
+	@echo "... 堆排序.s"
+	@echo "... 堆排序变异.o"
+	@echo "... 堆排序变异.i"
+	@echo "... 堆排序变异.s"
+	@echo "... 字符串.o"
+	@echo "... 字符串.i"
+	@echo "... 字符串.s"
+	@echo "... 字符串常用函数.o"
+	@echo "... 字符串常用函数.i"
+	@echo "... 字符串常用函数.s"
 	@echo "... 宽字符.o"
 	@echo "... 宽字符.i"
 	@echo "... 宽字符.s"

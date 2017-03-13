@@ -77,7 +77,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/QQ.c.o"
   "CMakeFiles/clion.dir/快速排序的数组实现.c.o"
   "CMakeFiles/clion.dir/快速排序的指针实现.c.o"
-  "CMakeFiles/clion.dir/六位数字密码库.c.o"
+  "CMakeFiles/clion.dir/全排列.c.o"
+  "CMakeFiles/clion.dir/堆排序变异.c.o"
+  "CMakeFiles/clion.dir/堆排序.c.o"
+  "CMakeFiles/clion.dir/字符串.c.o"
+  "CMakeFiles/clion.dir/字符串常用函数.c.o"
+  "CMakeFiles/clion.dir/sqlite.c.o"
   "clion.pdb"
   "clion"
 )

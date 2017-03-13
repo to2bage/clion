@@ -1929,28 +1929,148 @@ CMakeFiles/clion.dir/快速排序的指针实现.c.o.provides: CMakeFiles/clion.
 CMakeFiles/clion.dir/快速排序的指针实现.c.o.provides.build: CMakeFiles/clion.dir/快速排序的指针实现.c.o
 
 
-CMakeFiles/clion.dir/六位数字密码库.c.o: CMakeFiles/clion.dir/flags.make
-CMakeFiles/clion.dir/六位数字密码库.c.o: ../六位数字密码库.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/clion.dir/六位数字密码库.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/六位数字密码库.c.o   -c /Users/apple/Desktop/clion/六位数字密码库.c
+CMakeFiles/clion.dir/全排列.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/全排列.c.o: ../全排列.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/clion.dir/全排列.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/全排列.c.o   -c /Users/apple/Desktop/clion/全排列.c
 
-CMakeFiles/clion.dir/六位数字密码库.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/六位数字密码库.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/六位数字密码库.c > CMakeFiles/clion.dir/六位数字密码库.c.i
+CMakeFiles/clion.dir/全排列.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/全排列.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/全排列.c > CMakeFiles/clion.dir/全排列.c.i
 
-CMakeFiles/clion.dir/六位数字密码库.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/六位数字密码库.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/六位数字密码库.c -o CMakeFiles/clion.dir/六位数字密码库.c.s
+CMakeFiles/clion.dir/全排列.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/全排列.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/全排列.c -o CMakeFiles/clion.dir/全排列.c.s
 
-CMakeFiles/clion.dir/六位数字密码库.c.o.requires:
+CMakeFiles/clion.dir/全排列.c.o.requires:
 
-.PHONY : CMakeFiles/clion.dir/六位数字密码库.c.o.requires
+.PHONY : CMakeFiles/clion.dir/全排列.c.o.requires
 
-CMakeFiles/clion.dir/六位数字密码库.c.o.provides: CMakeFiles/clion.dir/六位数字密码库.c.o.requires
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/六位数字密码库.c.o.provides.build
-.PHONY : CMakeFiles/clion.dir/六位数字密码库.c.o.provides
+CMakeFiles/clion.dir/全排列.c.o.provides: CMakeFiles/clion.dir/全排列.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/全排列.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/全排列.c.o.provides
 
-CMakeFiles/clion.dir/六位数字密码库.c.o.provides.build: CMakeFiles/clion.dir/六位数字密码库.c.o
+CMakeFiles/clion.dir/全排列.c.o.provides.build: CMakeFiles/clion.dir/全排列.c.o
+
+
+CMakeFiles/clion.dir/堆排序变异.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/堆排序变异.c.o: ../堆排序变异.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/clion.dir/堆排序变异.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/堆排序变异.c.o   -c /Users/apple/Desktop/clion/堆排序变异.c
+
+CMakeFiles/clion.dir/堆排序变异.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/堆排序变异.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/堆排序变异.c > CMakeFiles/clion.dir/堆排序变异.c.i
+
+CMakeFiles/clion.dir/堆排序变异.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/堆排序变异.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/堆排序变异.c -o CMakeFiles/clion.dir/堆排序变异.c.s
+
+CMakeFiles/clion.dir/堆排序变异.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/堆排序变异.c.o.requires
+
+CMakeFiles/clion.dir/堆排序变异.c.o.provides: CMakeFiles/clion.dir/堆排序变异.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序变异.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/堆排序变异.c.o.provides
+
+CMakeFiles/clion.dir/堆排序变异.c.o.provides.build: CMakeFiles/clion.dir/堆排序变异.c.o
+
+
+CMakeFiles/clion.dir/堆排序.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/堆排序.c.o: ../堆排序.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/clion.dir/堆排序.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/堆排序.c.o   -c /Users/apple/Desktop/clion/堆排序.c
+
+CMakeFiles/clion.dir/堆排序.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/堆排序.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/堆排序.c > CMakeFiles/clion.dir/堆排序.c.i
+
+CMakeFiles/clion.dir/堆排序.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/堆排序.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/堆排序.c -o CMakeFiles/clion.dir/堆排序.c.s
+
+CMakeFiles/clion.dir/堆排序.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/堆排序.c.o.requires
+
+CMakeFiles/clion.dir/堆排序.c.o.provides: CMakeFiles/clion.dir/堆排序.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/堆排序.c.o.provides
+
+CMakeFiles/clion.dir/堆排序.c.o.provides.build: CMakeFiles/clion.dir/堆排序.c.o
+
+
+CMakeFiles/clion.dir/字符串.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/字符串.c.o: ../字符串.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/clion.dir/字符串.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/字符串.c.o   -c /Users/apple/Desktop/clion/字符串.c
+
+CMakeFiles/clion.dir/字符串.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/字符串.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/字符串.c > CMakeFiles/clion.dir/字符串.c.i
+
+CMakeFiles/clion.dir/字符串.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/字符串.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/字符串.c -o CMakeFiles/clion.dir/字符串.c.s
+
+CMakeFiles/clion.dir/字符串.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/字符串.c.o.requires
+
+CMakeFiles/clion.dir/字符串.c.o.provides: CMakeFiles/clion.dir/字符串.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/字符串.c.o.provides
+
+CMakeFiles/clion.dir/字符串.c.o.provides.build: CMakeFiles/clion.dir/字符串.c.o
+
+
+CMakeFiles/clion.dir/字符串常用函数.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/字符串常用函数.c.o: ../字符串常用函数.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/clion.dir/字符串常用函数.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/字符串常用函数.c.o   -c /Users/apple/Desktop/clion/字符串常用函数.c
+
+CMakeFiles/clion.dir/字符串常用函数.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/字符串常用函数.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/字符串常用函数.c > CMakeFiles/clion.dir/字符串常用函数.c.i
+
+CMakeFiles/clion.dir/字符串常用函数.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/字符串常用函数.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/字符串常用函数.c -o CMakeFiles/clion.dir/字符串常用函数.c.s
+
+CMakeFiles/clion.dir/字符串常用函数.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/字符串常用函数.c.o.requires
+
+CMakeFiles/clion.dir/字符串常用函数.c.o.provides: CMakeFiles/clion.dir/字符串常用函数.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串常用函数.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/字符串常用函数.c.o.provides
+
+CMakeFiles/clion.dir/字符串常用函数.c.o.provides.build: CMakeFiles/clion.dir/字符串常用函数.c.o
+
+
+CMakeFiles/clion.dir/sqlite.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/sqlite.c.o: ../sqlite.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/clion.dir/sqlite.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/sqlite.c.o   -c /Users/apple/Desktop/clion/sqlite.c
+
+CMakeFiles/clion.dir/sqlite.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/sqlite.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/sqlite.c > CMakeFiles/clion.dir/sqlite.c.i
+
+CMakeFiles/clion.dir/sqlite.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/sqlite.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/sqlite.c -o CMakeFiles/clion.dir/sqlite.c.s
+
+CMakeFiles/clion.dir/sqlite.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/sqlite.c.o.requires
+
+CMakeFiles/clion.dir/sqlite.c.o.provides: CMakeFiles/clion.dir/sqlite.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sqlite.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/sqlite.c.o.provides
+
+CMakeFiles/clion.dir/sqlite.c.o.provides.build: CMakeFiles/clion.dir/sqlite.c.o
 
 
 # Object files for target clion
@@ -2033,7 +2153,12 @@ clion_OBJECTS = \
 "CMakeFiles/clion.dir/QQ.c.o" \
 "CMakeFiles/clion.dir/快速排序的数组实现.c.o" \
 "CMakeFiles/clion.dir/快速排序的指针实现.c.o" \
-"CMakeFiles/clion.dir/六位数字密码库.c.o"
+"CMakeFiles/clion.dir/全排列.c.o" \
+"CMakeFiles/clion.dir/堆排序变异.c.o" \
+"CMakeFiles/clion.dir/堆排序.c.o" \
+"CMakeFiles/clion.dir/字符串.c.o" \
+"CMakeFiles/clion.dir/字符串常用函数.c.o" \
+"CMakeFiles/clion.dir/sqlite.c.o"
 
 # External object files for target clion
 clion_EXTERNAL_OBJECTS =
@@ -2116,10 +2241,15 @@ clion: CMakeFiles/clion.dir/左值右值.c.o
 clion: CMakeFiles/clion.dir/QQ.c.o
 clion: CMakeFiles/clion.dir/快速排序的数组实现.c.o
 clion: CMakeFiles/clion.dir/快速排序的指针实现.c.o
-clion: CMakeFiles/clion.dir/六位数字密码库.c.o
+clion: CMakeFiles/clion.dir/全排列.c.o
+clion: CMakeFiles/clion.dir/堆排序变异.c.o
+clion: CMakeFiles/clion.dir/堆排序.c.o
+clion: CMakeFiles/clion.dir/字符串.c.o
+clion: CMakeFiles/clion.dir/字符串常用函数.c.o
+clion: CMakeFiles/clion.dir/sqlite.c.o
 clion: CMakeFiles/clion.dir/build.make
 clion: CMakeFiles/clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Linking CXX executable clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Linking CXX executable clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -2205,7 +2335,12 @@ CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/左值右值.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/QQ.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/快速排序的数组实现.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/快速排序的指针实现.c.o.requires
-CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/六位数字密码库.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/全排列.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/堆排序变异.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/堆排序.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串常用函数.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/sqlite.c.o.requires
 
 .PHONY : CMakeFiles/clion.dir/requires
 
