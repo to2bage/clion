@@ -96,16 +96,6 @@ stdio.h
 stdio.h
 -
 
-/Users/apple/Desktop/clion/sqlite.c
-stdio.h
--
-sqlite3.h
-/Users/apple/Desktop/clion/sqlite3.h
-
-/Users/apple/Desktop/clion/sqlite3.h
-stdarg.h
--
-
 /Users/apple/Desktop/clion/test.c
 stdio.h
 -
@@ -154,6 +144,12 @@ stdlib.h
 time.h
 -
 
+/Users/apple/Desktop/clion/五颗星.c
+stdio.h
+-
+stdlib.h
+-
+
 /Users/apple/Desktop/clion/交集和并集.c
 stdio.h
 -
@@ -186,8 +182,24 @@ stdlib.h
 alloca.h
 -
 
+/Users/apple/Desktop/clion/内存动态分配实例.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
 /Users/apple/Desktop/clion/内存实体以及运算符优先级.c
 stdio.h
+-
+
+/Users/apple/Desktop/clion/内存操作函数.c
+stdio.h
+-
+stdlib.h
+-
+memory.h
 -
 
 /Users/apple/Desktop/clion/出现次数问题.c
@@ -296,6 +308,12 @@ stdio.h
 string.h
 -
 stdbool.h
+-
+stdlib.h
+-
+
+/Users/apple/Desktop/clion/字符串转数字.c
+stdio.h
 -
 stdlib.h
 -

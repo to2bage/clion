@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define N 20
+#define N 5
 
 static void show(int *parr, int size)
 {
@@ -65,7 +65,7 @@ static void heapSort(int *parr, int size)
     }
 }
 
-int main大顶堆(int argc, char* argv[])
+int main堆排序(int argc, char* argv[])
 {
     srand(time(NULL));
     int *parr = (int *)calloc(N, sizeof(int));
@@ -84,9 +84,9 @@ int main大顶堆(int argc, char* argv[])
     }
     printf("\n");
 
-    //heapSort
-//    heapSort(parr, N - 1);
-    heapAdjust(parr, 1, N - 1);
+    //堆排序
+    heapSort(parr, N - 1);
+    //heapAdjust(parr, 1, N - 1);
 
     show(parr, N);
 

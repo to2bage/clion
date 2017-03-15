@@ -2049,28 +2049,100 @@ CMakeFiles/clion.dir/字符串常用函数.c.o.provides: CMakeFiles/clion.dir/�
 CMakeFiles/clion.dir/字符串常用函数.c.o.provides.build: CMakeFiles/clion.dir/字符串常用函数.c.o
 
 
-CMakeFiles/clion.dir/sqlite.c.o: CMakeFiles/clion.dir/flags.make
-CMakeFiles/clion.dir/sqlite.c.o: ../sqlite.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/clion.dir/sqlite.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/sqlite.c.o   -c /Users/apple/Desktop/clion/sqlite.c
+CMakeFiles/clion.dir/内存动态分配实例.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/内存动态分配实例.c.o: ../内存动态分配实例.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/clion.dir/内存动态分配实例.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/内存动态分配实例.c.o   -c /Users/apple/Desktop/clion/内存动态分配实例.c
 
-CMakeFiles/clion.dir/sqlite.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/sqlite.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/sqlite.c > CMakeFiles/clion.dir/sqlite.c.i
+CMakeFiles/clion.dir/内存动态分配实例.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/内存动态分配实例.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/内存动态分配实例.c > CMakeFiles/clion.dir/内存动态分配实例.c.i
 
-CMakeFiles/clion.dir/sqlite.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/sqlite.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/sqlite.c -o CMakeFiles/clion.dir/sqlite.c.s
+CMakeFiles/clion.dir/内存动态分配实例.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/内存动态分配实例.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/内存动态分配实例.c -o CMakeFiles/clion.dir/内存动态分配实例.c.s
 
-CMakeFiles/clion.dir/sqlite.c.o.requires:
+CMakeFiles/clion.dir/内存动态分配实例.c.o.requires:
 
-.PHONY : CMakeFiles/clion.dir/sqlite.c.o.requires
+.PHONY : CMakeFiles/clion.dir/内存动态分配实例.c.o.requires
 
-CMakeFiles/clion.dir/sqlite.c.o.provides: CMakeFiles/clion.dir/sqlite.c.o.requires
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sqlite.c.o.provides.build
-.PHONY : CMakeFiles/clion.dir/sqlite.c.o.provides
+CMakeFiles/clion.dir/内存动态分配实例.c.o.provides: CMakeFiles/clion.dir/内存动态分配实例.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存动态分配实例.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/内存动态分配实例.c.o.provides
 
-CMakeFiles/clion.dir/sqlite.c.o.provides.build: CMakeFiles/clion.dir/sqlite.c.o
+CMakeFiles/clion.dir/内存动态分配实例.c.o.provides.build: CMakeFiles/clion.dir/内存动态分配实例.c.o
+
+
+CMakeFiles/clion.dir/五颗星.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/五颗星.c.o: ../五颗星.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/clion.dir/五颗星.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/五颗星.c.o   -c /Users/apple/Desktop/clion/五颗星.c
+
+CMakeFiles/clion.dir/五颗星.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/五颗星.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/五颗星.c > CMakeFiles/clion.dir/五颗星.c.i
+
+CMakeFiles/clion.dir/五颗星.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/五颗星.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/五颗星.c -o CMakeFiles/clion.dir/五颗星.c.s
+
+CMakeFiles/clion.dir/五颗星.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/五颗星.c.o.requires
+
+CMakeFiles/clion.dir/五颗星.c.o.provides: CMakeFiles/clion.dir/五颗星.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/五颗星.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/五颗星.c.o.provides
+
+CMakeFiles/clion.dir/五颗星.c.o.provides.build: CMakeFiles/clion.dir/五颗星.c.o
+
+
+CMakeFiles/clion.dir/内存操作函数.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/内存操作函数.c.o: ../内存操作函数.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/clion.dir/内存操作函数.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/内存操作函数.c.o   -c /Users/apple/Desktop/clion/内存操作函数.c
+
+CMakeFiles/clion.dir/内存操作函数.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/内存操作函数.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/内存操作函数.c > CMakeFiles/clion.dir/内存操作函数.c.i
+
+CMakeFiles/clion.dir/内存操作函数.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/内存操作函数.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/内存操作函数.c -o CMakeFiles/clion.dir/内存操作函数.c.s
+
+CMakeFiles/clion.dir/内存操作函数.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/内存操作函数.c.o.requires
+
+CMakeFiles/clion.dir/内存操作函数.c.o.provides: CMakeFiles/clion.dir/内存操作函数.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存操作函数.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/内存操作函数.c.o.provides
+
+CMakeFiles/clion.dir/内存操作函数.c.o.provides.build: CMakeFiles/clion.dir/内存操作函数.c.o
+
+
+CMakeFiles/clion.dir/字符串转数字.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/字符串转数字.c.o: ../字符串转数字.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/clion.dir/字符串转数字.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/字符串转数字.c.o   -c /Users/apple/Desktop/clion/字符串转数字.c
+
+CMakeFiles/clion.dir/字符串转数字.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/字符串转数字.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/字符串转数字.c > CMakeFiles/clion.dir/字符串转数字.c.i
+
+CMakeFiles/clion.dir/字符串转数字.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/字符串转数字.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/字符串转数字.c -o CMakeFiles/clion.dir/字符串转数字.c.s
+
+CMakeFiles/clion.dir/字符串转数字.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/字符串转数字.c.o.requires
+
+CMakeFiles/clion.dir/字符串转数字.c.o.provides: CMakeFiles/clion.dir/字符串转数字.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串转数字.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/字符串转数字.c.o.provides
+
+CMakeFiles/clion.dir/字符串转数字.c.o.provides.build: CMakeFiles/clion.dir/字符串转数字.c.o
 
 
 # Object files for target clion
@@ -2158,7 +2230,10 @@ clion_OBJECTS = \
 "CMakeFiles/clion.dir/堆排序.c.o" \
 "CMakeFiles/clion.dir/字符串.c.o" \
 "CMakeFiles/clion.dir/字符串常用函数.c.o" \
-"CMakeFiles/clion.dir/sqlite.c.o"
+"CMakeFiles/clion.dir/内存动态分配实例.c.o" \
+"CMakeFiles/clion.dir/五颗星.c.o" \
+"CMakeFiles/clion.dir/内存操作函数.c.o" \
+"CMakeFiles/clion.dir/字符串转数字.c.o"
 
 # External object files for target clion
 clion_EXTERNAL_OBJECTS =
@@ -2246,10 +2321,13 @@ clion: CMakeFiles/clion.dir/堆排序变异.c.o
 clion: CMakeFiles/clion.dir/堆排序.c.o
 clion: CMakeFiles/clion.dir/字符串.c.o
 clion: CMakeFiles/clion.dir/字符串常用函数.c.o
-clion: CMakeFiles/clion.dir/sqlite.c.o
+clion: CMakeFiles/clion.dir/内存动态分配实例.c.o
+clion: CMakeFiles/clion.dir/五颗星.c.o
+clion: CMakeFiles/clion.dir/内存操作函数.c.o
+clion: CMakeFiles/clion.dir/字符串转数字.c.o
 clion: CMakeFiles/clion.dir/build.make
 clion: CMakeFiles/clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Linking CXX executable clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Linking CXX executable clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -2340,7 +2418,10 @@ CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/堆排序变异.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/堆排序.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串常用函数.c.o.requires
-CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/sqlite.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/内存动态分配实例.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/五颗星.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/内存操作函数.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串转数字.c.o.requires
 
 .PHONY : CMakeFiles/clion.dir/requires
 

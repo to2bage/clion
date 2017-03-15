@@ -131,9 +131,6 @@
 		<Unit filename="/Users/apple/Desktop/clion/scanf正则表达式.c">
 			<Option target="clion"/>
 		</Unit>
-		<Unit filename="/Users/apple/Desktop/clion/sqlite.c">
-			<Option target="clion"/>
-		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/test.c">
 			<Option target="clion"/>
 		</Unit>
@@ -158,6 +155,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/二维数组的地址.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/五颗星.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/交集和并集.c">
 			<Option target="clion"/>
 		</Unit>
@@ -176,7 +176,13 @@
 		<Unit filename="/Users/apple/Desktop/clion/内存分配函数.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/内存动态分配实例.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/内存实体以及运算符优先级.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/内存操作函数.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/出现次数问题.c">
@@ -225,6 +231,9 @@
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/字符串常用函数.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/字符串转数字.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/宽字符.c">

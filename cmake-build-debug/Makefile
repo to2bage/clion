@@ -528,33 +528,6 @@ scanf正则表达式.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/scanf正则表达式.c.s
 .PHONY : scanf正则表达式.c.s
 
-sqlite.o: sqlite.c.o
-
-.PHONY : sqlite.o
-
-# target to build an object file
-sqlite.c.o:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sqlite.c.o
-.PHONY : sqlite.c.o
-
-sqlite.i: sqlite.c.i
-
-.PHONY : sqlite.i
-
-# target to preprocess a source file
-sqlite.c.i:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sqlite.c.i
-.PHONY : sqlite.c.i
-
-sqlite.s: sqlite.c.s
-
-.PHONY : sqlite.s
-
-# target to generate assembly for a file
-sqlite.c.s:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sqlite.c.s
-.PHONY : sqlite.c.s
-
 test.o: test.c.o
 
 .PHONY : test.o
@@ -771,6 +744,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/二维数组的地址.c.s
 .PHONY : 二维数组的地址.c.s
 
+五颗星.o: 五颗星.c.o
+
+.PHONY : 五颗星.o
+
+# target to build an object file
+五颗星.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/五颗星.c.o
+.PHONY : 五颗星.c.o
+
+五颗星.i: 五颗星.c.i
+
+.PHONY : 五颗星.i
+
+# target to preprocess a source file
+五颗星.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/五颗星.c.i
+.PHONY : 五颗星.c.i
+
+五颗星.s: 五颗星.c.s
+
+.PHONY : 五颗星.s
+
+# target to generate assembly for a file
+五颗星.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/五颗星.c.s
+.PHONY : 五颗星.c.s
+
 交集和并集.o: 交集和并集.c.o
 
 .PHONY : 交集和并集.o
@@ -933,6 +933,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存分配函数.c.s
 .PHONY : 内存分配函数.c.s
 
+内存动态分配实例.o: 内存动态分配实例.c.o
+
+.PHONY : 内存动态分配实例.o
+
+# target to build an object file
+内存动态分配实例.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存动态分配实例.c.o
+.PHONY : 内存动态分配实例.c.o
+
+内存动态分配实例.i: 内存动态分配实例.c.i
+
+.PHONY : 内存动态分配实例.i
+
+# target to preprocess a source file
+内存动态分配实例.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存动态分配实例.c.i
+.PHONY : 内存动态分配实例.c.i
+
+内存动态分配实例.s: 内存动态分配实例.c.s
+
+.PHONY : 内存动态分配实例.s
+
+# target to generate assembly for a file
+内存动态分配实例.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存动态分配实例.c.s
+.PHONY : 内存动态分配实例.c.s
+
 内存实体以及运算符优先级.o: 内存实体以及运算符优先级.c.o
 
 .PHONY : 内存实体以及运算符优先级.o
@@ -959,6 +986,33 @@ while.c.s:
 内存实体以及运算符优先级.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存实体以及运算符优先级.c.s
 .PHONY : 内存实体以及运算符优先级.c.s
+
+内存操作函数.o: 内存操作函数.c.o
+
+.PHONY : 内存操作函数.o
+
+# target to build an object file
+内存操作函数.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存操作函数.c.o
+.PHONY : 内存操作函数.c.o
+
+内存操作函数.i: 内存操作函数.c.i
+
+.PHONY : 内存操作函数.i
+
+# target to preprocess a source file
+内存操作函数.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存操作函数.c.i
+.PHONY : 内存操作函数.c.i
+
+内存操作函数.s: 内存操作函数.c.s
+
+.PHONY : 内存操作函数.s
+
+# target to generate assembly for a file
+内存操作函数.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/内存操作函数.c.s
+.PHONY : 内存操作函数.c.s
 
 出现次数问题.o: 出现次数问题.c.o
 
@@ -1391,6 +1445,33 @@ while.c.s:
 字符串常用函数.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串常用函数.c.s
 .PHONY : 字符串常用函数.c.s
+
+字符串转数字.o: 字符串转数字.c.o
+
+.PHONY : 字符串转数字.o
+
+# target to build an object file
+字符串转数字.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串转数字.c.o
+.PHONY : 字符串转数字.c.o
+
+字符串转数字.i: 字符串转数字.c.i
+
+.PHONY : 字符串转数字.i
+
+# target to preprocess a source file
+字符串转数字.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串转数字.c.i
+.PHONY : 字符串转数字.c.i
+
+字符串转数字.s: 字符串转数字.c.s
+
+.PHONY : 字符串转数字.s
+
+# target to generate assembly for a file
+字符串转数字.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串转数字.c.s
+.PHONY : 字符串转数字.c.s
 
 宽字符.o: 宽字符.c.o
 
@@ -2445,9 +2526,6 @@ help:
 	@echo "... scanf正则表达式.o"
 	@echo "... scanf正则表达式.i"
 	@echo "... scanf正则表达式.s"
-	@echo "... sqlite.o"
-	@echo "... sqlite.i"
-	@echo "... sqlite.s"
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"
@@ -2472,6 +2550,9 @@ help:
 	@echo "... 二维数组的地址.o"
 	@echo "... 二维数组的地址.i"
 	@echo "... 二维数组的地址.s"
+	@echo "... 五颗星.o"
+	@echo "... 五颗星.i"
+	@echo "... 五颗星.s"
 	@echo "... 交集和并集.o"
 	@echo "... 交集和并集.i"
 	@echo "... 交集和并集.s"
@@ -2490,9 +2571,15 @@ help:
 	@echo "... 内存分配函数.o"
 	@echo "... 内存分配函数.i"
 	@echo "... 内存分配函数.s"
+	@echo "... 内存动态分配实例.o"
+	@echo "... 内存动态分配实例.i"
+	@echo "... 内存动态分配实例.s"
 	@echo "... 内存实体以及运算符优先级.o"
 	@echo "... 内存实体以及运算符优先级.i"
 	@echo "... 内存实体以及运算符优先级.s"
+	@echo "... 内存操作函数.o"
+	@echo "... 内存操作函数.i"
+	@echo "... 内存操作函数.s"
 	@echo "... 出现次数问题.o"
 	@echo "... 出现次数问题.i"
 	@echo "... 出现次数问题.s"
@@ -2541,6 +2628,9 @@ help:
 	@echo "... 字符串常用函数.o"
 	@echo "... 字符串常用函数.i"
 	@echo "... 字符串常用函数.s"
+	@echo "... 字符串转数字.o"
+	@echo "... 字符串转数字.i"
+	@echo "... 字符串转数字.s"
 	@echo "... 宽字符.o"
 	@echo "... 宽字符.i"
 	@echo "... 宽字符.s"

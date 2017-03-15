@@ -82,7 +82,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/堆排序.c.o"
   "CMakeFiles/clion.dir/字符串.c.o"
   "CMakeFiles/clion.dir/字符串常用函数.c.o"
-  "CMakeFiles/clion.dir/sqlite.c.o"
+  "CMakeFiles/clion.dir/内存动态分配实例.c.o"
+  "CMakeFiles/clion.dir/五颗星.c.o"
+  "CMakeFiles/clion.dir/内存操作函数.c.o"
+  "CMakeFiles/clion.dir/字符串转数字.c.o"
   "clion.pdb"
   "clion"
 )

@@ -30,9 +30,6 @@ CMakeFiles/clion.dir/printscanf.c.o
  /Users/apple/Desktop/clion/printscanf.c
 CMakeFiles/clion.dir/scanf正则表达式.c.o
  /Users/apple/Desktop/clion/scanf正则表达式.c
-CMakeFiles/clion.dir/sqlite.c.o
- /Users/apple/Desktop/clion/sqlite.c
- /Users/apple/Desktop/clion/sqlite3.h
 CMakeFiles/clion.dir/test.c.o
  /Users/apple/Desktop/clion/test.c
 CMakeFiles/clion.dir/typedef.c.o
@@ -49,6 +46,8 @@ CMakeFiles/clion.dir/二维数组.c.o
  /Users/apple/Desktop/clion/二维数组.c
 CMakeFiles/clion.dir/二维数组的地址.c.o
  /Users/apple/Desktop/clion/二维数组的地址.c
+CMakeFiles/clion.dir/五颗星.c.o
+ /Users/apple/Desktop/clion/五颗星.c
 CMakeFiles/clion.dir/交集和并集.c.o
  /Users/apple/Desktop/clion/交集和并集.c
 CMakeFiles/clion.dir/位运算.c.o
@@ -61,8 +60,12 @@ CMakeFiles/clion.dir/内存.c.o
  /Users/apple/Desktop/clion/内存.c
 CMakeFiles/clion.dir/内存分配函数.c.o
  /Users/apple/Desktop/clion/内存分配函数.c
+CMakeFiles/clion.dir/内存动态分配实例.c.o
+ /Users/apple/Desktop/clion/内存动态分配实例.c
 CMakeFiles/clion.dir/内存实体以及运算符优先级.c.o
  /Users/apple/Desktop/clion/内存实体以及运算符优先级.c
+CMakeFiles/clion.dir/内存操作函数.c.o
+ /Users/apple/Desktop/clion/内存操作函数.c
 CMakeFiles/clion.dir/出现次数问题.c.o
  /Users/apple/Desktop/clion/出现次数问题.c
 CMakeFiles/clion.dir/函数.c.o
@@ -96,6 +99,8 @@ CMakeFiles/clion.dir/字符串.c.o
  /Users/apple/Desktop/clion/字符串.c
 CMakeFiles/clion.dir/字符串常用函数.c.o
  /Users/apple/Desktop/clion/字符串常用函数.c
+CMakeFiles/clion.dir/字符串转数字.c.o
+ /Users/apple/Desktop/clion/字符串转数字.c
 CMakeFiles/clion.dir/宽字符.c.o
  /Users/apple/Desktop/clion/宽字符.c
 CMakeFiles/clion.dir/寄存器变量.c.o

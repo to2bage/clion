@@ -30,9 +30,6 @@ CMakeFiles/clion.dir/printscanf.c.o: ../printscanf.c
 
 CMakeFiles/clion.dir/scanf正则表达式.c.o: ../scanf正则表达式.c
 
-CMakeFiles/clion.dir/sqlite.c.o: ../sqlite.c
-CMakeFiles/clion.dir/sqlite.c.o: ../sqlite3.h
-
 CMakeFiles/clion.dir/test.c.o: ../test.c
 
 CMakeFiles/clion.dir/typedef.c.o: ../typedef.c
@@ -49,6 +46,8 @@ CMakeFiles/clion.dir/二维数组.c.o: ../二维数组.c
 
 CMakeFiles/clion.dir/二维数组的地址.c.o: ../二维数组的地址.c
 
+CMakeFiles/clion.dir/五颗星.c.o: ../五颗星.c
+
 CMakeFiles/clion.dir/交集和并集.c.o: ../交集和并集.c
 
 CMakeFiles/clion.dir/位运算.c.o: ../位运算.c
@@ -61,7 +60,11 @@ CMakeFiles/clion.dir/内存.c.o: ../内存.c
 
 CMakeFiles/clion.dir/内存分配函数.c.o: ../内存分配函数.c
 
+CMakeFiles/clion.dir/内存动态分配实例.c.o: ../内存动态分配实例.c
+
 CMakeFiles/clion.dir/内存实体以及运算符优先级.c.o: ../内存实体以及运算符优先级.c
+
+CMakeFiles/clion.dir/内存操作函数.c.o: ../内存操作函数.c
 
 CMakeFiles/clion.dir/出现次数问题.c.o: ../出现次数问题.c
 
@@ -95,6 +98,8 @@ CMakeFiles/clion.dir/堆排序变异.c.o: ../堆排序变异.c
 CMakeFiles/clion.dir/字符串.c.o: ../字符串.c
 
 CMakeFiles/clion.dir/字符串常用函数.c.o: ../字符串常用函数.c
+
+CMakeFiles/clion.dir/字符串转数字.c.o: ../字符串转数字.c
 
 CMakeFiles/clion.dir/宽字符.c.o: ../宽字符.c
 
