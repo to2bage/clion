@@ -312,6 +312,33 @@ Linux输出中文宽字符.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/Linux输出中文宽字符.c.s
 .PHONY : Linux输出中文宽字符.c.s
 
+MyPrintf.o: MyPrintf.c.o
+
+.PHONY : MyPrintf.o
+
+# target to build an object file
+MyPrintf.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/MyPrintf.c.o
+.PHONY : MyPrintf.c.o
+
+MyPrintf.i: MyPrintf.c.i
+
+.PHONY : MyPrintf.i
+
+# target to preprocess a source file
+MyPrintf.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/MyPrintf.c.i
+.PHONY : MyPrintf.c.i
+
+MyPrintf.s: MyPrintf.c.s
+
+.PHONY : MyPrintf.s
+
+# target to generate assembly for a file
+MyPrintf.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/MyPrintf.c.s
+.PHONY : MyPrintf.c.s
+
 MyStack.o: MyStack.c.o
 
 .PHONY : MyStack.o
@@ -527,6 +554,33 @@ scanf正则表达式.s: scanf正则表达式.c.s
 scanf正则表达式.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/scanf正则表达式.c.s
 .PHONY : scanf正则表达式.c.s
+
+str系列函数.o: str系列函数.c.o
+
+.PHONY : str系列函数.o
+
+# target to build an object file
+str系列函数.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/str系列函数.c.o
+.PHONY : str系列函数.c.o
+
+str系列函数.i: str系列函数.c.i
+
+.PHONY : str系列函数.i
+
+# target to preprocess a source file
+str系列函数.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/str系列函数.c.i
+.PHONY : str系列函数.c.i
+
+str系列函数.s: str系列函数.c.s
+
+.PHONY : str系列函数.s
+
+# target to generate assembly for a file
+str系列函数.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/str系列函数.c.s
+.PHONY : str系列函数.c.s
 
 test.o: test.c.o
 
@@ -1500,6 +1554,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/宽字符.c.s
 .PHONY : 宽字符.c.s
 
+宽字符字符串.o: 宽字符字符串.c.o
+
+.PHONY : 宽字符字符串.o
+
+# target to build an object file
+宽字符字符串.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/宽字符字符串.c.o
+.PHONY : 宽字符字符串.c.o
+
+宽字符字符串.i: 宽字符字符串.c.i
+
+.PHONY : 宽字符字符串.i
+
+# target to preprocess a source file
+宽字符字符串.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/宽字符字符串.c.i
+.PHONY : 宽字符字符串.c.i
+
+宽字符字符串.s: 宽字符字符串.c.s
+
+.PHONY : 宽字符字符串.s
+
+# target to generate assembly for a file
+宽字符字符串.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/宽字符字符串.c.s
+.PHONY : 宽字符字符串.c.s
+
 寄存器变量.o: 寄存器变量.c.o
 
 .PHONY : 寄存器变量.o
@@ -2175,6 +2256,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/测试队列.c.s
 .PHONY : 测试队列.c.s
 
+管道字符串.o: 管道字符串.c.o
+
+.PHONY : 管道字符串.o
+
+# target to build an object file
+管道字符串.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/管道字符串.c.o
+.PHONY : 管道字符串.c.o
+
+管道字符串.i: 管道字符串.c.i
+
+.PHONY : 管道字符串.i
+
+# target to preprocess a source file
+管道字符串.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/管道字符串.c.i
+.PHONY : 管道字符串.c.i
+
+管道字符串.s: 管道字符串.c.s
+
+.PHONY : 管道字符串.s
+
+# target to generate assembly for a file
+管道字符串.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/管道字符串.c.s
+.PHONY : 管道字符串.c.s
+
 线性递归.o: 线性递归.c.o
 
 .PHONY : 线性递归.o
@@ -2282,6 +2390,60 @@ while.c.s:
 蛇和大数相乘.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/蛇和大数相乘.c.s
 .PHONY : 蛇和大数相乘.c.s
+
+表达式计算加减.o: 表达式计算加减.c.o
+
+.PHONY : 表达式计算加减.o
+
+# target to build an object file
+表达式计算加减.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/表达式计算加减.c.o
+.PHONY : 表达式计算加减.c.o
+
+表达式计算加减.i: 表达式计算加减.c.i
+
+.PHONY : 表达式计算加减.i
+
+# target to preprocess a source file
+表达式计算加减.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/表达式计算加减.c.i
+.PHONY : 表达式计算加减.c.i
+
+表达式计算加减.s: 表达式计算加减.c.s
+
+.PHONY : 表达式计算加减.s
+
+# target to generate assembly for a file
+表达式计算加减.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/表达式计算加减.c.s
+.PHONY : 表达式计算加减.c.s
+
+表达式计算加减乘除.o: 表达式计算加减乘除.c.o
+
+.PHONY : 表达式计算加减乘除.o
+
+# target to build an object file
+表达式计算加减乘除.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/表达式计算加减乘除.c.o
+.PHONY : 表达式计算加减乘除.c.o
+
+表达式计算加减乘除.i: 表达式计算加减乘除.c.i
+
+.PHONY : 表达式计算加减乘除.i
+
+# target to preprocess a source file
+表达式计算加减乘除.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/表达式计算加减乘除.c.i
+.PHONY : 表达式计算加减乘除.c.i
+
+表达式计算加减乘除.s: 表达式计算加减乘除.c.s
+
+.PHONY : 表达式计算加减乘除.s
+
+# target to generate assembly for a file
+表达式计算加减乘除.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/表达式计算加减乘除.c.s
+.PHONY : 表达式计算加减乘除.c.s
 
 赌博.o: 赌博.c.o
 
@@ -2502,6 +2664,9 @@ help:
 	@echo "... Linux输出中文宽字符.o"
 	@echo "... Linux输出中文宽字符.i"
 	@echo "... Linux输出中文宽字符.s"
+	@echo "... MyPrintf.o"
+	@echo "... MyPrintf.i"
+	@echo "... MyPrintf.s"
 	@echo "... MyStack.o"
 	@echo "... MyStack.i"
 	@echo "... MyStack.s"
@@ -2526,6 +2691,9 @@ help:
 	@echo "... scanf正则表达式.o"
 	@echo "... scanf正则表达式.i"
 	@echo "... scanf正则表达式.s"
+	@echo "... str系列函数.o"
+	@echo "... str系列函数.i"
+	@echo "... str系列函数.s"
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"
@@ -2634,6 +2802,9 @@ help:
 	@echo "... 宽字符.o"
 	@echo "... 宽字符.i"
 	@echo "... 宽字符.s"
+	@echo "... 宽字符字符串.o"
+	@echo "... 宽字符字符串.i"
+	@echo "... 宽字符字符串.s"
 	@echo "... 寄存器变量.o"
 	@echo "... 寄存器变量.i"
 	@echo "... 寄存器变量.s"
@@ -2709,6 +2880,9 @@ help:
 	@echo "... 测试队列.o"
 	@echo "... 测试队列.i"
 	@echo "... 测试队列.s"
+	@echo "... 管道字符串.o"
+	@echo "... 管道字符串.i"
+	@echo "... 管道字符串.s"
 	@echo "... 线性递归.o"
 	@echo "... 线性递归.i"
 	@echo "... 线性递归.s"
@@ -2721,6 +2895,12 @@ help:
 	@echo "... 蛇和大数相乘.o"
 	@echo "... 蛇和大数相乘.i"
 	@echo "... 蛇和大数相乘.s"
+	@echo "... 表达式计算加减.o"
+	@echo "... 表达式计算加减.i"
+	@echo "... 表达式计算加减.s"
+	@echo "... 表达式计算加减乘除.o"
+	@echo "... 表达式计算加减乘除.i"
+	@echo "... 表达式计算加减乘除.s"
 	@echo "... 赌博.o"
 	@echo "... 赌博.i"
 	@echo "... 赌博.s"

@@ -86,6 +86,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/五颗星.c.o"
   "CMakeFiles/clion.dir/内存操作函数.c.o"
   "CMakeFiles/clion.dir/字符串转数字.c.o"
+  "CMakeFiles/clion.dir/管道字符串.c.o"
+  "CMakeFiles/clion.dir/MyPrintf.c.o"
+  "CMakeFiles/clion.dir/str系列函数.c.o"
+  "CMakeFiles/clion.dir/宽字符字符串.c.o"
+  "CMakeFiles/clion.dir/表达式计算加减.c.o"
+  "CMakeFiles/clion.dir/表达式计算加减乘除.c.o"
   "clion.pdb"
   "clion"
 )

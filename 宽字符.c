@@ -8,6 +8,7 @@
 int main宽字符(int argc, char* argv[])
 {
     {
+        setlocale(LC_ALL, "zh_CN");
         // linux下： 中文窄字符占3个字节，英文窄字符占1个字节；中文宽字符和英文宽字符都占4个字节
         //Windows下：中文窄字符占2个字节，英文窄字符占1个字节；中文宽字符和英文宽字符都占2个字节
 //        printf(L"%ls\n", L"你好天朝");
@@ -26,7 +27,7 @@ int main宽字符(int argc, char* argv[])
     }
     {
         // 本地化
-        setlocale(LC_ALL, "zh-CN");
+        setlocale(LC_ALL, "zh_CN");
         wchar_t wstr[100] = L"abcdefg我是色狼";
         wprintf(L"%ls\n", wstr);
     }
