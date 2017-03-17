@@ -2289,6 +2289,126 @@ CMakeFiles/clion.dir/表达式计算加减乘除.c.o.provides: CMakeFiles/clion.
 CMakeFiles/clion.dir/表达式计算加减乘除.c.o.provides.build: CMakeFiles/clion.dir/表达式计算加减乘除.c.o
 
 
+CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o: ../表达式计算加减乘除括号.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o   -c /Users/apple/Desktop/clion/表达式计算加减乘除括号.c
+
+CMakeFiles/clion.dir/表达式计算加减乘除括号.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/表达式计算加减乘除括号.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/表达式计算加减乘除括号.c > CMakeFiles/clion.dir/表达式计算加减乘除括号.c.i
+
+CMakeFiles/clion.dir/表达式计算加减乘除括号.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/表达式计算加减乘除括号.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/表达式计算加减乘除括号.c -o CMakeFiles/clion.dir/表达式计算加减乘除括号.c.s
+
+CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o.requires
+
+CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o.provides: CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o.provides
+
+CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o.provides.build: CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o
+
+
+CMakeFiles/clion.dir/字符串删除.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/字符串删除.c.o: ../字符串删除.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object CMakeFiles/clion.dir/字符串删除.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/字符串删除.c.o   -c /Users/apple/Desktop/clion/字符串删除.c
+
+CMakeFiles/clion.dir/字符串删除.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/字符串删除.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/字符串删除.c > CMakeFiles/clion.dir/字符串删除.c.i
+
+CMakeFiles/clion.dir/字符串删除.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/字符串删除.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/字符串删除.c -o CMakeFiles/clion.dir/字符串删除.c.s
+
+CMakeFiles/clion.dir/字符串删除.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/字符串删除.c.o.requires
+
+CMakeFiles/clion.dir/字符串删除.c.o.provides: CMakeFiles/clion.dir/字符串删除.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串删除.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/字符串删除.c.o.provides
+
+CMakeFiles/clion.dir/字符串删除.c.o.provides.build: CMakeFiles/clion.dir/字符串删除.c.o
+
+
+CMakeFiles/clion.dir/字符串切割.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/字符串切割.c.o: ../字符串切割.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object CMakeFiles/clion.dir/字符串切割.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/字符串切割.c.o   -c /Users/apple/Desktop/clion/字符串切割.c
+
+CMakeFiles/clion.dir/字符串切割.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/字符串切割.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/字符串切割.c > CMakeFiles/clion.dir/字符串切割.c.i
+
+CMakeFiles/clion.dir/字符串切割.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/字符串切割.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/字符串切割.c -o CMakeFiles/clion.dir/字符串切割.c.s
+
+CMakeFiles/clion.dir/字符串切割.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/字符串切割.c.o.requires
+
+CMakeFiles/clion.dir/字符串切割.c.o.provides: CMakeFiles/clion.dir/字符串切割.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串切割.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/字符串切割.c.o.provides
+
+CMakeFiles/clion.dir/字符串切割.c.o.provides.build: CMakeFiles/clion.dir/字符串切割.c.o
+
+
+CMakeFiles/clion.dir/strtok练习.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/strtok练习.c.o: ../strtok练习.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object CMakeFiles/clion.dir/strtok练习.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/strtok练习.c.o   -c /Users/apple/Desktop/clion/strtok练习.c
+
+CMakeFiles/clion.dir/strtok练习.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/strtok练习.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/strtok练习.c > CMakeFiles/clion.dir/strtok练习.c.i
+
+CMakeFiles/clion.dir/strtok练习.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/strtok练习.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/strtok练习.c -o CMakeFiles/clion.dir/strtok练习.c.s
+
+CMakeFiles/clion.dir/strtok练习.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/strtok练习.c.o.requires
+
+CMakeFiles/clion.dir/strtok练习.c.o.provides: CMakeFiles/clion.dir/strtok练习.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/strtok练习.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/strtok练习.c.o.provides
+
+CMakeFiles/clion.dir/strtok练习.c.o.provides.build: CMakeFiles/clion.dir/strtok练习.c.o
+
+
+CMakeFiles/clion.dir/sscanfsprintf.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/sscanfsprintf.c.o: ../sscanfsprintf.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object CMakeFiles/clion.dir/sscanfsprintf.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/sscanfsprintf.c.o   -c /Users/apple/Desktop/clion/sscanfsprintf.c
+
+CMakeFiles/clion.dir/sscanfsprintf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/sscanfsprintf.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/sscanfsprintf.c > CMakeFiles/clion.dir/sscanfsprintf.c.i
+
+CMakeFiles/clion.dir/sscanfsprintf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/sscanfsprintf.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/sscanfsprintf.c -o CMakeFiles/clion.dir/sscanfsprintf.c.s
+
+CMakeFiles/clion.dir/sscanfsprintf.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/sscanfsprintf.c.o.requires
+
+CMakeFiles/clion.dir/sscanfsprintf.c.o.provides: CMakeFiles/clion.dir/sscanfsprintf.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sscanfsprintf.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/sscanfsprintf.c.o.provides
+
+CMakeFiles/clion.dir/sscanfsprintf.c.o.provides.build: CMakeFiles/clion.dir/sscanfsprintf.c.o
+
+
 # Object files for target clion
 clion_OBJECTS = \
 "CMakeFiles/clion.dir/main.cpp.o" \
@@ -2383,7 +2503,12 @@ clion_OBJECTS = \
 "CMakeFiles/clion.dir/str系列函数.c.o" \
 "CMakeFiles/clion.dir/宽字符字符串.c.o" \
 "CMakeFiles/clion.dir/表达式计算加减.c.o" \
-"CMakeFiles/clion.dir/表达式计算加减乘除.c.o"
+"CMakeFiles/clion.dir/表达式计算加减乘除.c.o" \
+"CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o" \
+"CMakeFiles/clion.dir/字符串删除.c.o" \
+"CMakeFiles/clion.dir/字符串切割.c.o" \
+"CMakeFiles/clion.dir/strtok练习.c.o" \
+"CMakeFiles/clion.dir/sscanfsprintf.c.o"
 
 # External object files for target clion
 clion_EXTERNAL_OBJECTS =
@@ -2481,9 +2606,14 @@ clion: CMakeFiles/clion.dir/str系列函数.c.o
 clion: CMakeFiles/clion.dir/宽字符字符串.c.o
 clion: CMakeFiles/clion.dir/表达式计算加减.c.o
 clion: CMakeFiles/clion.dir/表达式计算加减乘除.c.o
+clion: CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o
+clion: CMakeFiles/clion.dir/字符串删除.c.o
+clion: CMakeFiles/clion.dir/字符串切割.c.o
+clion: CMakeFiles/clion.dir/strtok练习.c.o
+clion: CMakeFiles/clion.dir/sscanfsprintf.c.o
 clion: CMakeFiles/clion.dir/build.make
 clion: CMakeFiles/clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Linking CXX executable clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Linking CXX executable clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -2584,6 +2714,11 @@ CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/str系列函数.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/宽字符字符串.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/表达式计算加减.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/表达式计算加减乘除.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串删除.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串切割.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/strtok练习.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/sscanfsprintf.c.o.requires
 
 .PHONY : CMakeFiles/clion.dir/requires
 

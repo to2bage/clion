@@ -92,6 +92,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/宽字符字符串.c.o"
   "CMakeFiles/clion.dir/表达式计算加减.c.o"
   "CMakeFiles/clion.dir/表达式计算加减乘除.c.o"
+  "CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o"
+  "CMakeFiles/clion.dir/字符串删除.c.o"
+  "CMakeFiles/clion.dir/字符串切割.c.o"
+  "CMakeFiles/clion.dir/strtok练习.c.o"
+  "CMakeFiles/clion.dir/sscanfsprintf.c.o"
   "clion.pdb"
   "clion"
 )

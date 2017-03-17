@@ -555,6 +555,60 @@ scanf正则表达式.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/scanf正则表达式.c.s
 .PHONY : scanf正则表达式.c.s
 
+sscanfsprintf.o: sscanfsprintf.c.o
+
+.PHONY : sscanfsprintf.o
+
+# target to build an object file
+sscanfsprintf.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sscanfsprintf.c.o
+.PHONY : sscanfsprintf.c.o
+
+sscanfsprintf.i: sscanfsprintf.c.i
+
+.PHONY : sscanfsprintf.i
+
+# target to preprocess a source file
+sscanfsprintf.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sscanfsprintf.c.i
+.PHONY : sscanfsprintf.c.i
+
+sscanfsprintf.s: sscanfsprintf.c.s
+
+.PHONY : sscanfsprintf.s
+
+# target to generate assembly for a file
+sscanfsprintf.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sscanfsprintf.c.s
+.PHONY : sscanfsprintf.c.s
+
+strtok练习.o: strtok练习.c.o
+
+.PHONY : strtok练习.o
+
+# target to build an object file
+strtok练习.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/strtok练习.c.o
+.PHONY : strtok练习.c.o
+
+strtok练习.i: strtok练习.c.i
+
+.PHONY : strtok练习.i
+
+# target to preprocess a source file
+strtok练习.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/strtok练习.c.i
+.PHONY : strtok练习.c.i
+
+strtok练习.s: strtok练习.c.s
+
+.PHONY : strtok练习.s
+
+# target to generate assembly for a file
+strtok练习.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/strtok练习.c.s
+.PHONY : strtok练习.c.s
+
 str系列函数.o: str系列函数.c.o
 
 .PHONY : str系列函数.o
@@ -1472,6 +1526,60 @@ while.c.s:
 字符串.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串.c.s
 .PHONY : 字符串.c.s
+
+字符串切割.o: 字符串切割.c.o
+
+.PHONY : 字符串切割.o
+
+# target to build an object file
+字符串切割.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串切割.c.o
+.PHONY : 字符串切割.c.o
+
+字符串切割.i: 字符串切割.c.i
+
+.PHONY : 字符串切割.i
+
+# target to preprocess a source file
+字符串切割.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串切割.c.i
+.PHONY : 字符串切割.c.i
+
+字符串切割.s: 字符串切割.c.s
+
+.PHONY : 字符串切割.s
+
+# target to generate assembly for a file
+字符串切割.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串切割.c.s
+.PHONY : 字符串切割.c.s
+
+字符串删除.o: 字符串删除.c.o
+
+.PHONY : 字符串删除.o
+
+# target to build an object file
+字符串删除.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串删除.c.o
+.PHONY : 字符串删除.c.o
+
+字符串删除.i: 字符串删除.c.i
+
+.PHONY : 字符串删除.i
+
+# target to preprocess a source file
+字符串删除.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串删除.c.i
+.PHONY : 字符串删除.c.i
+
+字符串删除.s: 字符串删除.c.s
+
+.PHONY : 字符串删除.s
+
+# target to generate assembly for a file
+字符串删除.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串删除.c.s
+.PHONY : 字符串删除.c.s
 
 字符串常用函数.o: 字符串常用函数.c.o
 
@@ -2445,6 +2553,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/表达式计算加减乘除.c.s
 .PHONY : 表达式计算加减乘除.c.s
 
+表达式计算加减乘除括号.o: 表达式计算加减乘除括号.c.o
+
+.PHONY : 表达式计算加减乘除括号.o
+
+# target to build an object file
+表达式计算加减乘除括号.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o
+.PHONY : 表达式计算加减乘除括号.c.o
+
+表达式计算加减乘除括号.i: 表达式计算加减乘除括号.c.i
+
+.PHONY : 表达式计算加减乘除括号.i
+
+# target to preprocess a source file
+表达式计算加减乘除括号.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/表达式计算加减乘除括号.c.i
+.PHONY : 表达式计算加减乘除括号.c.i
+
+表达式计算加减乘除括号.s: 表达式计算加减乘除括号.c.s
+
+.PHONY : 表达式计算加减乘除括号.s
+
+# target to generate assembly for a file
+表达式计算加减乘除括号.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/表达式计算加减乘除括号.c.s
+.PHONY : 表达式计算加减乘除括号.c.s
+
 赌博.o: 赌博.c.o
 
 .PHONY : 赌博.o
@@ -2691,6 +2826,12 @@ help:
 	@echo "... scanf正则表达式.o"
 	@echo "... scanf正则表达式.i"
 	@echo "... scanf正则表达式.s"
+	@echo "... sscanfsprintf.o"
+	@echo "... sscanfsprintf.i"
+	@echo "... sscanfsprintf.s"
+	@echo "... strtok练习.o"
+	@echo "... strtok练习.i"
+	@echo "... strtok练习.s"
 	@echo "... str系列函数.o"
 	@echo "... str系列函数.i"
 	@echo "... str系列函数.s"
@@ -2793,6 +2934,12 @@ help:
 	@echo "... 字符串.o"
 	@echo "... 字符串.i"
 	@echo "... 字符串.s"
+	@echo "... 字符串切割.o"
+	@echo "... 字符串切割.i"
+	@echo "... 字符串切割.s"
+	@echo "... 字符串删除.o"
+	@echo "... 字符串删除.i"
+	@echo "... 字符串删除.s"
 	@echo "... 字符串常用函数.o"
 	@echo "... 字符串常用函数.i"
 	@echo "... 字符串常用函数.s"
@@ -2901,6 +3048,9 @@ help:
 	@echo "... 表达式计算加减乘除.o"
 	@echo "... 表达式计算加减乘除.i"
 	@echo "... 表达式计算加减乘除.s"
+	@echo "... 表达式计算加减乘除括号.o"
+	@echo "... 表达式计算加减乘除括号.i"
+	@echo "... 表达式计算加减乘除括号.s"
 	@echo "... 赌博.o"
 	@echo "... 赌博.i"
 	@echo "... 赌博.s"

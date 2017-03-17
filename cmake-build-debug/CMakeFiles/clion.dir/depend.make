@@ -32,6 +32,8 @@ CMakeFiles/clion.dir/printscanf.c.o: ../printscanf.c
 
 CMakeFiles/clion.dir/scanf正则表达式.c.o: ../scanf正则表达式.c
 
+CMakeFiles/clion.dir/strtok练习.c.o: ../strtok练习.c
+
 CMakeFiles/clion.dir/str系列函数.c.o: ../str系列函数.c
 
 CMakeFiles/clion.dir/test.c.o: ../test.c
@@ -100,6 +102,10 @@ CMakeFiles/clion.dir/堆排序.c.o: ../堆排序.c
 CMakeFiles/clion.dir/堆排序变异.c.o: ../堆排序变异.c
 
 CMakeFiles/clion.dir/字符串.c.o: ../字符串.c
+
+CMakeFiles/clion.dir/字符串切割.c.o: ../字符串切割.c
+
+CMakeFiles/clion.dir/字符串删除.c.o: ../字符串删除.c
 
 CMakeFiles/clion.dir/字符串常用函数.c.o: ../字符串常用函数.c
 
@@ -174,6 +180,8 @@ CMakeFiles/clion.dir/蛇和大数相乘.c.o: ../蛇和大数相乘.c
 CMakeFiles/clion.dir/表达式计算加减.c.o: ../表达式计算加减.c
 
 CMakeFiles/clion.dir/表达式计算加减乘除.c.o: ../表达式计算加减乘除.c
+
+CMakeFiles/clion.dir/表达式计算加减乘除括号.c.o: ../表达式计算加减乘除括号.c
 
 CMakeFiles/clion.dir/赌博.c.o: ../赌博.c
 

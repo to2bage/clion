@@ -102,6 +102,14 @@ stdio.h
 stdio.h
 -
 
+/Users/apple/Desktop/clion/strtok练习.c
+stdio.h
+-
+string.h
+-
+stdbool.h
+-
+
 /Users/apple/Desktop/clion/str系列函数.c
 stdio.h
 -
@@ -316,6 +324,20 @@ string.h
 stdlib.h
 -
 time.h
+-
+
+/Users/apple/Desktop/clion/字符串切割.c
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+
+/Users/apple/Desktop/clion/字符串删除.c
+stdio.h
+-
+stdbool.h
 -
 
 /Users/apple/Desktop/clion/字符串常用函数.c
@@ -557,6 +579,12 @@ stdbool.h
 -
 
 /Users/apple/Desktop/clion/表达式计算加减乘除.c
+stdio.h
+-
+stdbool.h
+-
+
+/Users/apple/Desktop/clion/表达式计算加减乘除括号.c
 stdio.h
 -
 stdbool.h
