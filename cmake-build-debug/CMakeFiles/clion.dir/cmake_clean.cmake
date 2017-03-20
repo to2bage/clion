@@ -97,6 +97,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/字符串切割.c.o"
   "CMakeFiles/clion.dir/strtok练习.c.o"
   "CMakeFiles/clion.dir/sscanfsprintf.c.o"
+  "CMakeFiles/clion.dir/str基础函数.c.o"
+  "CMakeFiles/clion.dir/str高级.c.o"
+  "CMakeFiles/clion.dir/字符串插入.c.o"
   "clion.pdb"
   "clion"
 )

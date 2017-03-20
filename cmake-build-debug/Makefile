@@ -609,6 +609,33 @@ strtok练习.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/strtok练习.c.s
 .PHONY : strtok练习.c.s
 
+str基础函数.o: str基础函数.c.o
+
+.PHONY : str基础函数.o
+
+# target to build an object file
+str基础函数.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/str基础函数.c.o
+.PHONY : str基础函数.c.o
+
+str基础函数.i: str基础函数.c.i
+
+.PHONY : str基础函数.i
+
+# target to preprocess a source file
+str基础函数.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/str基础函数.c.i
+.PHONY : str基础函数.c.i
+
+str基础函数.s: str基础函数.c.s
+
+.PHONY : str基础函数.s
+
+# target to generate assembly for a file
+str基础函数.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/str基础函数.c.s
+.PHONY : str基础函数.c.s
+
 str系列函数.o: str系列函数.c.o
 
 .PHONY : str系列函数.o
@@ -635,6 +662,33 @@ str系列函数.s: str系列函数.c.s
 str系列函数.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/str系列函数.c.s
 .PHONY : str系列函数.c.s
+
+str高级.o: str高级.c.o
+
+.PHONY : str高级.o
+
+# target to build an object file
+str高级.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/str高级.c.o
+.PHONY : str高级.c.o
+
+str高级.i: str高级.c.i
+
+.PHONY : str高级.i
+
+# target to preprocess a source file
+str高级.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/str高级.c.i
+.PHONY : str高级.c.i
+
+str高级.s: str高级.c.s
+
+.PHONY : str高级.s
+
+# target to generate assembly for a file
+str高级.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/str高级.c.s
+.PHONY : str高级.c.s
 
 test.o: test.c.o
 
@@ -1607,6 +1661,33 @@ while.c.s:
 字符串常用函数.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串常用函数.c.s
 .PHONY : 字符串常用函数.c.s
+
+字符串插入.o: 字符串插入.c.o
+
+.PHONY : 字符串插入.o
+
+# target to build an object file
+字符串插入.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串插入.c.o
+.PHONY : 字符串插入.c.o
+
+字符串插入.i: 字符串插入.c.i
+
+.PHONY : 字符串插入.i
+
+# target to preprocess a source file
+字符串插入.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串插入.c.i
+.PHONY : 字符串插入.c.i
+
+字符串插入.s: 字符串插入.c.s
+
+.PHONY : 字符串插入.s
+
+# target to generate assembly for a file
+字符串插入.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串插入.c.s
+.PHONY : 字符串插入.c.s
 
 字符串转数字.o: 字符串转数字.c.o
 
@@ -2832,9 +2913,15 @@ help:
 	@echo "... strtok练习.o"
 	@echo "... strtok练习.i"
 	@echo "... strtok练习.s"
+	@echo "... str基础函数.o"
+	@echo "... str基础函数.i"
+	@echo "... str基础函数.s"
 	@echo "... str系列函数.o"
 	@echo "... str系列函数.i"
 	@echo "... str系列函数.s"
+	@echo "... str高级.o"
+	@echo "... str高级.i"
+	@echo "... str高级.s"
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"
@@ -2943,6 +3030,9 @@ help:
 	@echo "... 字符串常用函数.o"
 	@echo "... 字符串常用函数.i"
 	@echo "... 字符串常用函数.s"
+	@echo "... 字符串插入.o"
+	@echo "... 字符串插入.i"
+	@echo "... 字符串插入.s"
 	@echo "... 字符串转数字.o"
 	@echo "... 字符串转数字.i"
 	@echo "... 字符串转数字.s"

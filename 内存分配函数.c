@@ -41,7 +41,7 @@ int main内存分配函数(int argc, char* argv[])
     {
         //栈上栈上栈上 分配内存函数 ： alloca, 要包含头文件 alloca.h
         int *p = alloca(10 * sizeof(int)); //因为实在栈上分配内存，所以不能超过栈的内存大小
-
+        //栈上没有类似recalloc的函数
     }
 
     return 0;

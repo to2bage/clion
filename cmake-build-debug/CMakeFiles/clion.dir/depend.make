@@ -32,9 +32,15 @@ CMakeFiles/clion.dir/printscanf.c.o: ../printscanf.c
 
 CMakeFiles/clion.dir/scanf正则表达式.c.o: ../scanf正则表达式.c
 
+CMakeFiles/clion.dir/sscanfsprintf.c.o: ../sscanfsprintf.c
+
 CMakeFiles/clion.dir/strtok练习.c.o: ../strtok练习.c
 
+CMakeFiles/clion.dir/str基础函数.c.o: ../str基础函数.c
+
 CMakeFiles/clion.dir/str系列函数.c.o: ../str系列函数.c
+
+CMakeFiles/clion.dir/str高级.c.o: ../str高级.c
 
 CMakeFiles/clion.dir/test.c.o: ../test.c
 
@@ -108,6 +114,8 @@ CMakeFiles/clion.dir/字符串切割.c.o: ../字符串切割.c
 CMakeFiles/clion.dir/字符串删除.c.o: ../字符串删除.c
 
 CMakeFiles/clion.dir/字符串常用函数.c.o: ../字符串常用函数.c
+
+CMakeFiles/clion.dir/字符串插入.c.o: ../字符串插入.c
 
 CMakeFiles/clion.dir/字符串转数字.c.o: ../字符串转数字.c
 
