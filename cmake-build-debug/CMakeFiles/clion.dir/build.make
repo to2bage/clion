@@ -2481,6 +2481,150 @@ CMakeFiles/clion.dir/字符串插入.c.o.provides: CMakeFiles/clion.dir/字符�
 CMakeFiles/clion.dir/字符串插入.c.o.provides.build: CMakeFiles/clion.dir/字符串插入.c.o
 
 
+CMakeFiles/clion.dir/字符串替换.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/字符串替换.c.o: ../字符串替换.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object CMakeFiles/clion.dir/字符串替换.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/字符串替换.c.o   -c /Users/apple/Desktop/clion/字符串替换.c
+
+CMakeFiles/clion.dir/字符串替换.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/字符串替换.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/字符串替换.c > CMakeFiles/clion.dir/字符串替换.c.i
+
+CMakeFiles/clion.dir/字符串替换.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/字符串替换.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/字符串替换.c -o CMakeFiles/clion.dir/字符串替换.c.s
+
+CMakeFiles/clion.dir/字符串替换.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/字符串替换.c.o.requires
+
+CMakeFiles/clion.dir/字符串替换.c.o.provides: CMakeFiles/clion.dir/字符串替换.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串替换.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/字符串替换.c.o.provides
+
+CMakeFiles/clion.dir/字符串替换.c.o.provides.build: CMakeFiles/clion.dir/字符串替换.c.o
+
+
+CMakeFiles/clion.dir/最长数字字符串.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/最长数字字符串.c.o: ../最长数字字符串.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object CMakeFiles/clion.dir/最长数字字符串.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/最长数字字符串.c.o   -c /Users/apple/Desktop/clion/最长数字字符串.c
+
+CMakeFiles/clion.dir/最长数字字符串.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/最长数字字符串.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/最长数字字符串.c > CMakeFiles/clion.dir/最长数字字符串.c.i
+
+CMakeFiles/clion.dir/最长数字字符串.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/最长数字字符串.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/最长数字字符串.c -o CMakeFiles/clion.dir/最长数字字符串.c.s
+
+CMakeFiles/clion.dir/最长数字字符串.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/最长数字字符串.c.o.requires
+
+CMakeFiles/clion.dir/最长数字字符串.c.o.provides: CMakeFiles/clion.dir/最长数字字符串.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/最长数字字符串.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/最长数字字符串.c.o.provides
+
+CMakeFiles/clion.dir/最长数字字符串.c.o.provides.build: CMakeFiles/clion.dir/最长数字字符串.c.o
+
+
+CMakeFiles/clion.dir/字符串对称.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/字符串对称.c.o: ../字符串对称.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object CMakeFiles/clion.dir/字符串对称.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/字符串对称.c.o   -c /Users/apple/Desktop/clion/字符串对称.c
+
+CMakeFiles/clion.dir/字符串对称.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/字符串对称.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/字符串对称.c > CMakeFiles/clion.dir/字符串对称.c.i
+
+CMakeFiles/clion.dir/字符串对称.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/字符串对称.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/字符串对称.c -o CMakeFiles/clion.dir/字符串对称.c.s
+
+CMakeFiles/clion.dir/字符串对称.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/字符串对称.c.o.requires
+
+CMakeFiles/clion.dir/字符串对称.c.o.provides: CMakeFiles/clion.dir/字符串对称.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串对称.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/字符串对称.c.o.provides
+
+CMakeFiles/clion.dir/字符串对称.c.o.provides.build: CMakeFiles/clion.dir/字符串对称.c.o
+
+
+CMakeFiles/clion.dir/结构体.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/结构体.c.o: ../结构体.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object CMakeFiles/clion.dir/结构体.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/结构体.c.o   -c /Users/apple/Desktop/clion/结构体.c
+
+CMakeFiles/clion.dir/结构体.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/结构体.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/结构体.c > CMakeFiles/clion.dir/结构体.c.i
+
+CMakeFiles/clion.dir/结构体.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/结构体.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/结构体.c -o CMakeFiles/clion.dir/结构体.c.s
+
+CMakeFiles/clion.dir/结构体.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/结构体.c.o.requires
+
+CMakeFiles/clion.dir/结构体.c.o.provides: CMakeFiles/clion.dir/结构体.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/结构体.c.o.provides
+
+CMakeFiles/clion.dir/结构体.c.o.provides.build: CMakeFiles/clion.dir/结构体.c.o
+
+
+CMakeFiles/clion.dir/字符串压缩和解压缩.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/字符串压缩和解压缩.c.o: ../字符串压缩和解压缩.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object CMakeFiles/clion.dir/字符串压缩和解压缩.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/字符串压缩和解压缩.c.o   -c /Users/apple/Desktop/clion/字符串压缩和解压缩.c
+
+CMakeFiles/clion.dir/字符串压缩和解压缩.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/字符串压缩和解压缩.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/字符串压缩和解压缩.c > CMakeFiles/clion.dir/字符串压缩和解压缩.c.i
+
+CMakeFiles/clion.dir/字符串压缩和解压缩.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/字符串压缩和解压缩.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/字符串压缩和解压缩.c -o CMakeFiles/clion.dir/字符串压缩和解压缩.c.s
+
+CMakeFiles/clion.dir/字符串压缩和解压缩.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/字符串压缩和解压缩.c.o.requires
+
+CMakeFiles/clion.dir/字符串压缩和解压缩.c.o.provides: CMakeFiles/clion.dir/字符串压缩和解压缩.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串压缩和解压缩.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/字符串压缩和解压缩.c.o.provides
+
+CMakeFiles/clion.dir/字符串压缩和解压缩.c.o.provides.build: CMakeFiles/clion.dir/字符串压缩和解压缩.c.o
+
+
+CMakeFiles/clion.dir/字符串哈希和查找.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/字符串哈希和查找.c.o: ../字符串哈希和查找.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object CMakeFiles/clion.dir/字符串哈希和查找.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/字符串哈希和查找.c.o   -c /Users/apple/Desktop/clion/字符串哈希和查找.c
+
+CMakeFiles/clion.dir/字符串哈希和查找.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/字符串哈希和查找.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/字符串哈希和查找.c > CMakeFiles/clion.dir/字符串哈希和查找.c.i
+
+CMakeFiles/clion.dir/字符串哈希和查找.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/字符串哈希和查找.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/字符串哈希和查找.c -o CMakeFiles/clion.dir/字符串哈希和查找.c.s
+
+CMakeFiles/clion.dir/字符串哈希和查找.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/字符串哈希和查找.c.o.requires
+
+CMakeFiles/clion.dir/字符串哈希和查找.c.o.provides: CMakeFiles/clion.dir/字符串哈希和查找.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串哈希和查找.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/字符串哈希和查找.c.o.provides
+
+CMakeFiles/clion.dir/字符串哈希和查找.c.o.provides.build: CMakeFiles/clion.dir/字符串哈希和查找.c.o
+
+
 # Object files for target clion
 clion_OBJECTS = \
 "CMakeFiles/clion.dir/main.cpp.o" \
@@ -2583,7 +2727,13 @@ clion_OBJECTS = \
 "CMakeFiles/clion.dir/sscanfsprintf.c.o" \
 "CMakeFiles/clion.dir/str基础函数.c.o" \
 "CMakeFiles/clion.dir/str高级.c.o" \
-"CMakeFiles/clion.dir/字符串插入.c.o"
+"CMakeFiles/clion.dir/字符串插入.c.o" \
+"CMakeFiles/clion.dir/字符串替换.c.o" \
+"CMakeFiles/clion.dir/最长数字字符串.c.o" \
+"CMakeFiles/clion.dir/字符串对称.c.o" \
+"CMakeFiles/clion.dir/结构体.c.o" \
+"CMakeFiles/clion.dir/字符串压缩和解压缩.c.o" \
+"CMakeFiles/clion.dir/字符串哈希和查找.c.o"
 
 # External object files for target clion
 clion_EXTERNAL_OBJECTS =
@@ -2689,9 +2839,15 @@ clion: CMakeFiles/clion.dir/sscanfsprintf.c.o
 clion: CMakeFiles/clion.dir/str基础函数.c.o
 clion: CMakeFiles/clion.dir/str高级.c.o
 clion: CMakeFiles/clion.dir/字符串插入.c.o
+clion: CMakeFiles/clion.dir/字符串替换.c.o
+clion: CMakeFiles/clion.dir/最长数字字符串.c.o
+clion: CMakeFiles/clion.dir/字符串对称.c.o
+clion: CMakeFiles/clion.dir/结构体.c.o
+clion: CMakeFiles/clion.dir/字符串压缩和解压缩.c.o
+clion: CMakeFiles/clion.dir/字符串哈希和查找.c.o
 clion: CMakeFiles/clion.dir/build.make
 clion: CMakeFiles/clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Linking CXX executable clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Linking CXX executable clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -2800,6 +2956,12 @@ CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/sscanfsprintf.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/str基础函数.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/str高级.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串插入.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串替换.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/最长数字字符串.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串对称.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/结构体.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串压缩和解压缩.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串哈希和查找.c.o.requires
 
 .PHONY : CMakeFiles/clion.dir/requires
 

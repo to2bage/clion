@@ -1635,6 +1635,87 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串删除.c.s
 .PHONY : 字符串删除.c.s
 
+字符串压缩和解压缩.o: 字符串压缩和解压缩.c.o
+
+.PHONY : 字符串压缩和解压缩.o
+
+# target to build an object file
+字符串压缩和解压缩.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串压缩和解压缩.c.o
+.PHONY : 字符串压缩和解压缩.c.o
+
+字符串压缩和解压缩.i: 字符串压缩和解压缩.c.i
+
+.PHONY : 字符串压缩和解压缩.i
+
+# target to preprocess a source file
+字符串压缩和解压缩.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串压缩和解压缩.c.i
+.PHONY : 字符串压缩和解压缩.c.i
+
+字符串压缩和解压缩.s: 字符串压缩和解压缩.c.s
+
+.PHONY : 字符串压缩和解压缩.s
+
+# target to generate assembly for a file
+字符串压缩和解压缩.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串压缩和解压缩.c.s
+.PHONY : 字符串压缩和解压缩.c.s
+
+字符串哈希和查找.o: 字符串哈希和查找.c.o
+
+.PHONY : 字符串哈希和查找.o
+
+# target to build an object file
+字符串哈希和查找.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串哈希和查找.c.o
+.PHONY : 字符串哈希和查找.c.o
+
+字符串哈希和查找.i: 字符串哈希和查找.c.i
+
+.PHONY : 字符串哈希和查找.i
+
+# target to preprocess a source file
+字符串哈希和查找.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串哈希和查找.c.i
+.PHONY : 字符串哈希和查找.c.i
+
+字符串哈希和查找.s: 字符串哈希和查找.c.s
+
+.PHONY : 字符串哈希和查找.s
+
+# target to generate assembly for a file
+字符串哈希和查找.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串哈希和查找.c.s
+.PHONY : 字符串哈希和查找.c.s
+
+字符串对称.o: 字符串对称.c.o
+
+.PHONY : 字符串对称.o
+
+# target to build an object file
+字符串对称.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串对称.c.o
+.PHONY : 字符串对称.c.o
+
+字符串对称.i: 字符串对称.c.i
+
+.PHONY : 字符串对称.i
+
+# target to preprocess a source file
+字符串对称.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串对称.c.i
+.PHONY : 字符串对称.c.i
+
+字符串对称.s: 字符串对称.c.s
+
+.PHONY : 字符串对称.s
+
+# target to generate assembly for a file
+字符串对称.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串对称.c.s
+.PHONY : 字符串对称.c.s
+
 字符串常用函数.o: 字符串常用函数.c.o
 
 .PHONY : 字符串常用函数.o
@@ -1688,6 +1769,33 @@ while.c.s:
 字符串插入.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串插入.c.s
 .PHONY : 字符串插入.c.s
+
+字符串替换.o: 字符串替换.c.o
+
+.PHONY : 字符串替换.o
+
+# target to build an object file
+字符串替换.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串替换.c.o
+.PHONY : 字符串替换.c.o
+
+字符串替换.i: 字符串替换.c.i
+
+.PHONY : 字符串替换.i
+
+# target to preprocess a source file
+字符串替换.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串替换.c.i
+.PHONY : 字符串替换.c.i
+
+字符串替换.s: 字符串替换.c.s
+
+.PHONY : 字符串替换.s
+
+# target to generate assembly for a file
+字符串替换.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/字符串替换.c.s
+.PHONY : 字符串替换.c.s
 
 字符串转数字.o: 字符串转数字.c.o
 
@@ -2175,6 +2283,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/最小公倍数最大公约数.c.s
 .PHONY : 最小公倍数最大公约数.c.s
 
+最长数字字符串.o: 最长数字字符串.c.o
+
+.PHONY : 最长数字字符串.o
+
+# target to build an object file
+最长数字字符串.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/最长数字字符串.c.o
+.PHONY : 最长数字字符串.c.o
+
+最长数字字符串.i: 最长数字字符串.c.i
+
+.PHONY : 最长数字字符串.i
+
+# target to preprocess a source file
+最长数字字符串.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/最长数字字符串.c.i
+.PHONY : 最长数字字符串.c.i
+
+最长数字字符串.s: 最长数字字符串.c.s
+
+.PHONY : 最长数字字符串.s
+
+# target to generate assembly for a file
+最长数字字符串.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/最长数字字符串.c.s
+.PHONY : 最长数字字符串.c.s
+
 杨辉三角.o: 杨辉三角.c.o
 
 .PHONY : 杨辉三角.o
@@ -2552,6 +2687,33 @@ while.c.s:
 练习.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/练习.c.s
 .PHONY : 练习.c.s
+
+结构体.o: 结构体.c.o
+
+.PHONY : 结构体.o
+
+# target to build an object file
+结构体.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体.c.o
+.PHONY : 结构体.c.o
+
+结构体.i: 结构体.c.i
+
+.PHONY : 结构体.i
+
+# target to preprocess a source file
+结构体.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体.c.i
+.PHONY : 结构体.c.i
+
+结构体.s: 结构体.c.s
+
+.PHONY : 结构体.s
+
+# target to generate assembly for a file
+结构体.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体.c.s
+.PHONY : 结构体.c.s
 
 蛇和大数相乘.o: 蛇和大数相乘.c.o
 
@@ -3027,12 +3189,24 @@ help:
 	@echo "... 字符串删除.o"
 	@echo "... 字符串删除.i"
 	@echo "... 字符串删除.s"
+	@echo "... 字符串压缩和解压缩.o"
+	@echo "... 字符串压缩和解压缩.i"
+	@echo "... 字符串压缩和解压缩.s"
+	@echo "... 字符串哈希和查找.o"
+	@echo "... 字符串哈希和查找.i"
+	@echo "... 字符串哈希和查找.s"
+	@echo "... 字符串对称.o"
+	@echo "... 字符串对称.i"
+	@echo "... 字符串对称.s"
 	@echo "... 字符串常用函数.o"
 	@echo "... 字符串常用函数.i"
 	@echo "... 字符串常用函数.s"
 	@echo "... 字符串插入.o"
 	@echo "... 字符串插入.i"
 	@echo "... 字符串插入.s"
+	@echo "... 字符串替换.o"
+	@echo "... 字符串替换.i"
+	@echo "... 字符串替换.s"
 	@echo "... 字符串转数字.o"
 	@echo "... 字符串转数字.i"
 	@echo "... 字符串转数字.s"
@@ -3087,6 +3261,9 @@ help:
 	@echo "... 最小公倍数最大公约数.o"
 	@echo "... 最小公倍数最大公约数.i"
 	@echo "... 最小公倍数最大公约数.s"
+	@echo "... 最长数字字符串.o"
+	@echo "... 最长数字字符串.i"
+	@echo "... 最长数字字符串.s"
 	@echo "... 杨辉三角.o"
 	@echo "... 杨辉三角.i"
 	@echo "... 杨辉三角.s"
@@ -3129,6 +3306,9 @@ help:
 	@echo "... 练习.o"
 	@echo "... 练习.i"
 	@echo "... 练习.s"
+	@echo "... 结构体.o"
+	@echo "... 结构体.i"
+	@echo "... 结构体.s"
 	@echo "... 蛇和大数相乘.o"
 	@echo "... 蛇和大数相乘.i"
 	@echo "... 蛇和大数相乘.s"

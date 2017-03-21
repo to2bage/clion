@@ -372,6 +372,30 @@ stdio.h
 stdbool.h
 -
 
+/Users/apple/Desktop/clion/字符串压缩和解压缩.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+memory.h
+-
+
+/Users/apple/Desktop/clion/字符串哈希和查找.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
+/Users/apple/Desktop/clion/字符串对称.c
+stdio.h
+-
+stdbool.h
+-
+
 /Users/apple/Desktop/clion/字符串常用函数.c
 stdio.h
 -
@@ -386,6 +410,18 @@ stdlib.h
 stdio.h
 -
 string.h
+-
+
+/Users/apple/Desktop/clion/字符串替换.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+memory.h
+-
+stdbool.h
 -
 
 /Users/apple/Desktop/clion/字符串转数字.c
@@ -512,6 +548,10 @@ stdio.h
 stdio.h
 -
 
+/Users/apple/Desktop/clion/最长数字字符串.c
+stdio.h
+-
+
 /Users/apple/Desktop/clion/杨辉三角.c
 stdio.h
 -
@@ -599,6 +639,10 @@ time.h
 -
 
 /Users/apple/Desktop/clion/练习.c
+stdio.h
+-
+
+/Users/apple/Desktop/clion/结构体.c
 stdio.h
 -
 

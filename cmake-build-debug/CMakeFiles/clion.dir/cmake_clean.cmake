@@ -100,6 +100,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/str基础函数.c.o"
   "CMakeFiles/clion.dir/str高级.c.o"
   "CMakeFiles/clion.dir/字符串插入.c.o"
+  "CMakeFiles/clion.dir/字符串替换.c.o"
+  "CMakeFiles/clion.dir/最长数字字符串.c.o"
+  "CMakeFiles/clion.dir/字符串对称.c.o"
+  "CMakeFiles/clion.dir/结构体.c.o"
+  "CMakeFiles/clion.dir/字符串压缩和解压缩.c.o"
+  "CMakeFiles/clion.dir/字符串哈希和查找.c.o"
   "clion.pdb"
   "clion"
 )

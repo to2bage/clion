@@ -27,7 +27,7 @@ int main内存分配函数(int argc, char* argv[])
         printf("\n");
     }
     {
-        //realloc
+        //realloc 不会初始化内存
         int *p = (int *)malloc(10 * sizeof(int));
         printf("p = %p\n", p);
         p = realloc(p, 20 * sizeof(int));   //拓展内存

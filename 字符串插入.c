@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(int argc, char* argv[])
+int main字符串插入(int argc, char* argv[])
 {
     char str1[100] = "trump love money";
     char str2[50] = "USA than";
