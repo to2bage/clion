@@ -60,7 +60,7 @@ static char getOnceByHash(char *pstr)
     return 0;
 }
 
-int main(int argc, char* argv[])
+int main字符串哈希查找(int argc, char* argv[])
 {
     {
         //字符串中仅仅出现一次的字符

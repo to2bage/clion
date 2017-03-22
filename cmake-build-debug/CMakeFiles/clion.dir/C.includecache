@@ -645,6 +645,14 @@ stdio.h
 /Users/apple/Desktop/clion/结构体.c
 stdio.h
 -
+stdlib.h
+-
+string.h
+-
+
+/Users/apple/Desktop/clion/结构体嵌套.c
+stdio.h
+-
 
 /Users/apple/Desktop/clion/蛇和大数相乘.c
 stdio.h

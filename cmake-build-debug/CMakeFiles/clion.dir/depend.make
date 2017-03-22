@@ -195,6 +195,8 @@ CMakeFiles/clion.dir/练习.c.o: ../练习.c
 
 CMakeFiles/clion.dir/结构体.c.o: ../结构体.c
 
+CMakeFiles/clion.dir/结构体嵌套.c.o: ../结构体嵌套.c
+
 CMakeFiles/clion.dir/蛇和大数相乘.c.o: ../蛇和大数相乘.c
 
 CMakeFiles/clion.dir/表达式计算加减.c.o: ../表达式计算加减.c

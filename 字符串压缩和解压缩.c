@@ -118,13 +118,60 @@ static char *spacefirstzip(char *pstr)
 
     return pstr;
 }
-//空间优先解压缩
-static char *spacefirstUnzip(char *pstr)
+//空间优先解压缩    5a3bhaihualovefangfang9o
+static char *spacefirstUnzip(char **ppstr)
 {
+    //char *pstr = *ppstr;
+    char *p1 = *ppstr;
+    char *p2 = *ppstr;
+    int num = 0;
 
+    while(*p2 != '\0')
+    {
+        num = 0;
+        if(*p1 >= '0' && *p1 <= '9')
+        {
+            num = *p1 - '0';
+            p2 += 2;
+        }//此时p2指向下一个要操作的字母字符或数字字符，比如刚开始时是3
+
+        if(num == 0)
+        {
+            *p1++ = *p2++;
+        }
+        else
+        {
+            //向后移动数据
+            int len = num - 2;
+            int xpos1 = p1 - *ppstr;  //记录p1相对位置
+            int xpos2 = p2 - *ppstr;  //记录p2相对位置
+
+            ////重新分配内存
+            *ppstr = (char *)realloc(*ppstr, (strlen(*ppstr) + len + 1) * sizeof(char));
+
+            p1 = *ppstr + xpos1;
+            p2 = *ppstr + xpos2;
+
+
+            char *pend = p2 + strlen(*ppstr);   //包含字符'\0'
+            while(pend >= p2)
+            {
+                *(pend + len) = *pend;
+                pend--;
+            }
+
+            //拷贝字符
+            for(int i = 0; i < num; i++)
+            {
+                *p1++ = *(p2 - 1);
+            }//此时，p1指向下一个要操作的字母字符或数字字符
+
+            p2 = p1;
+        }
+    }
 }
 
-int main压缩(int argc, char *argv[])
+int main字符串压缩和解压缩(int argc, char *argv[])
 {
     char str[100] = "aaaaabbbhaihualovefangfangooooooooo";
     //char str[1000000] = "aabbccbbb";
@@ -139,13 +186,15 @@ int main压缩(int argc, char *argv[])
         printf("%s\n", str);
         printf("%s\n", prect);
 
+        //解压缩之时间优先
+//        char *punzipstr = timefirstUnzip(prect);
+//        printf("%s\n", punzipstr);
+
         //解压缩之空间优先
-        char *punzipstr = timefirstUnzip(prect);
-        printf("%s\n", punzipstr);
+        spacefirstUnzip(&prect);
+        printf("%s\n", prect);
     }
-    {
-        //压缩之空间优先
-    }
+
 
     return 0;
 }

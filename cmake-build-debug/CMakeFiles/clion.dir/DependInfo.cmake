@@ -100,6 +100,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/apple/Desktop/clion/线程.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/线程.c.o"
   "/Users/apple/Desktop/clion/练习.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/练习.c.o"
   "/Users/apple/Desktop/clion/结构体.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/结构体.c.o"
+  "/Users/apple/Desktop/clion/结构体嵌套.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/结构体嵌套.c.o"
   "/Users/apple/Desktop/clion/蛇和大数相乘.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/蛇和大数相乘.c.o"
   "/Users/apple/Desktop/clion/表达式计算加减.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/表达式计算加减.c.o"
   "/Users/apple/Desktop/clion/表达式计算加减乘除.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/表达式计算加减乘除.c.o"

@@ -106,6 +106,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/结构体.c.o"
   "CMakeFiles/clion.dir/字符串压缩和解压缩.c.o"
   "CMakeFiles/clion.dir/字符串哈希和查找.c.o"
+  "CMakeFiles/clion.dir/结构体嵌套.c.o"
   "clion.pdb"
   "clion"
 )

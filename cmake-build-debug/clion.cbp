@@ -374,6 +374,9 @@
 		<Unit filename="/Users/apple/Desktop/clion/结构体.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/结构体嵌套.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/蛇和大数相乘.c">
 			<Option target="clion"/>
 		</Unit>

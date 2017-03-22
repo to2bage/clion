@@ -2715,6 +2715,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体.c.s
 .PHONY : 结构体.c.s
 
+结构体嵌套.o: 结构体嵌套.c.o
+
+.PHONY : 结构体嵌套.o
+
+# target to build an object file
+结构体嵌套.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体嵌套.c.o
+.PHONY : 结构体嵌套.c.o
+
+结构体嵌套.i: 结构体嵌套.c.i
+
+.PHONY : 结构体嵌套.i
+
+# target to preprocess a source file
+结构体嵌套.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体嵌套.c.i
+.PHONY : 结构体嵌套.c.i
+
+结构体嵌套.s: 结构体嵌套.c.s
+
+.PHONY : 结构体嵌套.s
+
+# target to generate assembly for a file
+结构体嵌套.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体嵌套.c.s
+.PHONY : 结构体嵌套.c.s
+
 蛇和大数相乘.o: 蛇和大数相乘.c.o
 
 .PHONY : 蛇和大数相乘.o
@@ -3309,6 +3336,9 @@ help:
 	@echo "... 结构体.o"
 	@echo "... 结构体.i"
 	@echo "... 结构体.s"
+	@echo "... 结构体嵌套.o"
+	@echo "... 结构体嵌套.i"
+	@echo "... 结构体嵌套.s"
 	@echo "... 蛇和大数相乘.o"
 	@echo "... 蛇和大数相乘.i"
 	@echo "... 蛇和大数相乘.s"
