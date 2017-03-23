@@ -2649,6 +2649,174 @@ CMakeFiles/clion.dir/结构体嵌套.c.o.provides: CMakeFiles/clion.dir/结构�
 CMakeFiles/clion.dir/结构体嵌套.c.o.provides.build: CMakeFiles/clion.dir/结构体嵌套.c.o
 
 
+CMakeFiles/clion.dir/20150505.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/20150505.c.o: ../20150505.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object CMakeFiles/clion.dir/20150505.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/20150505.c.o   -c /Users/apple/Desktop/clion/20150505.c
+
+CMakeFiles/clion.dir/20150505.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/20150505.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/20150505.c > CMakeFiles/clion.dir/20150505.c.i
+
+CMakeFiles/clion.dir/20150505.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/20150505.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/20150505.c -o CMakeFiles/clion.dir/20150505.c.s
+
+CMakeFiles/clion.dir/20150505.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/20150505.c.o.requires
+
+CMakeFiles/clion.dir/20150505.c.o.provides: CMakeFiles/clion.dir/20150505.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150505.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/20150505.c.o.provides
+
+CMakeFiles/clion.dir/20150505.c.o.provides.build: CMakeFiles/clion.dir/20150505.c.o
+
+
+CMakeFiles/clion.dir/结构体数组和指针.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/结构体数组和指针.c.o: ../结构体数组和指针.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object CMakeFiles/clion.dir/结构体数组和指针.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/结构体数组和指针.c.o   -c /Users/apple/Desktop/clion/结构体数组和指针.c
+
+CMakeFiles/clion.dir/结构体数组和指针.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/结构体数组和指针.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/结构体数组和指针.c > CMakeFiles/clion.dir/结构体数组和指针.c.i
+
+CMakeFiles/clion.dir/结构体数组和指针.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/结构体数组和指针.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/结构体数组和指针.c -o CMakeFiles/clion.dir/结构体数组和指针.c.s
+
+CMakeFiles/clion.dir/结构体数组和指针.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/结构体数组和指针.c.o.requires
+
+CMakeFiles/clion.dir/结构体数组和指针.c.o.provides: CMakeFiles/clion.dir/结构体数组和指针.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体数组和指针.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/结构体数组和指针.c.o.provides
+
+CMakeFiles/clion.dir/结构体数组和指针.c.o.provides.build: CMakeFiles/clion.dir/结构体数组和指针.c.o
+
+
+CMakeFiles/clion.dir/结构体大小和字节对齐.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/结构体大小和字节对齐.c.o: ../结构体大小和字节对齐.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object CMakeFiles/clion.dir/结构体大小和字节对齐.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/结构体大小和字节对齐.c.o   -c /Users/apple/Desktop/clion/结构体大小和字节对齐.c
+
+CMakeFiles/clion.dir/结构体大小和字节对齐.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/结构体大小和字节对齐.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/结构体大小和字节对齐.c > CMakeFiles/clion.dir/结构体大小和字节对齐.c.i
+
+CMakeFiles/clion.dir/结构体大小和字节对齐.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/结构体大小和字节对齐.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/结构体大小和字节对齐.c -o CMakeFiles/clion.dir/结构体大小和字节对齐.c.s
+
+CMakeFiles/clion.dir/结构体大小和字节对齐.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/结构体大小和字节对齐.c.o.requires
+
+CMakeFiles/clion.dir/结构体大小和字节对齐.c.o.provides: CMakeFiles/clion.dir/结构体大小和字节对齐.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体大小和字节对齐.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/结构体大小和字节对齐.c.o.provides
+
+CMakeFiles/clion.dir/结构体大小和字节对齐.c.o.provides.build: CMakeFiles/clion.dir/结构体大小和字节对齐.c.o
+
+
+CMakeFiles/clion.dir/结构体数组副本机制.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/结构体数组副本机制.c.o: ../结构体数组副本机制.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object CMakeFiles/clion.dir/结构体数组副本机制.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/结构体数组副本机制.c.o   -c /Users/apple/Desktop/clion/结构体数组副本机制.c
+
+CMakeFiles/clion.dir/结构体数组副本机制.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/结构体数组副本机制.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/结构体数组副本机制.c > CMakeFiles/clion.dir/结构体数组副本机制.c.i
+
+CMakeFiles/clion.dir/结构体数组副本机制.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/结构体数组副本机制.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/结构体数组副本机制.c -o CMakeFiles/clion.dir/结构体数组副本机制.c.s
+
+CMakeFiles/clion.dir/结构体数组副本机制.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/结构体数组副本机制.c.o.requires
+
+CMakeFiles/clion.dir/结构体数组副本机制.c.o.provides: CMakeFiles/clion.dir/结构体数组副本机制.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体数组副本机制.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/结构体数组副本机制.c.o.provides
+
+CMakeFiles/clion.dir/结构体数组副本机制.c.o.provides.build: CMakeFiles/clion.dir/结构体数组副本机制.c.o
+
+
+CMakeFiles/clion.dir/结构体的位域.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/结构体的位域.c.o: ../结构体的位域.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object CMakeFiles/clion.dir/结构体的位域.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/结构体的位域.c.o   -c /Users/apple/Desktop/clion/结构体的位域.c
+
+CMakeFiles/clion.dir/结构体的位域.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/结构体的位域.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/结构体的位域.c > CMakeFiles/clion.dir/结构体的位域.c.i
+
+CMakeFiles/clion.dir/结构体的位域.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/结构体的位域.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/结构体的位域.c -o CMakeFiles/clion.dir/结构体的位域.c.s
+
+CMakeFiles/clion.dir/结构体的位域.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/结构体的位域.c.o.requires
+
+CMakeFiles/clion.dir/结构体的位域.c.o.provides: CMakeFiles/clion.dir/结构体的位域.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体的位域.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/结构体的位域.c.o.provides
+
+CMakeFiles/clion.dir/结构体的位域.c.o.provides.build: CMakeFiles/clion.dir/结构体的位域.c.o
+
+
+CMakeFiles/clion.dir/共用体.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/共用体.c.o: ../共用体.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object CMakeFiles/clion.dir/共用体.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/共用体.c.o   -c /Users/apple/Desktop/clion/共用体.c
+
+CMakeFiles/clion.dir/共用体.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/共用体.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/共用体.c > CMakeFiles/clion.dir/共用体.c.i
+
+CMakeFiles/clion.dir/共用体.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/共用体.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/共用体.c -o CMakeFiles/clion.dir/共用体.c.s
+
+CMakeFiles/clion.dir/共用体.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/共用体.c.o.requires
+
+CMakeFiles/clion.dir/共用体.c.o.provides: CMakeFiles/clion.dir/共用体.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/共用体.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/共用体.c.o.provides
+
+CMakeFiles/clion.dir/共用体.c.o.provides.build: CMakeFiles/clion.dir/共用体.c.o
+
+
+CMakeFiles/clion.dir/结构体数组管理数据.c.o: CMakeFiles/clion.dir/flags.make
+CMakeFiles/clion.dir/结构体数组管理数据.c.o: ../结构体数组管理数据.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object CMakeFiles/clion.dir/结构体数组管理数据.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/clion.dir/结构体数组管理数据.c.o   -c /Users/apple/Desktop/clion/结构体数组管理数据.c
+
+CMakeFiles/clion.dir/结构体数组管理数据.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/clion.dir/结构体数组管理数据.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/apple/Desktop/clion/结构体数组管理数据.c > CMakeFiles/clion.dir/结构体数组管理数据.c.i
+
+CMakeFiles/clion.dir/结构体数组管理数据.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/clion.dir/结构体数组管理数据.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/apple/Desktop/clion/结构体数组管理数据.c -o CMakeFiles/clion.dir/结构体数组管理数据.c.s
+
+CMakeFiles/clion.dir/结构体数组管理数据.c.o.requires:
+
+.PHONY : CMakeFiles/clion.dir/结构体数组管理数据.c.o.requires
+
+CMakeFiles/clion.dir/结构体数组管理数据.c.o.provides: CMakeFiles/clion.dir/结构体数组管理数据.c.o.requires
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体数组管理数据.c.o.provides.build
+.PHONY : CMakeFiles/clion.dir/结构体数组管理数据.c.o.provides
+
+CMakeFiles/clion.dir/结构体数组管理数据.c.o.provides.build: CMakeFiles/clion.dir/结构体数组管理数据.c.o
+
+
 # Object files for target clion
 clion_OBJECTS = \
 "CMakeFiles/clion.dir/main.cpp.o" \
@@ -2758,7 +2926,14 @@ clion_OBJECTS = \
 "CMakeFiles/clion.dir/结构体.c.o" \
 "CMakeFiles/clion.dir/字符串压缩和解压缩.c.o" \
 "CMakeFiles/clion.dir/字符串哈希和查找.c.o" \
-"CMakeFiles/clion.dir/结构体嵌套.c.o"
+"CMakeFiles/clion.dir/结构体嵌套.c.o" \
+"CMakeFiles/clion.dir/20150505.c.o" \
+"CMakeFiles/clion.dir/结构体数组和指针.c.o" \
+"CMakeFiles/clion.dir/结构体大小和字节对齐.c.o" \
+"CMakeFiles/clion.dir/结构体数组副本机制.c.o" \
+"CMakeFiles/clion.dir/结构体的位域.c.o" \
+"CMakeFiles/clion.dir/共用体.c.o" \
+"CMakeFiles/clion.dir/结构体数组管理数据.c.o"
 
 # External object files for target clion
 clion_EXTERNAL_OBJECTS =
@@ -2871,9 +3046,16 @@ clion: CMakeFiles/clion.dir/结构体.c.o
 clion: CMakeFiles/clion.dir/字符串压缩和解压缩.c.o
 clion: CMakeFiles/clion.dir/字符串哈希和查找.c.o
 clion: CMakeFiles/clion.dir/结构体嵌套.c.o
+clion: CMakeFiles/clion.dir/20150505.c.o
+clion: CMakeFiles/clion.dir/结构体数组和指针.c.o
+clion: CMakeFiles/clion.dir/结构体大小和字节对齐.c.o
+clion: CMakeFiles/clion.dir/结构体数组副本机制.c.o
+clion: CMakeFiles/clion.dir/结构体的位域.c.o
+clion: CMakeFiles/clion.dir/共用体.c.o
+clion: CMakeFiles/clion.dir/结构体数组管理数据.c.o
 clion: CMakeFiles/clion.dir/build.make
 clion: CMakeFiles/clion.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Linking CXX executable clion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Linking CXX executable clion"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/clion.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -2989,6 +3171,13 @@ CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/结构体.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串压缩和解压缩.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/字符串哈希和查找.c.o.requires
 CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/结构体嵌套.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/20150505.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/结构体数组和指针.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/结构体大小和字节对齐.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/结构体数组副本机制.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/结构体的位域.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/共用体.c.o.requires
+CMakeFiles/clion.dir/requires: CMakeFiles/clion.dir/结构体数组管理数据.c.o.requires
 
 .PHONY : CMakeFiles/clion.dir/requires
 

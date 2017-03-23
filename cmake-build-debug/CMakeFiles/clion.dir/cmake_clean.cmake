@@ -107,6 +107,13 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/字符串压缩和解压缩.c.o"
   "CMakeFiles/clion.dir/字符串哈希和查找.c.o"
   "CMakeFiles/clion.dir/结构体嵌套.c.o"
+  "CMakeFiles/clion.dir/20150505.c.o"
+  "CMakeFiles/clion.dir/结构体数组和指针.c.o"
+  "CMakeFiles/clion.dir/结构体大小和字节对齐.c.o"
+  "CMakeFiles/clion.dir/结构体数组副本机制.c.o"
+  "CMakeFiles/clion.dir/结构体的位域.c.o"
+  "CMakeFiles/clion.dir/共用体.c.o"
+  "CMakeFiles/clion.dir/结构体数组管理数据.c.o"
   "clion.pdb"
   "clion"
 )

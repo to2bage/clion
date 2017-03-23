@@ -285,6 +285,33 @@ clion/fast:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150409.c.s
 .PHONY : 20150409.c.s
 
+20150505.o: 20150505.c.o
+
+.PHONY : 20150505.o
+
+# target to build an object file
+20150505.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150505.c.o
+.PHONY : 20150505.c.o
+
+20150505.i: 20150505.c.i
+
+.PHONY : 20150505.i
+
+# target to preprocess a source file
+20150505.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150505.c.i
+.PHONY : 20150505.c.i
+
+20150505.s: 20150505.c.s
+
+.PHONY : 20150505.s
+
+# target to generate assembly for a file
+20150505.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/20150505.c.s
+.PHONY : 20150505.c.s
+
 Linux输出中文宽字符.o: Linux输出中文宽字符.c.o
 
 .PHONY : Linux输出中文宽字符.o
@@ -1040,6 +1067,33 @@ while.c.s:
 全排列.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/全排列.c.s
 .PHONY : 全排列.c.s
+
+共用体.o: 共用体.c.o
+
+.PHONY : 共用体.o
+
+# target to build an object file
+共用体.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/共用体.c.o
+.PHONY : 共用体.c.o
+
+共用体.i: 共用体.c.i
+
+.PHONY : 共用体.i
+
+# target to preprocess a source file
+共用体.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/共用体.c.i
+.PHONY : 共用体.c.i
+
+共用体.s: 共用体.c.s
+
+.PHONY : 共用体.s
+
+# target to generate assembly for a file
+共用体.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/共用体.c.s
+.PHONY : 共用体.c.s
 
 内存.o: 内存.c.o
 
@@ -2715,6 +2769,33 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体.c.s
 .PHONY : 结构体.c.s
 
+结构体大小和字节对齐.o: 结构体大小和字节对齐.c.o
+
+.PHONY : 结构体大小和字节对齐.o
+
+# target to build an object file
+结构体大小和字节对齐.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体大小和字节对齐.c.o
+.PHONY : 结构体大小和字节对齐.c.o
+
+结构体大小和字节对齐.i: 结构体大小和字节对齐.c.i
+
+.PHONY : 结构体大小和字节对齐.i
+
+# target to preprocess a source file
+结构体大小和字节对齐.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体大小和字节对齐.c.i
+.PHONY : 结构体大小和字节对齐.c.i
+
+结构体大小和字节对齐.s: 结构体大小和字节对齐.c.s
+
+.PHONY : 结构体大小和字节对齐.s
+
+# target to generate assembly for a file
+结构体大小和字节对齐.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体大小和字节对齐.c.s
+.PHONY : 结构体大小和字节对齐.c.s
+
 结构体嵌套.o: 结构体嵌套.c.o
 
 .PHONY : 结构体嵌套.o
@@ -2741,6 +2822,114 @@ while.c.s:
 结构体嵌套.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体嵌套.c.s
 .PHONY : 结构体嵌套.c.s
+
+结构体数组副本机制.o: 结构体数组副本机制.c.o
+
+.PHONY : 结构体数组副本机制.o
+
+# target to build an object file
+结构体数组副本机制.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体数组副本机制.c.o
+.PHONY : 结构体数组副本机制.c.o
+
+结构体数组副本机制.i: 结构体数组副本机制.c.i
+
+.PHONY : 结构体数组副本机制.i
+
+# target to preprocess a source file
+结构体数组副本机制.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体数组副本机制.c.i
+.PHONY : 结构体数组副本机制.c.i
+
+结构体数组副本机制.s: 结构体数组副本机制.c.s
+
+.PHONY : 结构体数组副本机制.s
+
+# target to generate assembly for a file
+结构体数组副本机制.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体数组副本机制.c.s
+.PHONY : 结构体数组副本机制.c.s
+
+结构体数组和指针.o: 结构体数组和指针.c.o
+
+.PHONY : 结构体数组和指针.o
+
+# target to build an object file
+结构体数组和指针.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体数组和指针.c.o
+.PHONY : 结构体数组和指针.c.o
+
+结构体数组和指针.i: 结构体数组和指针.c.i
+
+.PHONY : 结构体数组和指针.i
+
+# target to preprocess a source file
+结构体数组和指针.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体数组和指针.c.i
+.PHONY : 结构体数组和指针.c.i
+
+结构体数组和指针.s: 结构体数组和指针.c.s
+
+.PHONY : 结构体数组和指针.s
+
+# target to generate assembly for a file
+结构体数组和指针.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体数组和指针.c.s
+.PHONY : 结构体数组和指针.c.s
+
+结构体数组管理数据.o: 结构体数组管理数据.c.o
+
+.PHONY : 结构体数组管理数据.o
+
+# target to build an object file
+结构体数组管理数据.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体数组管理数据.c.o
+.PHONY : 结构体数组管理数据.c.o
+
+结构体数组管理数据.i: 结构体数组管理数据.c.i
+
+.PHONY : 结构体数组管理数据.i
+
+# target to preprocess a source file
+结构体数组管理数据.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体数组管理数据.c.i
+.PHONY : 结构体数组管理数据.c.i
+
+结构体数组管理数据.s: 结构体数组管理数据.c.s
+
+.PHONY : 结构体数组管理数据.s
+
+# target to generate assembly for a file
+结构体数组管理数据.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体数组管理数据.c.s
+.PHONY : 结构体数组管理数据.c.s
+
+结构体的位域.o: 结构体的位域.c.o
+
+.PHONY : 结构体的位域.o
+
+# target to build an object file
+结构体的位域.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体的位域.c.o
+.PHONY : 结构体的位域.c.o
+
+结构体的位域.i: 结构体的位域.c.i
+
+.PHONY : 结构体的位域.i
+
+# target to preprocess a source file
+结构体的位域.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体的位域.c.i
+.PHONY : 结构体的位域.c.i
+
+结构体的位域.s: 结构体的位域.c.s
+
+.PHONY : 结构体的位域.s
+
+# target to generate assembly for a file
+结构体的位域.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/结构体的位域.c.s
+.PHONY : 结构体的位域.c.s
 
 蛇和大数相乘.o: 蛇和大数相乘.c.o
 
@@ -3066,6 +3255,9 @@ help:
 	@echo "... 20150409.o"
 	@echo "... 20150409.i"
 	@echo "... 20150409.s"
+	@echo "... 20150505.o"
+	@echo "... 20150505.i"
+	@echo "... 20150505.s"
 	@echo "... Linux输出中文宽字符.o"
 	@echo "... Linux输出中文宽字符.i"
 	@echo "... Linux输出中文宽字符.s"
@@ -3150,6 +3342,9 @@ help:
 	@echo "... 全排列.o"
 	@echo "... 全排列.i"
 	@echo "... 全排列.s"
+	@echo "... 共用体.o"
+	@echo "... 共用体.i"
+	@echo "... 共用体.s"
 	@echo "... 内存.o"
 	@echo "... 内存.i"
 	@echo "... 内存.s"
@@ -3336,9 +3531,24 @@ help:
 	@echo "... 结构体.o"
 	@echo "... 结构体.i"
 	@echo "... 结构体.s"
+	@echo "... 结构体大小和字节对齐.o"
+	@echo "... 结构体大小和字节对齐.i"
+	@echo "... 结构体大小和字节对齐.s"
 	@echo "... 结构体嵌套.o"
 	@echo "... 结构体嵌套.i"
 	@echo "... 结构体嵌套.s"
+	@echo "... 结构体数组副本机制.o"
+	@echo "... 结构体数组副本机制.i"
+	@echo "... 结构体数组副本机制.s"
+	@echo "... 结构体数组和指针.o"
+	@echo "... 结构体数组和指针.i"
+	@echo "... 结构体数组和指针.s"
+	@echo "... 结构体数组管理数据.o"
+	@echo "... 结构体数组管理数据.i"
+	@echo "... 结构体数组管理数据.s"
+	@echo "... 结构体的位域.o"
+	@echo "... 结构体的位域.i"
+	@echo "... 结构体的位域.s"
 	@echo "... 蛇和大数相乘.o"
 	@echo "... 蛇和大数相乘.i"
 	@echo "... 蛇和大数相乘.s"

@@ -13,6 +13,8 @@ CMakeFiles/clion.dir/20150403.c.o: ../20150403.c
 
 CMakeFiles/clion.dir/20150409.c.o: ../20150409.c
 
+CMakeFiles/clion.dir/20150505.c.o: ../20150505.c
+
 CMakeFiles/clion.dir/Linux输出中文宽字符.c.o: ../Linux输出中文宽字符.c
 
 CMakeFiles/clion.dir/MyPrintf.c.o: ../MyPrintf.c
@@ -67,6 +69,8 @@ CMakeFiles/clion.dir/位运算.c.o: ../位运算.c
 CMakeFiles/clion.dir/全局变量.c.o: ../全局变量.c
 
 CMakeFiles/clion.dir/全排列.c.o: ../全排列.c
+
+CMakeFiles/clion.dir/共用体.c.o: ../共用体.c
 
 CMakeFiles/clion.dir/内存.c.o: ../内存.c
 
@@ -195,7 +199,17 @@ CMakeFiles/clion.dir/练习.c.o: ../练习.c
 
 CMakeFiles/clion.dir/结构体.c.o: ../结构体.c
 
+CMakeFiles/clion.dir/结构体大小和字节对齐.c.o: ../结构体大小和字节对齐.c
+
 CMakeFiles/clion.dir/结构体嵌套.c.o: ../结构体嵌套.c
+
+CMakeFiles/clion.dir/结构体数组副本机制.c.o: ../结构体数组副本机制.c
+
+CMakeFiles/clion.dir/结构体数组和指针.c.o: ../结构体数组和指针.c
+
+CMakeFiles/clion.dir/结构体数组管理数据.c.o: ../结构体数组管理数据.c
+
+CMakeFiles/clion.dir/结构体的位域.c.o: ../结构体的位域.c
 
 CMakeFiles/clion.dir/蛇和大数相乘.c.o: ../蛇和大数相乘.c
 
