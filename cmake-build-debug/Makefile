@@ -150,87 +150,6 @@ clion/fast:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/02.c.s
 .PHONY : 02.c.s
 
-03.o: 03.c.o
-
-.PHONY : 03.o
-
-# target to build an object file
-03.c.o:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/03.c.o
-.PHONY : 03.c.o
-
-03.i: 03.c.i
-
-.PHONY : 03.i
-
-# target to preprocess a source file
-03.c.i:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/03.c.i
-.PHONY : 03.c.i
-
-03.s: 03.c.s
-
-.PHONY : 03.s
-
-# target to generate assembly for a file
-03.c.s:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/03.c.s
-.PHONY : 03.c.s
-
-04.o: 04.c.o
-
-.PHONY : 04.o
-
-# target to build an object file
-04.c.o:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/04.c.o
-.PHONY : 04.c.o
-
-04.i: 04.c.i
-
-.PHONY : 04.i
-
-# target to preprocess a source file
-04.c.i:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/04.c.i
-.PHONY : 04.c.i
-
-04.s: 04.c.s
-
-.PHONY : 04.s
-
-# target to generate assembly for a file
-04.c.s:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/04.c.s
-.PHONY : 04.c.s
-
-05.o: 05.c.o
-
-.PHONY : 05.o
-
-# target to build an object file
-05.c.o:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/05.c.o
-.PHONY : 05.c.o
-
-05.i: 05.c.i
-
-.PHONY : 05.i
-
-# target to preprocess a source file
-05.c.i:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/05.c.i
-.PHONY : 05.c.i
-
-05.s: 05.c.s
-
-.PHONY : 05.s
-
-# target to generate assembly for a file
-05.c.s:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/05.c.s
-.PHONY : 05.c.s
-
 20150403.o: 20150403.c.o
 
 .PHONY : 20150403.o
@@ -528,6 +447,60 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+printf的格式化.o: printf的格式化.c.o
+
+.PHONY : printf的格式化.o
+
+# target to build an object file
+printf的格式化.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/printf的格式化.c.o
+.PHONY : printf的格式化.c.o
+
+printf的格式化.i: printf的格式化.c.i
+
+.PHONY : printf的格式化.i
+
+# target to preprocess a source file
+printf的格式化.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/printf的格式化.c.i
+.PHONY : printf的格式化.c.i
+
+printf的格式化.s: printf的格式化.c.s
+
+.PHONY : printf的格式化.s
+
+# target to generate assembly for a file
+printf的格式化.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/printf的格式化.c.s
+.PHONY : printf的格式化.c.s
+
+printf的格式化2.o: printf的格式化2.c.o
+
+.PHONY : printf的格式化2.o
+
+# target to build an object file
+printf的格式化2.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/printf的格式化2.c.o
+.PHONY : printf的格式化2.c.o
+
+printf的格式化2.i: printf的格式化2.c.i
+
+.PHONY : printf的格式化2.i
+
+# target to preprocess a source file
+printf的格式化2.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/printf的格式化2.c.i
+.PHONY : printf的格式化2.c.i
+
+printf的格式化2.s: printf的格式化2.c.s
+
+.PHONY : printf的格式化2.s
+
+# target to generate assembly for a file
+printf的格式化2.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/printf的格式化2.c.s
+.PHONY : printf的格式化2.c.s
+
 printscanf.o: printscanf.c.o
 
 .PHONY : printscanf.o
@@ -582,6 +555,33 @@ scanf正则表达式.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/scanf正则表达式.c.s
 .PHONY : scanf正则表达式.c.s
 
+scanf的格式化.o: scanf的格式化.c.o
+
+.PHONY : scanf的格式化.o
+
+# target to build an object file
+scanf的格式化.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/scanf的格式化.c.o
+.PHONY : scanf的格式化.c.o
+
+scanf的格式化.i: scanf的格式化.c.i
+
+.PHONY : scanf的格式化.i
+
+# target to preprocess a source file
+scanf的格式化.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/scanf的格式化.c.i
+.PHONY : scanf的格式化.c.i
+
+scanf的格式化.s: scanf的格式化.c.s
+
+.PHONY : scanf的格式化.s
+
+# target to generate assembly for a file
+scanf的格式化.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/scanf的格式化.c.s
+.PHONY : scanf的格式化.c.s
+
 sscanfsprintf.o: sscanfsprintf.c.o
 
 .PHONY : sscanfsprintf.o
@@ -608,6 +608,87 @@ sscanfsprintf.s: sscanfsprintf.c.s
 sscanfsprintf.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/sscanfsprintf.c.s
 .PHONY : sscanfsprintf.c.s
+
+store/MyArrStr.o: store/MyArrStr.c.o
+
+.PHONY : store/MyArrStr.o
+
+# target to build an object file
+store/MyArrStr.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/store/MyArrStr.c.o
+.PHONY : store/MyArrStr.c.o
+
+store/MyArrStr.i: store/MyArrStr.c.i
+
+.PHONY : store/MyArrStr.i
+
+# target to preprocess a source file
+store/MyArrStr.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/store/MyArrStr.c.i
+.PHONY : store/MyArrStr.c.i
+
+store/MyArrStr.s: store/MyArrStr.c.s
+
+.PHONY : store/MyArrStr.s
+
+# target to generate assembly for a file
+store/MyArrStr.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/store/MyArrStr.c.s
+.PHONY : store/MyArrStr.c.s
+
+store/MyArray.o: store/MyArray.c.o
+
+.PHONY : store/MyArray.o
+
+# target to build an object file
+store/MyArray.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/store/MyArray.c.o
+.PHONY : store/MyArray.c.o
+
+store/MyArray.i: store/MyArray.c.i
+
+.PHONY : store/MyArray.i
+
+# target to preprocess a source file
+store/MyArray.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/store/MyArray.c.i
+.PHONY : store/MyArray.c.i
+
+store/MyArray.s: store/MyArray.c.s
+
+.PHONY : store/MyArray.s
+
+# target to generate assembly for a file
+store/MyArray.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/store/MyArray.c.s
+.PHONY : store/MyArray.c.s
+
+store/MyString.o: store/MyString.c.o
+
+.PHONY : store/MyString.o
+
+# target to build an object file
+store/MyString.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/store/MyString.c.o
+.PHONY : store/MyString.c.o
+
+store/MyString.i: store/MyString.c.i
+
+.PHONY : store/MyString.i
+
+# target to preprocess a source file
+store/MyString.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/store/MyString.c.i
+.PHONY : store/MyString.c.i
+
+store/MyString.s: store/MyString.c.s
+
+.PHONY : store/MyString.s
+
+# target to generate assembly for a file
+store/MyString.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/store/MyString.c.s
+.PHONY : store/MyString.c.s
 
 strtok练习.o: strtok练习.c.o
 
@@ -1554,60 +1635,6 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/基本数据类型.c.s
 .PHONY : 基本数据类型.c.s
 
-堆排序.o: 堆排序.c.o
-
-.PHONY : 堆排序.o
-
-# target to build an object file
-堆排序.c.o:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序.c.o
-.PHONY : 堆排序.c.o
-
-堆排序.i: 堆排序.c.i
-
-.PHONY : 堆排序.i
-
-# target to preprocess a source file
-堆排序.c.i:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序.c.i
-.PHONY : 堆排序.c.i
-
-堆排序.s: 堆排序.c.s
-
-.PHONY : 堆排序.s
-
-# target to generate assembly for a file
-堆排序.c.s:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序.c.s
-.PHONY : 堆排序.c.s
-
-堆排序变异.o: 堆排序变异.c.o
-
-.PHONY : 堆排序变异.o
-
-# target to build an object file
-堆排序变异.c.o:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序变异.c.o
-.PHONY : 堆排序变异.c.o
-
-堆排序变异.i: 堆排序变异.c.i
-
-.PHONY : 堆排序变异.i
-
-# target to preprocess a source file
-堆排序变异.c.i:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序变异.c.i
-.PHONY : 堆排序变异.c.i
-
-堆排序变异.s: 堆排序变异.c.s
-
-.PHONY : 堆排序变异.s
-
-# target to generate assembly for a file
-堆排序变异.c.s:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/堆排序变异.c.s
-.PHONY : 堆排序变异.c.s
-
 字符串.o: 字符串.c.o
 
 .PHONY : 字符串.o
@@ -2040,60 +2067,6 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/循环总结.c.s
 .PHONY : 循环总结.c.s
 
-快速排序的指针实现.o: 快速排序的指针实现.c.o
-
-.PHONY : 快速排序的指针实现.o
-
-# target to build an object file
-快速排序的指针实现.c.o:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/快速排序的指针实现.c.o
-.PHONY : 快速排序的指针实现.c.o
-
-快速排序的指针实现.i: 快速排序的指针实现.c.i
-
-.PHONY : 快速排序的指针实现.i
-
-# target to preprocess a source file
-快速排序的指针实现.c.i:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/快速排序的指针实现.c.i
-.PHONY : 快速排序的指针实现.c.i
-
-快速排序的指针实现.s: 快速排序的指针实现.c.s
-
-.PHONY : 快速排序的指针实现.s
-
-# target to generate assembly for a file
-快速排序的指针实现.c.s:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/快速排序的指针实现.c.s
-.PHONY : 快速排序的指针实现.c.s
-
-快速排序的数组实现.o: 快速排序的数组实现.c.o
-
-.PHONY : 快速排序的数组实现.o
-
-# target to build an object file
-快速排序的数组实现.c.o:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/快速排序的数组实现.c.o
-.PHONY : 快速排序的数组实现.c.o
-
-快速排序的数组实现.i: 快速排序的数组实现.c.i
-
-.PHONY : 快速排序的数组实现.i
-
-# target to preprocess a source file
-快速排序的数组实现.c.i:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/快速排序的数组实现.c.i
-.PHONY : 快速排序的数组实现.c.i
-
-快速排序的数组实现.s: 快速排序的数组实现.c.s
-
-.PHONY : 快速排序的数组实现.s
-
-# target to generate assembly for a file
-快速排序的数组实现.c.s:
-	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/快速排序的数组实现.c.s
-.PHONY : 快速排序的数组实现.c.s
-
 指针.o: 指针.c.o
 
 .PHONY : 指针.o
@@ -2229,6 +2202,141 @@ while.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/指针的算术运算.c.s
 .PHONY : 指针的算术运算.c.s
 
+排序之堆排序.o: 排序之堆排序.c.o
+
+.PHONY : 排序之堆排序.o
+
+# target to build an object file
+排序之堆排序.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之堆排序.c.o
+.PHONY : 排序之堆排序.c.o
+
+排序之堆排序.i: 排序之堆排序.c.i
+
+.PHONY : 排序之堆排序.i
+
+# target to preprocess a source file
+排序之堆排序.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之堆排序.c.i
+.PHONY : 排序之堆排序.c.i
+
+排序之堆排序.s: 排序之堆排序.c.s
+
+.PHONY : 排序之堆排序.s
+
+# target to generate assembly for a file
+排序之堆排序.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之堆排序.c.s
+.PHONY : 排序之堆排序.c.s
+
+排序之堆排序变异.o: 排序之堆排序变异.c.o
+
+.PHONY : 排序之堆排序变异.o
+
+# target to build an object file
+排序之堆排序变异.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之堆排序变异.c.o
+.PHONY : 排序之堆排序变异.c.o
+
+排序之堆排序变异.i: 排序之堆排序变异.c.i
+
+.PHONY : 排序之堆排序变异.i
+
+# target to preprocess a source file
+排序之堆排序变异.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之堆排序变异.c.i
+.PHONY : 排序之堆排序变异.c.i
+
+排序之堆排序变异.s: 排序之堆排序变异.c.s
+
+.PHONY : 排序之堆排序变异.s
+
+# target to generate assembly for a file
+排序之堆排序变异.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之堆排序变异.c.s
+.PHONY : 排序之堆排序变异.c.s
+
+排序之堆排序的完美实现.o: 排序之堆排序的完美实现.c.o
+
+.PHONY : 排序之堆排序的完美实现.o
+
+# target to build an object file
+排序之堆排序的完美实现.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之堆排序的完美实现.c.o
+.PHONY : 排序之堆排序的完美实现.c.o
+
+排序之堆排序的完美实现.i: 排序之堆排序的完美实现.c.i
+
+.PHONY : 排序之堆排序的完美实现.i
+
+# target to preprocess a source file
+排序之堆排序的完美实现.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之堆排序的完美实现.c.i
+.PHONY : 排序之堆排序的完美实现.c.i
+
+排序之堆排序的完美实现.s: 排序之堆排序的完美实现.c.s
+
+.PHONY : 排序之堆排序的完美实现.s
+
+# target to generate assembly for a file
+排序之堆排序的完美实现.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之堆排序的完美实现.c.s
+.PHONY : 排序之堆排序的完美实现.c.s
+
+排序之快速排序的指针实现.o: 排序之快速排序的指针实现.c.o
+
+.PHONY : 排序之快速排序的指针实现.o
+
+# target to build an object file
+排序之快速排序的指针实现.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之快速排序的指针实现.c.o
+.PHONY : 排序之快速排序的指针实现.c.o
+
+排序之快速排序的指针实现.i: 排序之快速排序的指针实现.c.i
+
+.PHONY : 排序之快速排序的指针实现.i
+
+# target to preprocess a source file
+排序之快速排序的指针实现.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之快速排序的指针实现.c.i
+.PHONY : 排序之快速排序的指针实现.c.i
+
+排序之快速排序的指针实现.s: 排序之快速排序的指针实现.c.s
+
+.PHONY : 排序之快速排序的指针实现.s
+
+# target to generate assembly for a file
+排序之快速排序的指针实现.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之快速排序的指针实现.c.s
+.PHONY : 排序之快速排序的指针实现.c.s
+
+排序之快速排序的数组实现.o: 排序之快速排序的数组实现.c.o
+
+.PHONY : 排序之快速排序的数组实现.o
+
+# target to build an object file
+排序之快速排序的数组实现.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之快速排序的数组实现.c.o
+.PHONY : 排序之快速排序的数组实现.c.o
+
+排序之快速排序的数组实现.i: 排序之快速排序的数组实现.c.i
+
+.PHONY : 排序之快速排序的数组实现.i
+
+# target to preprocess a source file
+排序之快速排序的数组实现.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之快速排序的数组实现.c.i
+.PHONY : 排序之快速排序的数组实现.c.i
+
+排序之快速排序的数组实现.s: 排序之快速排序的数组实现.c.s
+
+.PHONY : 排序之快速排序的数组实现.s
+
+# target to generate assembly for a file
+排序之快速排序的数组实现.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/排序之快速排序的数组实现.c.s
+.PHONY : 排序之快速排序的数组实现.c.s
+
 数组.o: 数组.c.o
 
 .PHONY : 数组.o
@@ -2255,6 +2363,33 @@ while.c.s:
 数组.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组.c.s
 .PHONY : 数组.c.s
+
+数组库.o: 数组库.c.o
+
+.PHONY : 数组库.o
+
+# target to build an object file
+数组库.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组库.c.o
+.PHONY : 数组库.c.o
+
+数组库.i: 数组库.c.i
+
+.PHONY : 数组库.i
+
+# target to preprocess a source file
+数组库.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组库.c.i
+.PHONY : 数组库.c.i
+
+数组库.s: 数组库.c.s
+
+.PHONY : 数组库.s
+
+# target to generate assembly for a file
+数组库.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/数组库.c.s
+.PHONY : 数组库.c.s
 
 数组的三种形式.o: 数组的三种形式.c.o
 
@@ -3240,15 +3375,6 @@ help:
 	@echo "... 02.o"
 	@echo "... 02.i"
 	@echo "... 02.s"
-	@echo "... 03.o"
-	@echo "... 03.i"
-	@echo "... 03.s"
-	@echo "... 04.o"
-	@echo "... 04.i"
-	@echo "... 04.s"
-	@echo "... 05.o"
-	@echo "... 05.i"
-	@echo "... 05.s"
 	@echo "... 20150403.o"
 	@echo "... 20150403.i"
 	@echo "... 20150403.s"
@@ -3282,15 +3408,33 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... printf的格式化.o"
+	@echo "... printf的格式化.i"
+	@echo "... printf的格式化.s"
+	@echo "... printf的格式化2.o"
+	@echo "... printf的格式化2.i"
+	@echo "... printf的格式化2.s"
 	@echo "... printscanf.o"
 	@echo "... printscanf.i"
 	@echo "... printscanf.s"
 	@echo "... scanf正则表达式.o"
 	@echo "... scanf正则表达式.i"
 	@echo "... scanf正则表达式.s"
+	@echo "... scanf的格式化.o"
+	@echo "... scanf的格式化.i"
+	@echo "... scanf的格式化.s"
 	@echo "... sscanfsprintf.o"
 	@echo "... sscanfsprintf.i"
 	@echo "... sscanfsprintf.s"
+	@echo "... store/MyArrStr.o"
+	@echo "... store/MyArrStr.i"
+	@echo "... store/MyArrStr.s"
+	@echo "... store/MyArray.o"
+	@echo "... store/MyArray.i"
+	@echo "... store/MyArray.s"
+	@echo "... store/MyString.o"
+	@echo "... store/MyString.i"
+	@echo "... store/MyString.s"
 	@echo "... strtok练习.o"
 	@echo "... strtok练习.i"
 	@echo "... strtok练习.s"
@@ -3396,12 +3540,6 @@ help:
 	@echo "... 基本数据类型.o"
 	@echo "... 基本数据类型.i"
 	@echo "... 基本数据类型.s"
-	@echo "... 堆排序.o"
-	@echo "... 堆排序.i"
-	@echo "... 堆排序.s"
-	@echo "... 堆排序变异.o"
-	@echo "... 堆排序变异.i"
-	@echo "... 堆排序变异.s"
 	@echo "... 字符串.o"
 	@echo "... 字符串.i"
 	@echo "... 字符串.s"
@@ -3450,12 +3588,6 @@ help:
 	@echo "... 循环总结.o"
 	@echo "... 循环总结.i"
 	@echo "... 循环总结.s"
-	@echo "... 快速排序的指针实现.o"
-	@echo "... 快速排序的指针实现.i"
-	@echo "... 快速排序的指针实现.s"
-	@echo "... 快速排序的数组实现.o"
-	@echo "... 快速排序的数组实现.i"
-	@echo "... 快速排序的数组实现.s"
 	@echo "... 指针.o"
 	@echo "... 指针.i"
 	@echo "... 指针.s"
@@ -3471,9 +3603,27 @@ help:
 	@echo "... 指针的算术运算.o"
 	@echo "... 指针的算术运算.i"
 	@echo "... 指针的算术运算.s"
+	@echo "... 排序之堆排序.o"
+	@echo "... 排序之堆排序.i"
+	@echo "... 排序之堆排序.s"
+	@echo "... 排序之堆排序变异.o"
+	@echo "... 排序之堆排序变异.i"
+	@echo "... 排序之堆排序变异.s"
+	@echo "... 排序之堆排序的完美实现.o"
+	@echo "... 排序之堆排序的完美实现.i"
+	@echo "... 排序之堆排序的完美实现.s"
+	@echo "... 排序之快速排序的指针实现.o"
+	@echo "... 排序之快速排序的指针实现.i"
+	@echo "... 排序之快速排序的指针实现.s"
+	@echo "... 排序之快速排序的数组实现.o"
+	@echo "... 排序之快速排序的数组实现.i"
+	@echo "... 排序之快速排序的数组实现.s"
 	@echo "... 数组.o"
 	@echo "... 数组.i"
 	@echo "... 数组.s"
+	@echo "... 数组库.o"
+	@echo "... 数组库.i"
+	@echo "... 数组库.s"
 	@echo "... 数组的三种形式.o"
 	@echo "... 数组的三种形式.i"
 	@echo "... 数组的三种形式.s"

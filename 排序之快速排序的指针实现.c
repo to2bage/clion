@@ -37,7 +37,7 @@ static int *getArcher(int *parr, int* pstart, int *pend)
         }
     }
 
-    //交换pstart和pright
+    //交换pstart和pright pright始终指向小于archer的值
     int temp = *pstart;
     *pstart = *pright;
     *pright = temp;

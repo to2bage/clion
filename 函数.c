@@ -4,11 +4,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int getmax(int a, int b)
+static int getmax(int a, int b)
 {
     return a > b ? a : b;
 }
-int show(int a, int b)
+static int show(int a, int b)
 {
 //    printf("a = %d, b = %d\n", a, b);
     return a + b;

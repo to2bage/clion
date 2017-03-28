@@ -13,7 +13,7 @@ struct MyStruct
     char str[20];
 }*p, x[10], z;
 
-int main结构体数组(int argc, char *argv[])
+int main结构体数组和指针(int argc, char *argv[])
 {
     {
         //结构体数组的定义

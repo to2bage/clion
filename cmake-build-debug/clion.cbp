@@ -83,15 +83,6 @@
 		<Unit filename="/Users/apple/Desktop/clion/02.c">
 			<Option target="clion"/>
 		</Unit>
-		<Unit filename="/Users/apple/Desktop/clion/03.c">
-			<Option target="clion"/>
-		</Unit>
-		<Unit filename="/Users/apple/Desktop/clion/04.c">
-			<Option target="clion"/>
-		</Unit>
-		<Unit filename="/Users/apple/Desktop/clion/05.c">
-			<Option target="clion"/>
-		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/20150403.c">
 			<Option target="clion"/>
 		</Unit>
@@ -131,13 +122,40 @@
 		<Unit filename="/Users/apple/Desktop/clion/myStack.h">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/printf的格式化.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/printf的格式化2.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/printscanf.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/scanf正则表达式.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/scanf的格式化.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/sscanfsprintf.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/store/MyArrStr.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/store/MyArrStr.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/store/MyArray.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/store/MyArray.h">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/store/MyString.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/store/MyString.h">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/strtok练习.c">
@@ -245,12 +263,6 @@
 		<Unit filename="/Users/apple/Desktop/clion/基本数据类型.c">
 			<Option target="clion"/>
 		</Unit>
-		<Unit filename="/Users/apple/Desktop/clion/堆排序.c">
-			<Option target="clion"/>
-		</Unit>
-		<Unit filename="/Users/apple/Desktop/clion/堆排序变异.c">
-			<Option target="clion"/>
-		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/字符串.c">
 			<Option target="clion"/>
 		</Unit>
@@ -299,12 +311,6 @@
 		<Unit filename="/Users/apple/Desktop/clion/循环总结.c">
 			<Option target="clion"/>
 		</Unit>
-		<Unit filename="/Users/apple/Desktop/clion/快速排序的指针实现.c">
-			<Option target="clion"/>
-		</Unit>
-		<Unit filename="/Users/apple/Desktop/clion/快速排序的数组实现.c">
-			<Option target="clion"/>
-		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/指针.c">
 			<Option target="clion"/>
 		</Unit>
@@ -320,7 +326,25 @@
 		<Unit filename="/Users/apple/Desktop/clion/指针的算术运算.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/排序之堆排序.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/排序之堆排序变异.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/排序之堆排序的完美实现.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/排序之快速排序的指针实现.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/排序之快速排序的数组实现.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/数组.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/数组库.c">
 			<Option target="clion"/>
 		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/数组的三种形式.c">

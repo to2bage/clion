@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define N 5
+#define N 10
 
 static void show(int *parr, int size)
 {
@@ -53,7 +53,7 @@ static void heapSort(int *parr, int size)
     {
         //调用函数，把数组索引从i开始的数据,包括其子节点，子子节点都调整为大顶堆
         heapAdjust(parr, i, size);
-    }
+    }   //到此， 把元素中最大的元素放置在数组序号为1的位置
 
     //再将索引为1的元素和数组的最后一个元素互换， 因为是要从小到大的排序
     //此时，整个数组又不符合大顶堆的要求了，所用还要再次的调用函数heapAdjust
