@@ -119,6 +119,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/clion.dir/store/MyArrStr.c.o"
   "CMakeFiles/clion.dir/store/MyString.c.o"
   "CMakeFiles/clion.dir/排序之堆排序的完美实现.c.o"
+  "CMakeFiles/clion.dir/heap.c.o"
+  "CMakeFiles/clion.dir/heap1.c.o"
   "clion.pdb"
   "clion"
 )

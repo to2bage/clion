@@ -16,6 +16,8 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/apple/Desktop/clion/auto.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/auto.c.o"
   "/Users/apple/Desktop/clion/bool.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/bool.c.o"
   "/Users/apple/Desktop/clion/for.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/for.c.o"
+  "/Users/apple/Desktop/clion/heap.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/heap.c.o"
+  "/Users/apple/Desktop/clion/heap1.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/heap1.c.o"
   "/Users/apple/Desktop/clion/printf的格式化.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/printf的格式化.c.o"
   "/Users/apple/Desktop/clion/printf的格式化2.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/printf的格式化2.c.o"
   "/Users/apple/Desktop/clion/printscanf.c" "/Users/apple/Desktop/clion/cmake-build-debug/CMakeFiles/clion.dir/printscanf.c.o"

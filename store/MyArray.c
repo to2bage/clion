@@ -425,48 +425,41 @@ void quicksortArray(datatype *pstart, datatype *pend)
     }
 }
 
-void heapsortAjust(datatype *parr, int start, int size)
+void heapsortAjust(datatype *parr, int curIndex, int endIndex)
 {
-    int temp = parr[start];
-
-    for(int i = 2 * start + 1; i <= size; i = 2 * i + 1)
+    for(int i = 2 * curIndex + 1; i <= endIndex; i = 2 * i + 1)
     {
-        if(i <= size && parr[i] < parr[i + 1])
+        if(i < endIndex && parr[i] < parr[i + 1])
         {
             i++;
         }
 
-        if(parr[i] <= temp)
+        if(parr[i] > parr[curIndex])
         {
-            break;
+            datatype temp = parr[i];
+            parr[i] = parr[curIndex];
+            parr[curIndex] = temp;
+            //
+            curIndex = i;
         }
-
-        parr[start] = parr[i];
-        start = i;
     }
-
-    parr[start] = temp;
 }
-void heapsortArray(MyArray *parr)
+void heapsortArray(datatype *parr, int endIndex)
 {
-    for(int i = (parr->length - 2) / 2; i >= 0; i--)
+    for(int i = (endIndex - 1) / 2; i >= 0; i--)
     {
-        heapsortAjust(parr->pstart, i, parr->length);
+        heapsortAjust(parr, i, endIndex);
     }
 
-    for(int i = parr->length; i >= 0; i--)
+    for(int i = endIndex; i >= 0; i--)
     {
-        {
-            //交换顶部元素和最后一个元素
-            datatype temp = parr->pstart[0];
-            parr->pstart[0] = parr->pstart[i - 1];
-            parr->pstart[i - 1] = temp;
-        }
+        //
+        datatype temp = parr[0];
+        parr[0] = parr[i];
+        parr[i] = temp;
 
-        {
-            //再次调整
-            heapsortAjust(parr->pstart, 0, parr->length - 1);
-        }
+        //
+        heapsortAjust(parr, 0, i - 1);
     }
 }
 

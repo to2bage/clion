@@ -116,6 +116,12 @@
 		<Unit filename="/Users/apple/Desktop/clion/for.c">
 			<Option target="clion"/>
 		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/heap.c">
+			<Option target="clion"/>
+		</Unit>
+		<Unit filename="/Users/apple/Desktop/clion/heap1.c">
+			<Option target="clion"/>
+		</Unit>
 		<Unit filename="/Users/apple/Desktop/clion/main.cpp">
 			<Option target="clion"/>
 		</Unit>

@@ -24,6 +24,10 @@ CMakeFiles/clion.dir/bool.c.o: ../bool.c
 
 CMakeFiles/clion.dir/for.c.o: ../for.c
 
+CMakeFiles/clion.dir/heap.c.o: ../heap.c
+
+CMakeFiles/clion.dir/heap1.c.o: ../heap1.c
+
 CMakeFiles/clion.dir/printf的格式化.c.o: ../printf的格式化.c
 
 CMakeFiles/clion.dir/printf的格式化2.c.o: ../printf的格式化2.c

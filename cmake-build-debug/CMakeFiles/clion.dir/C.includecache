@@ -84,6 +84,26 @@ stdbool.h
 stdio.h
 -
 
+/Users/apple/Desktop/clion/heap.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+memory.h
+-
+
+/Users/apple/Desktop/clion/heap1.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+memory.h
+-
+
 /Users/apple/Desktop/clion/myStack.h
 stdbool.h
 -

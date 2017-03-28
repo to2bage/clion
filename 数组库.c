@@ -7,7 +7,7 @@
 #include <time.h>
 
 
-int main数组库(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
     {
         //int double char
@@ -61,7 +61,8 @@ int main数组库(int argc, char *argv[])
         //bublesortArray(&mydata);
         //insertsortArray(&mydata);
         //quicksortArray(mydata.pstart, mydata.pstart + mydata.length - 1);
-        heapsortArray(&mydata);
+        heapsortArray(mydata.pstart, mydata.length - 1);
+
         showMyArray(&mydata);
 
     }

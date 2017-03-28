@@ -61,8 +61,8 @@ void bublesortArray(MyArray *parr);
 void insertsortArray(MyArray *parr);
 datatype *getArchor(datatype *pstart, datatype *pend);
 void quicksortArray(datatype *pstart, datatype *pend);
-void heapsortAjust(datatype *parr, int start, int size);
-void heapsortArray(MyArray *parr);
+void heapsortAjust(datatype *parr, int curIndex, int endIndex);
+void heapsortArray(datatype *parr, int endIndex);
 
 
 #endif //CLION_MYARRAY_H

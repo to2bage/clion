@@ -420,6 +420,60 @@ for.c.s:
 	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/for.c.s
 .PHONY : for.c.s
 
+heap.o: heap.c.o
+
+.PHONY : heap.o
+
+# target to build an object file
+heap.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/heap.c.o
+.PHONY : heap.c.o
+
+heap.i: heap.c.i
+
+.PHONY : heap.i
+
+# target to preprocess a source file
+heap.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/heap.c.i
+.PHONY : heap.c.i
+
+heap.s: heap.c.s
+
+.PHONY : heap.s
+
+# target to generate assembly for a file
+heap.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/heap.c.s
+.PHONY : heap.c.s
+
+heap1.o: heap1.c.o
+
+.PHONY : heap1.o
+
+# target to build an object file
+heap1.c.o:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/heap1.c.o
+.PHONY : heap1.c.o
+
+heap1.i: heap1.c.i
+
+.PHONY : heap1.i
+
+# target to preprocess a source file
+heap1.c.i:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/heap1.c.i
+.PHONY : heap1.c.i
+
+heap1.s: heap1.c.s
+
+.PHONY : heap1.s
+
+# target to generate assembly for a file
+heap1.c.s:
+	$(MAKE) -f CMakeFiles/clion.dir/build.make CMakeFiles/clion.dir/heap1.c.s
+.PHONY : heap1.c.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -3405,6 +3459,12 @@ help:
 	@echo "... for.o"
 	@echo "... for.i"
 	@echo "... for.s"
+	@echo "... heap.o"
+	@echo "... heap.i"
+	@echo "... heap.s"
+	@echo "... heap1.o"
+	@echo "... heap1.i"
+	@echo "... heap1.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
